@@ -219,12 +219,18 @@ Giovanny Arbelaez:
 Brunelle Marche:
   name: Brunelle Marche
   email: 'brunelle.marche@univ-lorraine.fr'
-  bio: " "
-  avatar: "/assets/images/people/Woman.jpg"
+  bio: "Researcher"
+  avatar: "/assets/images/people/Brunelle-Marche.jpg"
   links:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
-      url: "" 
+      url: "https://scholar.google.fr/citations?user=O7nk8f0AAAAJ&hl=fr&oi=ao" 
+    - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Brunelle_Marche"
+    - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/brunelle-marche-66a93b58/"      
 
 
 
