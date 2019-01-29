@@ -13,15 +13,16 @@ toc_label: "Year"
 ---
 
 ## Current Thesis projects # {#current-thesis}
-	
-- Convolte Aline. **Sujet de thèse : Contribution à la caractérisation des éxigences utilisateur dans les processus d'innovation urbaine. Application à la préconception d'un système de mobilité facilitant l'adoption des modes actifs.** 
-Directeur de la Thèse : Claudine Guidat. Codirection Anne Vuillemin (Apemac, EA4360). Cofinancement Chaire REVES et ADEME.
 
-- Serna Rodas Juliana. **Sujet de thèse : Approche méthodologique pour la conception durable des produits chimiques structurés durant les premières étapes du cycle de conception.**
-Directeur de la thèse : Vincent Boly, Codirecteurs : Véronique Falk (LRGP), Paulo César Narvaez Rincon (Co-tutelle Universidad Nacional de Colombia- Bogota).
+- Maxence ARNOULD, **Sujet de thèse: Conception et évaluation de systèmes d'innovation pour mieux mobiliser les bois en petite propriété forestière privée**
+Laboratoire : ERPI et UMR SILVA (INRA / AgroParisTech /Université de Lorraine)
+Directeur de la Thèse : Laure Morel (UL-ERPI). 
+Co-directrice : Meriem FOURNIER (Directrice AgroParisTech Nancy)
 
-- Arrieta Escobar Javier Andrés, **Sujet de thèse :Méthodologie intégrée pour la conception des produits cosmétiques : émulsions pour le soin de la peau contenant des ingrédients naturels.**
-Directeur de la thèse : Mauricio Camargo, Codirecteurs : Laure Morel, Alvaro Orjuela (Co-tutelle Universidad Nacional de Colombia- Bogota)
+
+- Lorena DELGADO, **Sujet de thèse: Impact des espaces d’innovation dans la dynamique de matérialisation des objets de conception dans le cadre de projets innovants** 
+Directeur de la Thèse : Laure Morel (UL-ERPI). 
+Codirection  Alaa Hassan (UL-ERPI), Pedro Palomino   (MdC-USACH)  
 
 - Lacroix Jonathan. **Sujet de la thèse : Conception d'une ingénierie intégrée de pilotage de l'innovation urbaine en mode Fab Living Lab® : application à l'Opération d'intérêt National Alzette Belval.** 
 Directrice de la thèse : Claudine Guidat, Codirecteur : Grégory Hamez.
@@ -52,7 +53,7 @@ Directeur de la thèse : Laure Morel, Co-directeur : Stéphane Négny.
 - Kone Florence. **Thèse CRAN** 
 Directeur : Eric Levrat, Co-Directeur Eric Bonjour
 
-- Moya Carlos. **Sujet de thèse: Capacité à innover et collaborer entre des services achat et fouisseurs PME.** Financement de la thèse : Chaire PEAK. Directeur de thèse : Vincent Boly, Co-direction :
+- Moya Carlos. **Sujet de thèse: Capacité à innover et collaborer entre des services achat et fouisseurs PME.** Financement de la thèse : Chaire PEAK. Directeur de thèse : Vincent Boly
 
 
 --- 
