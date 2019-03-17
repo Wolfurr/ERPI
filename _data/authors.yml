@@ -1,4 +1,3 @@
-
 Laure Morel:
   name: "Laure Morel"
   email: " "
@@ -233,12 +232,56 @@ Brunelle Marche:
         url: "https://www.linkedin.com/in/brunelle-marche-66a93b58/"      
 
 
+Elnaz:
+  name: Elnaz Asadollahi-Yazdi
+  email: 'elnaz.asadollahiyazdi@univ-lorraine.fr'
+  bio: "ATER"
+  avatar: "/assets/images/people/ .jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.fr/citations?user=O7nk8f0AAAAJ&hl=fr&oi=ao" 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Elnaz_Asadollahiyazdi"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/brunelle-marche-66a93b58/"      
 
 
 
+Ferney Osorio:
+  name: Ferney Osorio
+  email: 'ferney.osorio-bustamante@univ-lorraine.fr'
+  bio: "PhD"
+  avatar: "/assets/images/people/ .jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.fr/citations?user=uMjJC5cAAAAJ&hl=fr&authuser=1" 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Ferney_Osorio"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/ferneyob/"   
 
 
-
+Juan David:
+  name: Juan David
+  email: ' '
+  bio: ' '
+  avatar: "/assets/images/people/ .jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.fr/citations?user=O7nk8f0AAAAJ&hl=fr&oi=ao" 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Elnaz_Asadollahiyazdi"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/brunelle-marche-66a93b58/"   
 
 
 
