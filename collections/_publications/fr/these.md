@@ -14,6 +14,8 @@ toc_label: "Année"
 
 ## Thèse en cours  {#current-thesis}
 
+- Moya Carlos. **Sujet de thèse: Capacité à innover et collaborer entre des services achat et fouisseurs PME.** Financement de la thèse : Chaire PEAK. Directeurs de thèse : Laure MOREL - Vincent BOLY.
+
 - Maxence ARNOULD, **Sujet de thèse: Conception et évaluation de systèmes d'innovation pour mieux mobiliser les bois en petite propriété forestière privée**
 Laboratoire : ERPI et UMR SILVA (INRA / AgroParisTech /Université de Lorraine)
 Directeur de la Thèse : Laure Morel (UL-ERPI). 
@@ -51,7 +53,6 @@ Directeur de la thèse : Laure Morel, Co-directeur : Stéphane Négny.
 - Kone Florence. **Thèse CRAN** 
 Directeur : Eric Levrat, Co-Directeur Eric Bonjour
 
-- Moya Carlos. **Sujet de thèse: Capacité à innover et collaborer entre des services achat et fouisseurs PME.** Financement de la thèse : Chaire PEAK. Directeur de thèse : Vincent Boly
 
 
 
