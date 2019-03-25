@@ -1,7 +1,7 @@
 ---
 title: Fabio Cruz
 permalink: /people/Fabio-Cruz/
-excerpt: "Ingenieure de Recherche"
+excerpt: "Research Associate"
 last_modified_at: 2018-11-21
 author: Fabio Cruz
 header:

@@ -18,12 +18,26 @@ header:
   cta_label: "Lire plus"
   cta_url: "http://erpi.univ-lorraine.fr/fr/about"
 
-gallery:
-  - url: http://lf2l.fr/
-    image_path: /assets/images/partners/LF2L-Vertical.jpg
-    alt: "Lorraine Fab Living Lab"
-    title: "Lorraine Fab Living Lab"
 
+academic:
+  - url: "https://www.ensgsi.univ-lorraine.fr/"
+    image_path: "/assets/images/partners/ENSGSI.jpg"
+    alt: "ENSGSI"
+    title: "ENSGSI"
+
+  - url: "http://doctorat.univ-lorraine.fr/fr/les-ecoles-doctorales/simppe/presentation"
+    image_path: /assets/images/partners/logo-simppe.jpg
+    alt: "L’ED SIMPPÉ"
+    title: "L’ED SIMPPÉ"
+
+  - url: "http://doctorat.univ-lorraine.fr/fr/les-ecoles-doctorales/simppe/presentation"
+    image_path: /assets/images/partners/EMPP.jpg
+    alt: "Pole EMPP"
+    title: "Pole EMPP"  
+   
+
+gallery:
+  
   - url: https://rrien.univ-littoral.fr/
     image_path: /assets/images/partners/RNI.jpg
     alt: "placeholder image 2"
@@ -33,6 +47,12 @@ gallery:
     image_path: /assets/images/partners/ICEEL.jpg
     alt: "Institute Carnot ICEEL"
     title: "Institute Carnot ICEEL"
+
+  - url: "https://enoll.org/"
+    image_path: "/assets/images/partners/ENOLL.svg"
+    alt: "Eurpean Networks of Living labs"
+    title: "Eurpean Networks of Living labs"
+
 ---
 
 
@@ -45,9 +65,20 @@ L’ERPI est un laboratoire de **Génie Industriel** spécialisé dans l’étud
 
 Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d’innovation technologique** c’est-à-dire les phases allant de l’émergence des idées jusqu’aux phases préalables à la matérialisation (plans numériques ou formulation). La spécificité des approches de l'ERPI par rapport au paysage international de la recherche en innovation est de considérer le produit comme un système intégrant : les caractéristiques du produit lui-même ainsi que les éléments descriptifs de l’activité industrielle correspondante (fabrication, maintenance, distribution…).
 
-## Partenaires
+
+
+## Partenaires académique
+
+
+{% include gallery id="academic" %}
+
+
+
+## Réseaux Nationaux et Internationaux
 
 {% include gallery %}
+
+
 
 
 

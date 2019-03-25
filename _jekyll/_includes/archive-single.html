@@ -12,8 +12,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      
+    {% if include.type == "grid" and teaser %}     
       <div class="archive__item-teaser {{ include.teaser_class }}">
         <a href="{{ post.url | relative_url }}" rel="permalink">
           <img src=
@@ -25,8 +24,6 @@
             alt="">
         </a>
       </div>
-
-
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}

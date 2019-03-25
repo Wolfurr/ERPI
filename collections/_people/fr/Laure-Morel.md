@@ -1,7 +1,7 @@
 ---
 title: Laure MOREL
 permalink: /fr/people/Laure-Morel/
-excerpt: "Directrice / Professeur des Universités"
+excerpt: "Professeur des Universités"
 last_modified_at: 2018-09-19
 author: Laure Morel
 header:

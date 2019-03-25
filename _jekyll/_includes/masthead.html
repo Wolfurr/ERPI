@@ -8,7 +8,9 @@
               {% capture lang %}{{ page.lang }}/{% endcapture %}
             {% endif %}
         <a class="site-title" href="{{ '/' | relative_url }}{{ lang }}">
-          <img src="/assets/images/logo-ERPI.svg" title="Logo ERPI" alt="Logo ERPI"></a>
+          
+          <img src="{{ site.baseurl }}/assets/images/logo-ERPI.svg" title="Logo ERPI" alt="Logo ERPI"></a>
+        
         <ul class="visible-links">
           {% capture  nav_file %}navigation_{{ page.lang }}{% endcapture %}
           {% assign navigation = site.data[nav_file] %}

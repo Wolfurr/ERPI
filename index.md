@@ -18,12 +18,27 @@ header:
 intro: 
   - excerpt: '**Equipe de Recherche sur les Processus Innovatifs**'
 
-gallery:
-  - url: http://lf2l.fr/
-    image_path: /assets/images/partners/LF2L-Vertical.jpg
-    alt: "Lorraine Fab Living Lab"
-    title: "Lorraine Fab Living Lab"
 
+
+academic:
+  - url: "https://www.ensgsi.univ-lorraine.fr/"
+    image_path: "/assets/images/partners/ENSGSI.jpg"
+    alt: "ENSGSI"
+    title: "ENSGSI"
+
+  - url: "http://doctorat.univ-lorraine.fr/fr/les-ecoles-doctorales/simppe/presentation"
+    image_path: /assets/images/partners/logo-simppe.jpg
+    alt: "L’ED SIMPPÉ"
+    title: "L’ED SIMPPÉ"
+
+  - url: "http://doctorat.univ-lorraine.fr/fr/les-ecoles-doctorales/simppe/presentation"
+    image_path: /assets/images/partners/EMPP.jpg
+    alt: "Pole EMPP"
+    title: "Pole EMPP"  
+   
+
+gallery:
+  
   - url: https://rrien.univ-littoral.fr/
     image_path: /assets/images/partners/RNI.jpg
     alt: "placeholder image 2"
@@ -34,7 +49,12 @@ gallery:
     alt: "Institute Carnot ICEEL"
     title: "Institute Carnot ICEEL"
 
-   
+  - url: "https://enoll.org/"
+    image_path: "/assets/images/partners/ENOLL.svg"
+    alt: "Eurpean Networks of Living labs"
+    title: "Eurpean Networks of Living labs"
+
+
 ---
 
 
@@ -50,9 +70,25 @@ ERPI is a research team on Industrial Engineering specialized on the research of
 The scientific project of the ERPI deals with the Fuzzy Front End off innovation that is to say from idea generation to materialization (CAD, formulation ...). ERPI differs to other innovation research laboratories by considering the product as a "integrating system".   
 
 
-## Partners
+
+
+## Academic partners
+
+
+{% include gallery id="academic" %}
+
+
+
+## Networks
 
 {% include gallery %}
+
+
+
+
+
+
+
 
 
 ## Latest News
