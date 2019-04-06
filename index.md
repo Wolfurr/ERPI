@@ -1,10 +1,11 @@
 ---
+lang: en
 title: "ERPI"
 layout: single
 permalink: /
 sidebar:
   nav: ""
-lang: en
+
 
 excerpt: "Equipe de Recherche sur les Processus Innovatifs"
 header:

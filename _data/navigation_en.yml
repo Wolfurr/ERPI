@@ -56,3 +56,22 @@ projects:
 
       - title: "La Fabrique"
         url: /projects/fabrique-nancy/ 
+
+
+summer-school:
+  - title: "Summer School 2019"
+    url: "/summer-school/"
+    children:            
+      - title: "Courses"
+        url: /summer-school/courses/
+
+      - title: "Team"
+        url: /summer-school/team/
+
+      - title: "Place"
+        url: /summer-school/place/
+
+      - title: "Practical Information"
+        url: /summer-school/practical-info/
+
+

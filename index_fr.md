@@ -1,10 +1,8 @@
 ---
+lang: fr
 title: "ERPI"
 layout: single
 permalink: /fr/
-locale: fr-FR
-lang: fr
-
 
 sidebar:
   nav: ""
