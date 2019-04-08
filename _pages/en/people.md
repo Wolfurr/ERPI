@@ -28,7 +28,6 @@ last_modified_at: 2019-04-08
 
 ## Professors
 
-Professor at ERPI 
 
 
 <div class="entries-{{ page.entries_layout }}">
@@ -41,7 +40,7 @@ Professor at ERPI
 %}
 </div>
 
-<div style="width: 100%; clear: both; margin-top: 5px; margin-bottom: 5px"></div>
+<div style="width: 100%; clear: both; "></div>
 
 
 ## Assistant Professors
@@ -58,7 +57,7 @@ Professor at ERPI
 %}
 </div>
 
-<div style="width: 100%; clear: both; margin-top: 5px; margin-bottom: 5px"></div>
+<div style="width: 100%; clear: both;"></div>
 
 
 ## Teaching and Research Assistants / Post Docs 
@@ -80,7 +79,6 @@ Professor at ERPI
 
 ## PhD Students
 
-
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html  
     collection=page.collection  
@@ -90,5 +88,20 @@ Professor at ERPI
     role="PHD" 
 %}
 </div>
+
+<div style="width: 100%; clear: both;"></div>
+
+
+## Administrative and Technical Staff
+
+<div class="entries-{{ page.entries_layout }}">
+{% include documents-collection.html  
+    collection=page.collection  
+    type=page.entries_layout 
+    teaser_class=page.teaser_class   
+    sort_by = 'orden' 
+    role="Admin" 
+%}
+
 
 

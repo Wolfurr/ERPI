@@ -24,6 +24,8 @@
   {% assign entries = entries | where: "role", 'IR'  %} 
 {% elsif include.role == 'PHD' %}  
   {% assign entries = entries | where: "role", 'PHD'  %}   
+{% elsif include.role == 'Admin' %}  
+  {% assign entries = entries | where: "role", 'Admin'  %}     
 {% endif %}
 
 {% if include.sort_by == "orden" %}

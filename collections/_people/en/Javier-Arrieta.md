@@ -1,6 +1,6 @@
 ---
 title: Javier Arrieta-Escobar
-permalink: /people/Vincent-Boly/
+permalink: /people/Javier-Arrieta/
 excerpt: "Product Design - Formulation - Innovation"
 last_modified_at: 2018-09-19
 author: Javier Arrieta
