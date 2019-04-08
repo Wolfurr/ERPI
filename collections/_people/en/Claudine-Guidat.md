@@ -1,14 +1,16 @@
 ---
 title: Claudine Guidat
 permalink: /people/Claudine-Guidat/
-excerpt: Professor
+excerpt: ""
 last_modified_at: 2018-09-19
 author: Claudine Guidat
 header:
   teaser: /assets/images/people/Claudine-Guidat.jpg
 
-orden: E
+orden: Guidat
 role: Prof
+test: 1
+
 ---
 
 Claudine Guidat

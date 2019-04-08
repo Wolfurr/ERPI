@@ -1,14 +1,14 @@
 ---
 title: Davy Monticolo
 permalink: /people/Davy-Monticolo/
-excerpt: "Assistant Professor"
+excerpt: "Digital Innovation - Artificial Intelligence - Knowledge Engineering"
 last_modified_at: 2018-09-19
 author: Davy Monticolo
 header:
   teaser: /assets/images/people/David-Monticolo.jpg
 
-orden: F
-role: Prof
+orden: Monticolo
+role: MCF
 
 ---
 

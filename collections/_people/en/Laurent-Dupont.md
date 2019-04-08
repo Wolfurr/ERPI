@@ -1,15 +1,15 @@
 ---
 title: Laurent Dupont
 permalink: /people/Laurent-Dupont/
-excerpt: "Co-fondateur et Responsable Scientifique du LF2L Ingénieur de Recherche ERPI / ENSGSI"
+excerpt: "Collaborative Engineering / Innovation - Innovation Space - Fab Living Lab - Sustainable / Smart Cities - Immersive Collaborative Environnement"
 last_modified_at: 2018-09-19
 
 author: Laurent Dupont
 header:
   teaser: /assets/images/people/LD.jpg
 
-orden: M
-role: IG
+orden: Dupont
+role: IR
 
 ---
 

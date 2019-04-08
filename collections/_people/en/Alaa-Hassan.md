@@ -1,14 +1,14 @@
 ---
 title: Alaa Hassan
 permalink: /people/Alaa-Hassan/
-excerpt: "Associate Professor"
+excerpt: " "
 
 author: Alaa Hassan
 
 header:
   teaser: "/assets/images/people/Alaa-Hasan.jpg"
 
-orden: H
+orden: Hassan
 role: MCF
 last_modified_at: 2018-11-21
 ---

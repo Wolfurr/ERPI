@@ -1,14 +1,14 @@
 ---
 title: Fabio Cruz
 permalink: /people/Fabio-Cruz/
-excerpt: "Research Associate"
+excerpt: "Circular Economy - 3D Printing"
 last_modified_at: 2018-11-21
 author: Fabio Cruz
 header:
   teaser: /assets/images/people/Fabio.jpg
 
-orden: P
-role: IG
+orden: Cruz
+role: IR
 ---
 
 

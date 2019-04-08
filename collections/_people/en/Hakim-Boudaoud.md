@@ -1,14 +1,14 @@
 ---
 title: Hakim Boudaoud
 permalink: /people/Hakim-Boudaoud/
-excerpt: "Assistant Professor"
-last_modified_at: 2018-09-19
+excerpt: " "
+last_modified_at: 2019-04-08
 author: Hakim Boudaoud
 header:
   teaser: /assets/images/people/Hakim-Boudaoud.jpg
 
 
-orden: G
+orden: Boudaoud
 role: MCF
 
 

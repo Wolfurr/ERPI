@@ -16,6 +16,22 @@
 {% endif %}
 
 
+{% if include.role == 'Prof' %}  
+  {% assign entries = entries | where: "role", 'Prof'  %} 
+{% elsif include.role == 'MCF' %}  
+  {% assign entries = entries | where: "role", 'MCF'  %}   
+{% elsif include.role == 'IR' %}  
+  {% assign entries = entries | where: "role", 'IR'  %} 
+{% elsif include.role == 'PHD' %}  
+  {% assign entries = entries | where: "role", 'PHD'  %}   
+{% endif %}
+
+{% if include.sort_by == "orden" %}
+  {% assign entries = entries | sort: 'orden' %}
+{% endif %}
+
+
+
 
 {%- for post in entries -%}
   {% include archive-single.html %}

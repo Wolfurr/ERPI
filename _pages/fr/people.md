@@ -2,7 +2,7 @@
 lang: fr
 layout: collection
 title: "People"
-permalink: /people/
+permalink: /fr/people/
 
 collection: people
 entries_layout: grid

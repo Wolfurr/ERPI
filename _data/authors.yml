@@ -160,15 +160,25 @@ Manon Enjolras:
 
 
 
-Sandra Bautista:
-  name: Sandra Bautista
-  email: ' '
+Pascal Lhoste:
+  name: "Pascal L'hoste"
   bio: " "
-  avatar: "/assets/images/people/Woman.jpg"  
-  links:
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.fr/citations?user=pakR30QAAAAJ&hl=fr&oi=ao"  
+  avatar: "/assets/images/people/PL.jpg"
+
+
+
+Valerie Rault:
+  name: "Valérie Rault"
+  bio: " "
+  avatar: "/assets/images/people/Woman.jpg"
+
+
+Marie Reine Boudarel:
+  name: "Marie Reine Boudarel"
+  bio: " "
+  avatar: "/assets/images/people/MRB.jpeg"
+
+
 
 
 Fabio Cruz:
@@ -231,12 +241,29 @@ Brunelle Marche:
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/brunelle-marche-66a93b58/"      
 
+Javier Arrieta:
+  name: Javier Arrieta-Escobar
+  email: ' '
+  bio: 'Postdoctoral Researcher'
+  avatar: "/assets/images/people/Javier-Arrieta.jpg.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.fr/citations?user=rL-jx-kAAAAJ&hl=fr" 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Javier_Arrieta-Escobar"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/javier-arrieta-escobar-phd-59871722/?locale=en_US"   
+
+
 
 Elnaz:
   name: Elnaz Asadollahi-Yazdi
   email: 'elnaz.asadollahiyazdi@univ-lorraine.fr'
   bio: "ATER"
-  avatar: "/assets/images/people/ .jpg"
+  avatar: "/assets/images/people/Elnaz.jpeg"
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
@@ -249,12 +276,29 @@ Elnaz:
         url: "https://www.linkedin.com/in/brunelle-marche-66a93b58/"      
 
 
+Fatima:
+  name: Fatima Ezzahra HAMDANI
+  email: ''
+  bio: "ATER"
+  avatar: "/assets/images/people/Woman.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " " 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: " "      
+
+
 
 Ferney Osorio:
   name: Ferney Osorio
   email: 'ferney.osorio-bustamante@univ-lorraine.fr'
   bio: "PhD"
-  avatar: "/assets/images/people/ .jpg"
+  avatar: "/assets/images/people/PHD/Ferney-Osorio.jpg"
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
@@ -284,6 +328,204 @@ Juan David:
         url: "https://www.linkedin.com/in/brunelle-marche-66a93b58/"   
 
 
+Alice:
+  name: Alice de Bigault de Casanove
+  email: ' '
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Alice.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " " 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: " "   
+
+
+Carlos Moya:
+  name: Carlos Moya
+  email: ' '
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Alice.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " " 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: " "   
+
+
+
+Felipe Sanchez:
+  name: Felipe Sanchez
+  email: ' '
+  bio: "PhD"
+  avatar: "/assets/images/people/Man.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " " 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: " "   
+
+
+
+
+Giang:
+  name: Thi Hoang Giang TRAN
+  email: ' '
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Giang.jpeg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " " 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: " "   
+
+
+
+
+
+Jonathan Lacroix:
+  name: Jonathan Lacroix
+  email: ' '
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Jonathan-Lacroix.jpeg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " " 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: " "   
+
+
+Juan Fonseca:
+  name: Juan Fonseca
+  email: ' '
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Juan-Fonseca.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " " 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: " "   
+
+
+Linda Acosta:
+  name: Linda Acosta
+  email: ' '
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Linda-Acosta.jpeg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " " 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: " "   
+
+
+
+Lorena Delgado:
+  name: Lorena Delgado
+  email: ' '
+  bio: "PhD"
+  avatar: "/assets/images/people/Woman.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " " 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: " "   
+
+
+
+
+Maxence Arnould:
+  name: Maxence Arnould
+  email: ' '
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Maxence-Arnould.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " " 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: " "   
+
+
+
+
+Pavlo Santander:
+  name: Pavlo Santander
+  email: ' '
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Pavlo-Santander.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " " 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: " "   
+
+
+
+
+Pedro Barrios:
+  name: Pedro Barrios
+  email: ' '
+  bio: "PhD"
+  avatar: "/assets/images/people/Man"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " " 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: " "   
 
 
 
@@ -291,6 +533,25 @@ Juan David:
 
 
 
+
+
+
+
+
+
+
+
+
+
+# Sandra Bautista:
+#   name: Sandra Bautista
+#   email: ' '
+#   bio: " "
+#   avatar: "/assets/images/people/Woman.jpg"  
+#   links:
+#     - label: "Google Scholar"
+#       icon: "ai ai-google-scholar-square"
+#       url: "https://scholar.google.fr/citations?user=pakR30QAAAAJ&hl=fr&oi=ao"  
 
 
 

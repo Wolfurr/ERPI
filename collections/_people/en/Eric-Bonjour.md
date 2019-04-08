@@ -1,13 +1,13 @@
 ---
 title: Eric Bonjour
 permalink: /people/Eric-Bonjour/
-excerpt: "Full professor"
+excerpt: ""
 
 author: Eric Bonjour
 header:
   teaser: /assets/images/people/Eric-Bonjour.jpg
 
-orden: C
+orden: Bonjour
 role: Prof
 last_modified_at: 2018-11-21
 ---
