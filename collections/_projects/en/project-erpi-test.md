@@ -13,7 +13,6 @@ header:
   teaser: ''
   header: ''
 undefined: ''
-published: false
 
 ---
 # Hello world
