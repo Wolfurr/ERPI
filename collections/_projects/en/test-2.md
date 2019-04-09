@@ -7,7 +7,6 @@ header:
   teaser: "/assets/images/projects/noremat/ENSGSI.jpg"
   overlay_image: ''
 undefined: ''
-published: false
 
 ---
 # Hello world
