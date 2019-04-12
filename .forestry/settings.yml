@@ -40,8 +40,8 @@ sections:
   new_doc_ext: md
 - type: directory
   path: collections/_publications/en
-  label: English - publications
-  create: all
+  label: Publications (EN)
+  create: none
   match: "**/*"
   new_doc_ext: md
 - type: jekyll-pages
