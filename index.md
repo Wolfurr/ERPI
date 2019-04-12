@@ -116,4 +116,4 @@ alt="">
 
 <a href="{{ site.url }}/news/" class="btn btn--primary">Lire tous les actualités</a>{: .notice--info}
 
-<p><a href="{{ site.url }}/news/" class="btn btn--primary">{{ site.data.ui-text\[page.lang\].more_label | default: "Read more" }}</a></p>
+<p><a href="{{ site.url }}/news/" class="btn btn--primary">{{ site.data.ui-text[page.lang].more_label | default: "Read more" }}</a></p>
