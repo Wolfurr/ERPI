@@ -7,19 +7,9 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: permalink
-  label: Permalink
-  type: text
-  hidden: false
-  default: ''
 - name: excerpt
   label: Excerpt
   type: text
-  hidden: false
-  default: ''
-- name: date
-  label: Date
-  type: datetime
   hidden: false
   default: ''
 - name: header
@@ -39,5 +29,13 @@ fields:
     default: ''
   hidden: false
   default: ''
+- name: last_modified_at
+  label: Date of last modification
+  type: datetime
+  hidden: false
+  default: ''
+  config:
+    required: true
 pages:
+- collections/_projects/en/test-de-proyecto.md
 - collections/_projects/en/test-2.md
