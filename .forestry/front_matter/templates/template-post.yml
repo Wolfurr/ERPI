@@ -22,5 +22,4 @@ fields:
     schema:
       format: markdown
 pages:
-- collections/_posts/en/blblal.:year:-:month:-:day:-:filename:.md
-- collections/_posts/fr/test-of-post.md
+- _posts/probando-nueva-conf.20190411151321

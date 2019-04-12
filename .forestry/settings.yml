@@ -4,12 +4,6 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
-- type: jekyll-posts
-  label: Posts ERPI
-  create: documents
-  new_doc_ext: '20190411151321'
-  templates:
-  - template-post
 - type: directory
   path: collections/_people/fr
   label: French - people
@@ -35,18 +29,8 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: jekyll-posts
-  path: collections/_posts/fr
-  label: French - posts
-  create: documents
-  match: "**/*"
-  new_doc_ext: '20190411151321'
-  templates:
-  - template-post
-- type: jekyll-posts
-  path: collections/_posts/en
   label: English - post
   create: documents
-  match: "**/*"
   new_doc_ext: '20190411151321'
   templates:
   - template-post
