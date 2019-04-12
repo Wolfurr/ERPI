@@ -41,6 +41,8 @@ sections:
   create: documents
   match: "**/*"
   new_doc_ext: md
+- type: heading
+  label: Publications
 - type: directory
   path: collections/_publications/fr
   label: Publications (FR)
