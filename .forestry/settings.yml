@@ -23,36 +23,40 @@ sections:
 - type: directory
   path: collections/_posts/fr
   label: Posts (FR)
-  create: all
-  match: "**/*"
-- type: heading
-  label: People ERPI
-- type: directory
-  path: collections/_people/fr
-  label: People (FR)
   create: documents
   match: "**/*"
-  new_doc_ext: md
+  templates:
+  - template-post
+- type: heading
+  label: People ERPI
 - type: directory
   path: collections/_people/en
   label: People (EN)
   create: documents
   match: "**/*"
   new_doc_ext: md
-- type: heading
-  label: Projects
 - type: directory
-  path: collections/_projects/fr
-  label: Projects (FR)
+  path: collections/_people/fr
+  label: Equipe (FR)
   create: documents
   match: "**/*"
   new_doc_ext: md
+- type: heading
+  label: Projects
 - type: directory
   path: collections/_projects/en
   label: Projects (EN)
   create: documents
   match: "**/*"
   new_doc_ext: md
+- type: directory
+  path: collections/_projects/fr
+  label: Projets (FR)
+  create: documents
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - lorraine-smart-city-living-lab-f4befa28-bdf1-4daa-a16a-977895ccc509
 - type: heading
   label: Publications
 - type: directory
