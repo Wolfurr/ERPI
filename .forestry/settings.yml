@@ -8,7 +8,7 @@ sections:
   label: Home
 - type: document
   path: index.md
-  label: Home (EN)
+  label: Page principal (EN)
   match: "**/*"
 - type: directory
   path: collection/_posts/en
