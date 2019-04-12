@@ -21,3 +21,5 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
+pages:
+- _posts/nose-a.md
