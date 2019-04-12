@@ -22,4 +22,5 @@ fields:
     schema:
       format: markdown
 pages:
+- collections/_posts/en/test-en-ingles.md
 - collections/_posts/fr/test-of-post.md
