@@ -22,4 +22,5 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/hola-como-estas.20190411151321
 - collections/_posts/fr/test-of-post.md
