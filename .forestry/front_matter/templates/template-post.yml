@@ -21,5 +21,3 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-pages:
-- _posts/probando-nueva-conf.20190411151321
