@@ -17,3 +17,5 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
+pages:
+- _posts/a-probar-con-el-conf.md
