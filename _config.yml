@@ -12,7 +12,7 @@
 
 #theme                    : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.15.2"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -24,7 +24,7 @@ description              : "Site of the ERPI Laboratory."
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 url                      : "https://lf2l.github.io"
 baseurl                  : "/ERPI" # the subpath of your site, e.g. "/blog"
-repository               : "" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "LF2L/ERPI" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -281,11 +281,13 @@ collections:
     output: true
     permalink: /:path    
   projects:
-    output: true
-    permalink: /:collection/:path/
+    output: true    
   people:
     output: true
     permalink: /:collection/:path/
+  summer-school:
+    output: true
+
 
 
 
@@ -304,8 +306,7 @@ defaults:
       comments: false
       share: false
       related: false
-      sidebar:
-        nav: ""
+      
   
   # _POST Folder
   - scope:
@@ -316,8 +317,7 @@ defaults:
       share: true
       read_time: true
       related: false
-      sidebar: 
-        nav: ""
+      
     # en
   - scope:
       path: "_posts/en"
@@ -342,18 +342,26 @@ defaults:
       path: "_pages/en"
     values:
       lang: en
+      layout: single
+      header:
+        overlay_filter: 0.3
+        show_overlay_excerpt: true 
     # de
   - scope:
       path: "_pages/fr"
     values:
       lang: fr
+      layout: single
+      header:
+        overlay_filter: 0.3
+        show_overlay_excerpt: true 
 
 
 
   # _publications
   - scope:
       type: publications
-    values:
+    values:      
       sidebar:
         nav: ""      
     #en
@@ -369,6 +377,8 @@ defaults:
       path: "_publications/fr"
     values:
       lang: fr          
+      sidebar:
+        nav: "publications"    
 
 
   # _projects
@@ -376,6 +386,9 @@ defaults:
       type: projects
     values:
       layout: single
+      header:
+        overlay_filter: 0.4
+        show_overlay_excerpt: true 
       sidebar:
         nav: ""      
     #en
@@ -383,6 +396,7 @@ defaults:
       path: "_projects/en"
     values:
       lang: en
+      permalink: /:collection/:title/
       sidebar:
         nav: "projects"        
     #fr
@@ -390,8 +404,9 @@ defaults:
       path: "_projects/fr"
     values:
       lang: fr
+      permalink: /fr/:collection/:title/
       sidebar:
-        nav: ""        
+        nav: "projects"        
 
 
 # _people
@@ -412,6 +427,14 @@ defaults:
     values:
       lang: fr
 
+
+# _Summer Schook
+  - scope:
+      type: summer-school
+    values:
+      layout: single
+      sidebar:
+        nav: "summer-school"
 
 
 # It'd be nice to have "lang" set through wildcard, using * for directories:
