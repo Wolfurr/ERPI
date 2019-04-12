@@ -12,13 +12,6 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: last_modified_at
-  label: Date of last modification
-  type: datetime
-  hidden: false
-  default: ''
-  config:
-    required: true
 - name: header
   label: Header
   type: field_group
@@ -36,5 +29,12 @@ fields:
     default: ''
   hidden: false
   default: ''
+- name: last_modified_at
+  label: Date of last modification
+  type: datetime
+  hidden: false
+  default: ''
+  config:
+    required: true
 pages:
 - collections/_projects/en/test-2.md
