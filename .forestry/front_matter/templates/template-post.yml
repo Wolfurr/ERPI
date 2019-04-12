@@ -8,11 +8,6 @@ fields:
   label: Title of the Post
   config:
     required: true
-- type: datetime
-  name: date
-  label: date
-  config:
-    required: true
 - type: textarea
   name: excerpt
   label: Excerpt
