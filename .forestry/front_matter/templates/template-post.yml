@@ -17,3 +17,5 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
+pages:
+- collections/_posts/en/otro-intento-mas.md
