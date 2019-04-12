@@ -1,4 +1,23 @@
 ---
 label: Template POST
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title of the Post
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+  config:
+    required: true
+- type: textarea
+  name: excerpt
+  label: Excerpt
+  description: Short description of the post
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
