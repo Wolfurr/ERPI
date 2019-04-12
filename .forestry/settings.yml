@@ -12,7 +12,6 @@ sections:
 - type: document
   path: index_fr.md
   label: Page Principal (FR)
-  match: "**/*"
 - type: directory
   path: collections/_posts/en
   label: Posts (EN)
