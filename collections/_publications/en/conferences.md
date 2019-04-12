@@ -1,11 +1,8 @@
 ---
 title: Conferences proceedings
 permalink: /publications/conferences/
-sidebar:
-  nav: "publications"
+classes: wide
 last_modified_at: 2018-09-10
-tags:
-- research
 ---
 
 <div class="content content-narrow">

@@ -1,13 +1,9 @@
 ---
 title: "Livres"
 permalink: /fr/publications/books/
-sidebar:
-  nav: "publications"
-last_modified_at: 2018-09-10
-
 toc: true
 toc_label: "Year"
-
+last_modified_at: 2018-09-10
 ---
 
 ## 2017

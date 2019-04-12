@@ -1,6 +1,5 @@
 ---
 lang: en
-layout: single
 title: "People"
 permalink: /people/
 
@@ -13,13 +12,7 @@ sort_by: orden
 excerpt: "About ERPI"
 header:
   overlay_image: /assets/images/about/erpi-travail.jpg
-  overlay_filter: 0.1
-  show_overlay_excerpt: true 
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
-
-sidebar:
-  nav: ""
-
 
 last_modified_at: 2019-04-08
 ---

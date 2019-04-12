@@ -1,15 +1,12 @@
 ---
 lang: en
-layout: single
 title: "Publications ERPI"
 permalink: /publications/
 excerpt: "Publications ERPI"
-
+classes: wide
 
 header:
-  overlay_image: /assets/images/publications/banner.jpg
-  overlay_filter: 0.3
-  show_overlay_excerpt: true 
+  overlay_image: /assets/images/publications/banner.jpg  
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
 sidebar:

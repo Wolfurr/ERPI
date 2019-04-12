@@ -2,16 +2,11 @@
 title: "Contactez nous"
 permalink: /fr/contact/
 excerpt: "information"
-date: 2018-09-10
 
 header:
-  overlay_image: /assets/images/contact/staticmap.png
-  overlay_filter: 0.6
-  show_overlay_excerpt: true 
+  overlay_image: /assets/images/contact/staticmap.png  
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
-
-sidebar:
-  nav: ""
+last_modified_at: 2019-04-08
 ---
 
 ## Horaire

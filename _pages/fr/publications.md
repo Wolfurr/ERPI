@@ -4,10 +4,10 @@ layout: single
 title: "Publications ERPI"
 permalink: /fr/publications/
 excerpt: "Publications scientifiques du Laboratoire ERPI"
+classes: wide
+
 header:
   overlay_image: /assets/images/publications/banner.jpg
-  overlay_filter: 0.3
-  show_overlay_excerpt: true 
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
 sidebar:

@@ -1,15 +1,9 @@
 ---
 title: Thesis
 permalink: /publications/thesis/
-sidebar:
-  nav: "publications"
 last_modified_at: 2018-09-10
-tags:
-- research
-
 toc: true
 toc_label: "Year"
-
 ---
 
 ## Current Thesis projects # {#current-thesis}
