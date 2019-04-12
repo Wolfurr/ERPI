@@ -22,7 +22,3 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-pages:
-- _posts/fdsfds.md
-- _posts/test-2-con-post.md
-- _posts/2019-04-12-nose-20.md
