@@ -18,20 +18,24 @@ sections:
   new_doc_ext: md
 - type: directory
   path: collections/_projects/fr
-  label: French - projects
-  create: all
+  label: Projects (FR)
+  create: documents
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - lorraine-smart-city-living-lab-f4befa28-bdf1-4daa-a16a-977895ccc509
 - type: directory
   path: collections/_projects/en
-  label: English - projects
-  create: all
+  label: Projects (EN)
+  create: documents
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - lorraine-smart-city-living-lab-f4befa28-bdf1-4daa-a16a-977895ccc509
 - type: directory
   path: collections/_publications/fr
-  label: French - publications
-  create: all
+  label: Publications (FR)
+  create: none
   match: "**/*"
   new_doc_ext: md
 - type: directory
