@@ -37,4 +37,5 @@ fields:
   config:
     required: true
 pages:
+- _posts/quipo-que-vamos.md
 - collections/_projects/en/test-de-proyecto.md
