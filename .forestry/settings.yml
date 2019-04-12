@@ -7,7 +7,6 @@ sections:
 - type: jekyll-posts
   label: Post ERPI
   create: documents
-  match: "**/*"
   templates:
   - template-post
 - type: directory
