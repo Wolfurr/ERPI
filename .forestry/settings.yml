@@ -7,8 +7,7 @@ sections:
 - type: jekyll-posts
   label: Posts ERPI
   create: documents
-  match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: '20190411151321'
   templates:
   - template-post
 - type: directory
