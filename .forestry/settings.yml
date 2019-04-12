@@ -4,9 +4,13 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
-- type: jekyll-posts
-  label: Post in the ERPI
+- type: directory
+  path: collection/_post/en
+  label: Posts (EN)
   create: all
+  match: "**/*"
+  templates:
+  - template-post
 - type: directory
   path: collections/_people/fr
   label: People (FR)

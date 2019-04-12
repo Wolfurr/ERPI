@@ -22,5 +22,3 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-pages:
-- _posts/fqdf.md
