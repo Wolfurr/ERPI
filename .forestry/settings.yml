@@ -59,14 +59,14 @@ sections:
 - type: heading
   label: Publications
 - type: directory
-  path: collections/_publications/fr
-  label: Publications (FR)
+  path: collections/_publications/en
+  label: Publications (EN)
   create: none
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: collections/_publications/en
-  label: Publications (EN)
+  path: collections/_publications/fr
+  label: Publications (FR)
   create: none
   match: "**/*"
   new_doc_ext: md
