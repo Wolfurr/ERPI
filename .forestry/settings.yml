@@ -7,8 +7,6 @@ sections:
 - type: jekyll-posts
   label: Post ERPI
   create: documents
-  templates:
-  - template-post
 - type: directory
   path: collections/_people/fr
   label: People (FR)
