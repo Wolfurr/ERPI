@@ -64,8 +64,6 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
-  templates:
-  - welcome
 - type: jekyll-pages
   label: Pages
   create: all
