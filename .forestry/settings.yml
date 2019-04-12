@@ -34,20 +34,20 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
-- type: directory
+- type: jekyll-posts
   path: collections/_posts/fr
   label: French - posts
-  create: all
+  create: documents
   match: "**/*"
-  new_doc_ext: md
+  new_doc_ext: '20190411151321'
   templates:
   - template-post
-- type: directory
+- type: jekyll-posts
   path: collections/_posts/en
   label: English - post
-  create: all
+  create: documents
   match: "**/*"
-  new_doc_ext: ":year:-:month:-:day:-:filename:.md"
+  new_doc_ext: '20190411151321'
   templates:
   - template-post
 - type: directory
