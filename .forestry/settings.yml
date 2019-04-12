@@ -80,8 +80,8 @@ sections:
 - type: document
   path: _pages/fr/contact.md
   label: Contactez-nous (FR)
-upload_dir: 'assets/uploads/:year:/:month:'
-public_path: "/assets/uploads"
+upload_dir: assets/uploads
+public_path: "/assets/uploads/:year:/:month:"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
