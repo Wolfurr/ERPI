@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
+- type: heading
+  label: 'Blog de l''ERPI '
 - type: directory
   path: collection/_posts/en
   label: Posts (EN)
