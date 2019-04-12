@@ -51,7 +51,7 @@ sections:
   label: English - post
   create: all
   match: "**/*"
-  new_doc_ext: md
+  new_doc_ext: ":year:-:month:-:day:-:filename:.md"
   templates:
   - template-post
 - type: directory
