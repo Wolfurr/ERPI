@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
+- type: heading
+  label: 'Blog de l''ERPI '
 - type: directory
   path: collection/_posts/en
   label: Posts (EN)
@@ -11,14 +13,14 @@ sections:
   match: "**/*"
   templates:
   - template-post
-- type: heading
-  label: 'Blog de l''ERPI '
 - type: directory
   path: collections/_people/fr
   label: People (FR)
   create: documents
   match: "**/*"
   new_doc_ext: md
+- type: heading
+  label: People ERPI
 - type: directory
   path: collections/_people/en
   label: People (EN)
