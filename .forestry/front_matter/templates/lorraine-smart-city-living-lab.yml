@@ -37,4 +37,5 @@ fields:
   config:
     required: true
 pages:
+- collections/_projects/en/test-de-proyecto.md
 - collections/_projects/en/test-2.md
