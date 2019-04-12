@@ -1,18 +1,9 @@
 ---
 title: Innovation on Health
-date: 2018-09-10
-permalink: /fr/projects/innovation-on-health/
-sidebar:
-  nav: "projects"
 excerpt: "Innovation on the health field"
 header:
   teaser: /assets/images/projects/inno-health/teaser.jpg
-
-
-tags:
-- engineering
-- 3D Printing
-categories: []
+last_modified_at: 2019-04-12
 ---
 
 ## L'innovation au service de la Santé et du Bien-Être !

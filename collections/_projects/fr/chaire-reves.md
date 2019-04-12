@@ -1,16 +1,8 @@
 ---
 title: REVES – Renaissance Ecologique des VillES
-date: 2018-09-10
-permalink: /fr/projects/reves/
-sidebar:
-  nav: "projects"
 excerpt: "Chaire partenarial autour de la transformation urbaine"
 header:
   teaser: /assets/images/projects/chaire-reves/teaser.jpg
-
-tags:
-- living lab
-
 ---
 
 ## Présentation

@@ -1,11 +1,6 @@
 ---
 title: 3D Soil Test
-date: 2018-09-10
-permalink: /fr/projects/3D-soil-test/
-sidebar:
-  nav: "projects"
 excerpt: "Soil organic matter degradation Additive Manufacturing, Participatory research"
-
 header:
   teaser: "/assets/images/projects/3D-soil-test/teaser.jpg"
 last_modified_at: 2018-11-21 

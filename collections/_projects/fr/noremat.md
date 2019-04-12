@@ -1,15 +1,9 @@
 ---
 title: GID- Route
-date: 2018-09-10
-permalink: "/fr/projects/gid-route/"
-img-path: "/assets/images/projects/noremat/"
-sidebar:
-  nav: "projects"
 excerpt: "La route durable, la route pour l'avenir"
 header:
   teaser: /assets/images/projects/noremat/teaser.png
   overlay_image: /assets/images/projects/noremat/header.png
-  overlay_filter: 0.3
 
 partners:
 - url: "http://www.noremat.com/"
@@ -19,7 +13,7 @@ partners:
 - url: "https://www.ensgsi.univ-lorraine.fr/"
   image_path: "/assets/images/projects/noremat/ENSGSI.jpg"  
   alt: "ENSGI Logo"  
-  
+img-path: "/assets/images/projects/noremat/"  
 last_modified_at: 2018-11-14  
 ---
 

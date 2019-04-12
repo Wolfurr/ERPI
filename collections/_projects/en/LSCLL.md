@@ -1,14 +1,11 @@
 ---
 title: Lorraine Smart City Living Lab
-date: 2018-02-25 
 permalink: /projects/lorraine-smart-city-living-lab/
-sidebar:
-  nav: "projects"
 excerpt: "Living lab Lorrain"
 header:
   teaser: /assets/images/projects/LSCLL/teaser.jpg
   header: /assets/images/projects/LSCLL/teaser.jpg
-
+last_modified_at: 2019-04-12
 ---
 
 ## The Lorraine Smart Cities Living Lab (LSCLL) of the University of Lorraine at the service of citizens and territories
