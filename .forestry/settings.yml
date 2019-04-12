@@ -48,6 +48,8 @@ sections:
   create: documents
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - lorraine-smart-city-living-lab-f4befa28-bdf1-4daa-a16a-977895ccc509
 - type: directory
   path: collections/_projects/fr
   label: Projets (FR)
