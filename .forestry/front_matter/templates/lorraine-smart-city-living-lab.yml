@@ -7,21 +7,18 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: permalink
-  label: Permalink
-  type: text
-  hidden: false
-  default: ''
 - name: excerpt
   label: Excerpt
   type: text
   hidden: false
   default: ''
-- name: date
-  label: Date
+- name: last_modified_at
+  label: Date of last modification
   type: datetime
   hidden: false
   default: ''
+  config:
+    required: true
 - name: header
   label: Header
   type: field_group
