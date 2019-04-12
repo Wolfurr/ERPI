@@ -21,3 +21,5 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
+pages:
+- collections/_posts/fr/test-of-post.md
