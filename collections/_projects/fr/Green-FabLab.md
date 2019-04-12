@@ -1,14 +1,9 @@
 ---
 title: Green Fablab
-date: 2018-09-10
-permalink: /fr/projects/green-fablab/
-sidebar:
-  nav: "projects"
 excerpt: "Économie circulaire et impression 3D: Paradigme d'une recyclage local et distribué"
 header:
   teaser: /assets/images/projects/green-fablab/teaser.jpg
-  overlay_image: /assets/images/projects/green-fablab/teaser-2.jpg
-  overlay_filter: 0.5
+  overlay_image: /assets/images/projects/green-fablab/teaser-2.jpg  
 last_modified_at: 2018-11-21
 ---
 
