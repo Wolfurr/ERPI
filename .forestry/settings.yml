@@ -4,11 +4,6 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
-- type: directory
-  path: collections/_posts/fr
-  label: Posts (FR)
-  create: all
-  match: "**/*"
 - type: heading
   label: Home
 - type: document
@@ -19,12 +14,17 @@ sections:
   label: Page Principal (FR)
   match: "**/*"
 - type: directory
-  path: collection/_posts/en
+  path: collections/_posts/en
   label: Posts (EN)
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - template-post
+- type: directory
+  path: collections/_posts/fr
+  label: Posts (FR)
+  create: all
+  match: "**/*"
 - type: heading
   label: People ERPI
 - type: directory
