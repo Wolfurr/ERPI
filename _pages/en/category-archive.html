@@ -5,7 +5,7 @@ permalink: /categories/
 collection: people
 ---
 
-{% include group-by-array.html collection=page.collection field='categories' %}
+{% include group-by-array.html collection= site.people field='categories' %}
 
 <ul class="taxonomy__index">
   {% for tag in group_names %}
