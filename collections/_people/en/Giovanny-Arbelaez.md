@@ -14,7 +14,6 @@ categories:
   - Fuzzy Front-End Innovation
   - Acceptability
 tags:
-  - acceptabilité
   - User-centred Design
   - Living Lab
   - User Experience (UX)
