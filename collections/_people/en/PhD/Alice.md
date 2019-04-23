@@ -9,5 +9,13 @@ header:
 
 orden: Casanove
 role: PHD
+
+categories:
+  - Innovation Metrology
+  - Fuzzy Front-End Innovation
+tags:
+  - Open Innovation
+  - Startup
+  - Large corporation  
 ---
 
