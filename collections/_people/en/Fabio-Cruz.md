@@ -9,6 +9,13 @@ header:
 
 orden: Cruz
 role: IR
+
+categories:
+  - Fuzzy Front-End Innovation
+tags:
+  - Circular Economy
+  - 3D Printing
+
 ---
 
 

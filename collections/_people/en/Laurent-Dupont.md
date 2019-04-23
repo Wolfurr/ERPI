@@ -11,6 +11,17 @@ header:
 orden: Dupont
 role: IR
 
+
+categories:
+  - Fuzzy Front-End Innovation
+tags:
+  - Collaborative innovation / engineering
+  - Innovation space
+  - Living Lab
+  - Fab Living lab
+  - Smart Cities
+  - Sustainable Cities
+  - Immersive Collaborative Environnement
 ---
 
 Laurent Dupont, Eng. PhD. co-founder and scientific manager of the Lorraine Fab Living Lab®, ERPI Laboratory, Université de Lorraine
