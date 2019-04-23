@@ -2,7 +2,6 @@
 title: Workshop GID Route (Gestion Innovante des dépendances routières) 
 date:   2018-11-14 06:00:00 -0600
 excerpt: "L’évaluation de l’impact de la gestion des dépendances routières sur le territoire c’est le thème du Workshop du 31 octobre dernier sur la plateforme [Lorraine Fab Living Lab® (LF2L)](http://lf2l.fr/). Les chercheurs du laboratoire ERPI de l‘Université de Lorraine et l’entreprise NOREMAT ont accueilli des représentants de diverses institutions et organisations telles que la Métropole du Grand–Nancy, la DIR-Est, le Cerema, Scalen, Eurovia, Agroparistech ainsi que plusieurs entrepreneurs du secteur. En conclusion de l’atelier, l’importance de la valorisation des bienfaits des différentes stratégies d’entretien est ressortie, ainsi que l’adaptation à cheque contexte local. Enfin, la sensibilisation et l’information des citoyens sur ces bienfaits est indispensable afin de faire évoluer les mentalités vers une gestion plus durable des dépendances routières."
-
 ---
 
 
