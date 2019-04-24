@@ -18,5 +18,5 @@ fields:
     schema:
       format: markdown
 pages:
-- collections/_posts/fr/post-en-frances.md
+- collections/_posts/fr/2019-04-24-post-en-frances.md
 - _posts/a-probar-con-el-conf.md
