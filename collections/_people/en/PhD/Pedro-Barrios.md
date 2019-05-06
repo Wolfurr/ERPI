@@ -7,7 +7,7 @@ author: Pedro Barrios
 header:
   teaser: /assets/images/people/Man.jpg
 
-orden: Pedro Barrios
+orden: Barrios
 role: PHD
 ---
 
