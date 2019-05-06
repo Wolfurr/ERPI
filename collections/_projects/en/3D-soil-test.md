@@ -4,6 +4,7 @@ excerpt: "Soil organic matter degradation Additive Manufacturing, Participatory 
 header:
   teaser: "/assets/images/projects/3D-soil-test/teaser.jpg"  
 last_modified_at: 2018-11-21  
+type-project: Fuzzy Front-End Innovation
 ---
 
 

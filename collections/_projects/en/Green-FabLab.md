@@ -5,6 +5,7 @@ header:
   teaser: /assets/images/projects/green-fablab/teaser.jpg
   overlay_image: /assets/images/projects/green-fablab/teaser-2.jpg  
 last_modified_at: 2018-11-21
+type-project: Fuzzy Front-End Innovation
 ---
 
 ## The creation of a local plastic recycling network for 3D printing will open up new opportunities for the circular economy and for a distributed recycling paradigm.
