@@ -7,7 +7,7 @@ author: Maxence Arnould
 header:
   teaser: /assets/images/people/PHD/Maxence-Arnould.jpg
 
-orden: Casanove
+orden: Arnould
 role: PHD
 ---
 
