@@ -6,9 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Home
-- type: jekyll-posts
-  label: Post TEST With Conf
-  create: all
 - type: document
   path: index.md
   label: Page principal (EN)
