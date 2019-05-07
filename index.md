@@ -65,6 +65,6 @@ The scientific project of the ERPI deals with the Fuzzy Front-End off innovation
 ## Latest News
 
 
-{% include ERPI/Post-EN.html %}
+{% include /ERPI/Posts-EN.html %}
 
 

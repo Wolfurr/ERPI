@@ -76,4 +76,4 @@ Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d�
 ## Actualités
 
 
-{% include ERPI/Post-FR.html %}
+{% include /ERPI/Posts-FR.html %}
