@@ -4,8 +4,6 @@ title: "ERPI"
 layout: single
 permalink: /fr/
 
-sidebar:
-  nav: ""
 
 excerpt: "Equipe de Recherche sur les Processus Innovatifs"
 header:
@@ -13,9 +11,7 @@ header:
   overlay_filter: 0.1
   show_overlay_excerpt: true 
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
-  cta_label: "Lire plus"
-  cta_url: "http://erpi.univ-lorraine.fr/fr/about"
-
+  
 
 academic:
   - url: "https://www.ensgsi.univ-lorraine.fr/"
@@ -35,13 +31,12 @@ academic:
    
 
 gallery:
-  
   - url: https://rrien.univ-littoral.fr/
     image_path: /assets/images/partners/RNI.jpg
     alt: "placeholder image 2"
     title: "Research Network on Innovation"
   
-  - url: http://www.iceel.eu/fr/accueil.html
+  - url: http://www.iceel.eu/
     image_path: /assets/images/partners/ICEEL.jpg
     alt: "Institute Carnot ICEEL"
     title: "Institute Carnot ICEEL"
@@ -78,71 +73,7 @@ Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d�
 
 
 
-
-
 ## Actualités
 
-{% assign posts = site.posts | where: "lang", "fr"  %}
-{% for post in posts offset: 0 limit: 3 %}
 
-
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
-
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | relative_url }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
-
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
-
-    {% if post.read_time %}
-    <p class="page__meta">{{ post.date  | date: "%B %-d, %Y" }} &emsp;| &emsp; <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 400 }}</p>
-    {% endif %}
-
-    <p><a href="{{ post.url | relative_url }}" class="align-right btn btn--primary">{{ site.data.ui-text[page.lang].more_label | default: "Read more" }}</a></p> 
-
-  </article>
-</div>
-{% endfor %}
-
---- 
-
-<a href="{{ site.url }}/fr/news/" class="btn btn--primary">Lire tous les actualités</a>{: .notice--info}
-
-
-
-
-
-
-
-
-
-
-
+{% include ERPI/Post-FR.html %}
