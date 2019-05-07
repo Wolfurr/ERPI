@@ -1,19 +1,12 @@
 ---
 lang: en
 title: ERPI
-layout: single
 permalink: "/"
-sidebar:
-  nav: ''
+
 excerpt: Equipe de Recherche sur les Processus Innovatifs
 header:
   overlay_image: "/assets/images/home/banner-ERPI.jpg"
-  overlay_filter: 0.1
-  show_overlay_excerpt: true
-  image_description: Equipe de Recherche sur les Processus Innovatifs
-  cta_label: More Info
-  cta_url: http://erpi.univ-lorraine.fr/about
-
+  
 
 academic:
 - url: https://www.ensgsi.univ-lorraine.fr/

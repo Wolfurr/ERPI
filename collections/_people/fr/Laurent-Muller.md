@@ -7,6 +7,6 @@ author: Laurent Muller
 header:
   teaser: "/assets/images/people/Laurent-Muller.jpg"
 orden: Muller
-role: Prof
+role: MCF
 
 ---

@@ -12,8 +12,8 @@ tags:
   - User eXperience
   - Living Lab
 
-orden: Q
-role: IG
+orden: Arbelaez
+role: IR
 ---
 
 (Evaluation de l'acceptabilité, aide à la décision)

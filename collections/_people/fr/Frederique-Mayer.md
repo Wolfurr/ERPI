@@ -7,7 +7,7 @@ author: Frederique Mayer
 header:
   teaser: /assets/images/people/Frederique-Mayer.jpg
 
-orden: J
+orden: Meyer
 role: MCF
 
 ---

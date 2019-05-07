@@ -47,7 +47,6 @@ The scientific project of the ERPI deals with the Fuzzy Front End off innovation
 ## Professors
 
 
-
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html 
     collection=page.collection 

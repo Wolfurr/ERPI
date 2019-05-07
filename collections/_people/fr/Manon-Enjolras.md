@@ -8,8 +8,8 @@ author: Manon Enjolras
 header:
   teaser: /assets/images/people/Manon-Enjolras.jpg
 
-orden: N
-role: IG
+orden: Enjolras
+role: IR
 
 ---
 

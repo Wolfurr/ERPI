@@ -7,8 +7,8 @@ author: Fabio Cruz
 header:
   teaser: /assets/images/people/Fabio.jpg
 
-orden: P
-role: IG
+orden: Cruz
+role: IR
 
 ---
 

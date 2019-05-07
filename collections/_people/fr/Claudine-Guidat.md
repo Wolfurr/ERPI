@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/Claudine-Guidat.jpg
 
 
-orden: E
+orden: Guidat
 role: Prof
 ---
 

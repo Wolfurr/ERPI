@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/Vincent-Boly.jpg
 
 
-orden: D
+orden: Boly
 role: Prof
 
 

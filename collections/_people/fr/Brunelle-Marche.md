@@ -5,10 +5,10 @@ excerpt: "ATER"
 last_modified_at: 2019-01-26
 author: Brunelle Marche
 header:
-  teaser: /assets/images/people/Woman.jpg
+  teaser: /assets/images/people/Brunelle-Marche.jpg
 
-orden: O
-role: IG
+orden: Marche
+role: IR
 ---
 
 Brunelle est ingénieure et docteure en Génie Industriel. Ses recherches portent sur la conception de filière et notamment sur l’importance d’une approche combinée prospective et optimisation multi-échelle dans la conception d’une filière pour répondre aux exigences de plus en plus complexe d’un nouveau produit. Son travail combine ingénierie de l’innovation et ingénierie système afin de proposer des outils facilitant la conception et la mise en oeuvre de filière.  Dans le cadre de sa recherche, elle a collaboré avec l’Université de Delft.

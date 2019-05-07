@@ -7,7 +7,7 @@ author: Hakim Boudaoud
 header:
   teaser: /assets/images/people/Hakim-Boudaoud.jpg
 
-orden: G
+orden: Boudaoud
 role: MCF
 ---
 

@@ -3,14 +3,10 @@ lang: fr
 title: "ERPI"
 layout: single
 permalink: /fr/
-
-
 excerpt: "Equipe de Recherche sur les Processus Innovatifs"
+
 header:
   overlay_image: /assets/images/home/banner-ERPI.jpg
-  overlay_filter: 0.1
-  show_overlay_excerpt: true 
-  image_description: "Equipe de Recherche sur les Processus Innovatifs"
   
 
 academic:

@@ -7,7 +7,7 @@ author: Olivier Chery
 header:
   teaser: /assets/images/people/Man.jpg
 
-orden: L
+orden: Chery
 role: MCF
 
 ---

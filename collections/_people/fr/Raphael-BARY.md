@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/Raphael-Bary.jpg
 
 
-orden: I
+orden: Bary
 role: MCF
 ---
 

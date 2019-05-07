@@ -8,7 +8,7 @@ author: Mauricio Camargo
 header:
   teaser: /assets/images/people/Mauricio-Camargo.jpg
 
-orden: B
+orden: Camargo
 role: Prof
 
 ---

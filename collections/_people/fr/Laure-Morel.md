@@ -7,7 +7,7 @@ author: Laure Morel
 header:
   teaser: /assets/images/people/LM.jpg
 
-orden: A
+orden: Morel
 role: Prof
 ---
 

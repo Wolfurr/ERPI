@@ -8,8 +8,8 @@ author: Laurent Dupont
 header:
   teaser: /assets/images/people/LD.jpg
 
-orden: M
-role: IG
+orden: Dupont
+role: IR
 
 ---
 
