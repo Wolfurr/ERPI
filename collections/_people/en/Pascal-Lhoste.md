@@ -1,18 +1,15 @@
 ---
-title: Pascal L'hoste
-permalink: /people/Pascal-Lhoste/
+title: Pascal Lhoste
+permalink: "/people/Pascal-Lhoste/"
 excerpt: " "
 author: Pascal Lhoste
-
 header:
   teaser: "/assets/images/people/PL.jpg"
-
 orden: Lhoste
 role: Prof
 last_modified_at: 2018-11-21
+
 ---
-
-
 Pascal LHOSTE is Professor at the University of Lorraine - National School of Systems Engineering and Innovation (ENSGSI) since 2004, a school he managed from 2009 to 2019. 
 His research activity deals with Contribution of Knowledge Modeling to Innovation Processes is developed at ERPI 
 (Research Team on Innovative Processes, EA n ° 3767), a laboratory he led from 2006 to 2010. He is also co- founder of the Lorraine Fab Living Lab® and the father of the first mobile FabLab in France, the NOMAD'LAB. 
