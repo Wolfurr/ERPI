@@ -18,7 +18,7 @@ academic:
   alt: L’ED SIMPPÉ
   title: L’ED SIMPPÉ
 - url: http://doctorat.univ-lorraine.fr/fr/les-ecoles-doctorales/simppe/presentation
-  image_path: "/assets/images/partners/EMPP.jpg"
+  image_path: "/assets/images/partners/EMPP.png"
   alt: Pole EMPP
   title: Pole EMPP
 
