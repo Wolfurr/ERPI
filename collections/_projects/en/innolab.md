@@ -1,6 +1,6 @@
 ---
-title: Innovation
-permalink: /projects/innolabs/
+title: "Innovation Labs"
+permalink: "/projects/innolabs/"
 excerpt: "Empowering open innovation labs"
 header:
   teaser: /assets/images/projects/innolabs/teaser.jpg
