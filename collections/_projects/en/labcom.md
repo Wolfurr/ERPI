@@ -1,22 +1,22 @@
 ---
 title: N-HUM-INNO Labcom
-permalink: "/projects/innolabs/"
+permalink: "/projects/labcom/"
 excerpt: Empowering open innovation labs
 header:
-  teaser: "/assets/images/projects/innolabs/teaser.jpg"
-  overlay_image: "/assets/images/projects/innolabs/header.png"
+  teaser: "/assets/images/projects/labcom/teaser.jpg"
+  overlay_image: "/assets/images/projects/labcom/header.png"
 last_modified_at: 2019-06-03
 partners:
-- image_path: "/assets/images/projects/innolabs/colciencias.png"
-  alt: CESI
+- image_path: "/assets/images/projects/labcom/TEASite.png"
+  alt: TEA
   title: ''
-  excerpt: "[Colciencias](https://www.colciencias.gov.co/)"
-- image_path: "/assets/images/projects/innolabs/UN.jpg"
-  alt: Unal
+  excerpt: "[TEA](https://teaergo.com/)"
+- image_path: "/assets/images/projects/labcom/LogoANR.png"
+  alt: ANR
   title: ''
-  excerpt: "[Universidad Nacional de Colombia](http://unal.edu.co/)"
+  excerpt: "[ANR](http://anr.fr/)"
 type-project: Fuzzy Front-End Innovation
-published: false
+published: true
 
 ---
 ## Why Innovation Labs?
