@@ -1,5 +1,5 @@
 ---
-title: Innovation Labs
+title: N-HUM-INNO Labcom
 permalink: "/projects/innolabs/"
 excerpt: Empowering open innovation labs
 header:
