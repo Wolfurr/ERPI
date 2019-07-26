@@ -24,18 +24,11 @@ published: true
 The LabCom is centered in the study of digitally supported human-to-human and human-machine interactions, with a vision of: technology at the service of mankind. 
 
 Digital technology is used to help and amplify people's decision-making and management skills in increasingly complex environments (increasing number of data to be processed, more frequent interactions between stakeholders, Virtual vs. Real interface, etc.). 
-- To further integrate Acceptability assessment indicators for digital product design
-
 
 ## Aims
 
-- to advance the current products and solutions developed by TEA in order to open up to new growth markets (industry 4.0, Neuro-Marketing, mart-city);
-- to strengthen the company's current positions on its expertise in ergonomic support technologies for the working environment. 
-- to strengthen ERPI scientific skills and knowledge on collaborative innovation processes in the digital industries. 
-- to develop shared demonstrators on specific market applications
-- to transfer collaborative innovation and user-centered innovation practices
+The aim of this research program is to develop and further integrate Acceptability assessment indicators using psychophysiological sensors (developed by TEA) on the human activity analysis solutions (software by TEA)
 
---- 
 
 ## A gathering of skils, expertises and ressources 
 
@@ -45,6 +38,7 @@ The LabCom is a Research program financed by the ANR between the ERPI research t
 
 **ERPI** scientific skills and knowledge on collaborative innovation processes and its expertise on user-centered innovation practices will be used to develop shared demonstrators on specific market applications.
 
+This program will allow the development of products and solutions to TEA to access new growth markets (industry 4.0, Neuro-Marketing, smart-city...) as well as the development of shared demonstrators of solutions on specific application markets.
 
 <!-- ## Associated Scientific Production -->
 

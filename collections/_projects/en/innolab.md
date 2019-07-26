@@ -3,7 +3,7 @@ title: "Innovation Labs"
 permalink: "/projects/innolabs/"
 excerpt: "Empowering open innovation labs"
 header:
-  teaser: /assets/images/projects/innolabs/teaser.jpg
+  teaser: /assets/images/projects/innolabs/header.png
   overlay_image: /assets/images/projects/innolabs/header.png  
 last_modified_at: 2019-06-03
 
