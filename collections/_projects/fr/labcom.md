@@ -51,7 +51,7 @@ Ce programme va permettre le développement des produits et solutions a TEA pour
 
 
 ## Contact
-Si vous voulez en savoir plus ou collaborer avec nous, vous pouvez nous contacter par mail:
+Si vous voulez en savoir plus ou collaborer avec nous, [n-hum-inno.eu](https://n-hum-inno.eu) ou vous pouvez nous contacter par mail:
 
 - **Mauricio Camargo** : mauricio.camargo {at} univ-lorraine.fr
 - **Giovanny Arbelaez** : arbelaez5 {at} univ-lorraine.fr
