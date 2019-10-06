@@ -3,7 +3,7 @@ title: "Innovation Labs"
 permalink: "/projects/innolabs/"
 excerpt: "Empowering open innovation labs"
 header:
-  teaser: /assets/images/projects/innolabs/teaser.jpg
+  teaser: /assets/images/projects/innolabs/teaser.png
   overlay_image: /assets/images/projects/innolabs/header.png  
 last_modified_at: 2019-06-03
 
@@ -24,10 +24,10 @@ type-project: Fuzzy Front-End Innovation
 
 ## Why Innovation Labs?
 
-Organizations all around the world are increasingly interested in creating dedicated physical spaces to foster innovation processes. Since the 2000s, companies, universities, non-profit organizations, communities and even governments have opted to have their own “lab”. 
+Organizations all around the world are increasingly interested in creating dedicated physical spaces to foster innovation processes. Since the 2000s, companies, universities, non-profit organizations, communities and even governments have opted to have their own “lab”.
 These particular spaces have become very popular as they are seen as manifestations of change, sources of inspiration and beacons of hope in a rapidly changing and demanding world.
 
-However, concerns driven by misperceptions often appear when it is asked "what makes an innovation lab". This could lead to an identity crisis in which, in some cases, the concerned parties refer to them as "innovation gadgets", isolated places to do "cool stuff" and measured by "vanity metrics". As hosts of our own innovation laboratories, we know the potential that these collaborative platforms can offer on the path towards the transformation of our territories and societies. 
+However, concerns driven by misperceptions often appear when it is asked "what makes an innovation lab". This could lead to an identity crisis in which, in some cases, the concerned parties refer to them as "innovation gadgets", isolated places to do "cool stuff" and measured by "vanity metrics". As hosts of our own innovation laboratories, we know the potential that these collaborative platforms can offer on the path towards the transformation of our territories and societies.
 And at the same time, we are aware of the challenge of operating and sustaining them.
 
 That is why we believe that by studying innovation labs, sharing experiences and understanding how they are being managed, we can contribute to the consolidation of inspiring spaces where people can connect with each other, enhance their creative thinking, make use of new technologies and offer solutions with
@@ -37,7 +37,7 @@ significant impact.
 ## Research Goal
 
 
-The aim of this research project is to propose an enabling methodological approach for the strategic intent design of innovation laboratories based on their context and organizational capabilities. 
+The aim of this research project is to propose an enabling methodological approach for the strategic intent design of innovation laboratories based on their context and organizational capabilities.
 {: .notice--success}
 
 Ultimately, we seek to collectively build new knowledge on practices and experiences on the
@@ -45,10 +45,10 @@ way in which spaces have been implemented to support the processes of innovation
 creativity. In this way, we hope for lab host teams to find a source of inspiration for
 empowering the management of their collaborative platform.
 
---- 
+---
 
 
-## Current Research 
+## Current Research
 
 
 **Management of Innovation Laboratories: An enabling methodological
@@ -94,6 +94,3 @@ send us an email at:
 - **Ferney Osorio** : ferney.osorio-bustamante{at}univ-lorraine.fr
 
 More information: [Innolabs](https://sway.office.com/zdkWdXYz14TsEXQz?ref=Link)
-
-
-
