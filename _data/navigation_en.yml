@@ -1,4 +1,4 @@
-# Navigion Links 
+# Navigion Links
 main:
   - title: "About ERPI"
     url: /about/
@@ -20,7 +20,7 @@ publications:
       - title: "Articles"
         url: /publications/articles/
       - title: "Conferences"
-        url: /publications/conferences/    
+        url: /publications/conferences/
       - title: "Books"
         url: /publications/books/
       - title: "Thesis"
@@ -29,42 +29,27 @@ publications:
           - title: "Current Thesis Projets"
             url: /publications/thesis/#current-thesis
           - title: "Thesis defended"
-            url: /publications/thesis/#defended-thesis 
+            url: /publications/thesis/#defended-thesis
 
 projects:
-  - title: "ERPI Projects"
-    children:      
-      - title: "Lorraine Smart City Living Lab"
+  - title: "ERPI Projects by:"
+    children:
+      - title: "Research Field"
         url: /projects/lorraine-smart-city-living-lab/
 
-      - title: "Innovation on Health"
+      - title: "Societal challengue"
         url: /projects/innovation-on-health/
 
-      - title: "InnoLabs"
+      - title: "Application field"
         url: /projects/innolabs/
-        
-      - title: "3D Soil Test"
+
+      - title: "Past projects"
         url: /projects/3D-soil-test/
-
-      - title: "Green FabLab"
-        url: /projects/green-fablab/
-
-      - title: "Chaire PRINCIP"
-        url: /projects/princip/
-
-      - title: "Chaire REVES"
-        url: /projects/reves/
-
-      - title: "La Fabrique"
-        url: /projects/fabrique-nancy/ 
-      - title: "Labcom"
-        url: /projects/labcom/
-
 
 summer-school:
   - title: "Summer School 2019"
     url: "/summer-school/"
-    children:            
+    children:
       - title: "Courses"
         url: /summer-school/courses/
 
@@ -76,5 +61,3 @@ summer-school:
 
       - title: "Practical Information"
         url: /summer-school/practical-info/
-
-
