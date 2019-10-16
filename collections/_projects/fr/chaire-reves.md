@@ -3,6 +3,10 @@ title: REVES – Renaissance Ecologique des VillES
 excerpt: "Chaire partenarial autour de la transformation urbaine"
 header:
   teaser: /assets/images/projects/chaire-reves/teaser.jpg
+
+Research-field:
+  - Metrology
+last_modified_at: 2019-04-12  
 ---
 
 ## Présentation

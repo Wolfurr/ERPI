@@ -15,13 +15,15 @@ partners:
   alt: ANR
   title: ''
   excerpt: "[ANR](http://anr.fr/)"
-type-project: Fuzzy Front-End Innovation
+
+Research-field:
+  - Acceptability
 published: true
 
 ---
 ## Le Laboratoire Commun: l’Homme au Cœur des Enjeux des Mondes Numériques
 
-S’intéresse à l’étude des interactions Homme-Homme et Homme-Machine supportées par le numérique, avec la vision de : la technologie au service des hommes. 
+S’intéresse à l’étude des interactions Homme-Homme et Homme-Machine supportées par le numérique, avec la vision de : la technologie au service des hommes.
 
 La technologie numérique est utilisée pour aider et amplifier les capacités de prise de décision dans des environnements des plus en plus complexes (augmentation des informations à traiter, des interactions entre parties prenantes plus fréquentes, interfaces réel vs. Virtuel, etc.).
 

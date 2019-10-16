@@ -9,12 +9,15 @@ partners:
 - url: "http://www.noremat.com/"
   image_path: "/assets/images/projects/noremat/noremat-logo.png"
   alt: "Noremat Logo"
-  
+
 - url: "https://www.ensgsi.univ-lorraine.fr/"
   image_path: "/assets/images/projects/noremat/ENSGSI.jpg"  
   alt: "ENSGI Logo"  
 img-path: "/assets/images/projects/noremat/"  
 last_modified_at: 2018-11-14  
+
+Research-field:
+  - Design
 ---
 
 ## Présentation
@@ -27,17 +30,17 @@ Afin de prendre la meilleure décision pour la gestion des dépendances routère
 
 ## Démarche de conception de l'outil
 
-<b style="color: rgb(128, 0, 0);">1. Définition des besoins des acteurs </b> 
+<b style="color: rgb(128, 0, 0);">1. Définition des besoins des acteurs </b>
 
    - Identifications des enjeux économiques, technologiques, environnementaux et sociaux
-   - Cahier des charges de l'outil 
+   - Cahier des charges de l'outil
 
 
-<b style="color: rgb(128, 0, 0);">2. Définition des spécifications techniques </b> 
+<b style="color: rgb(128, 0, 0);">2. Définition des spécifications techniques </b>
 
-  - Critères de désicion 
+  - Critères de désicion
   - Indicateurs économiques,  environnementaux et sociaux
-  - Adaptation de l’outil au contexte 
+  - Adaptation de l’outil au contexte
     - Facteurs locaux
     - Spécificités du territoire
   - Evaluation multicritères
@@ -45,24 +48,24 @@ Afin de prendre la meilleure décision pour la gestion des dépendances routère
     - Liées au contexte du territoire
     - Qualitatives et quantitatives
 
-<b style="color: rgb(128, 0, 0);">3. Développement des interfaces </b> 
+<b style="color: rgb(128, 0, 0);">3. Développement des interfaces </b>
   - Maqutte
-  - Scénatios 
+  - Scénatios
 
-<b style="color: rgb(128, 0, 0);">4. Test d'usage </b> 
+<b style="color: rgb(128, 0, 0);">4. Test d'usage </b>
 
   - Workshop
-  - Simulation 
+  - Simulation
 
 
 ## GID -- Route
 
 Un outil répondant à de nombreux enjeux de durabilité des territoires:
 
-<figure style="width: 90%" class="align-center"> 
-    <img src="{{ site.baseurl | append:page.img-path | append:'enjeux.png'}}" 
-    alt="enjeux noremat"> 
- <figcaption>  </figcaption> 
+<figure style="width: 90%" class="align-center">
+    <img src="{{ site.baseurl | append:page.img-path | append:'enjeux.png'}}"
+    alt="enjeux noremat">
+ <figcaption>  </figcaption>
 </figure>
 
 
@@ -86,6 +89,3 @@ Un outil répondant à de nombreux enjeux de durabilité des territoires:
 
 - **Mauricio Camargo**: mauricio.camargo{at}univ-lorrainfe.fr
 - **Sandra Batista**: sandra.bautista-rodriguez{at}univ-lorrainfe.fr
-
-
-

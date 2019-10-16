@@ -3,11 +3,11 @@ title: 3D Soil Test
 excerpt: "Soil organic matter degradation Additive Manufacturing, Participatory research"
 header:
   teaser: "/assets/images/projects/3D-soil-test/teaser.jpg"  
-last_modified_at: 2018-11-21  
+
 
 Research-field:
   - Design
-
+last_modified_at: 2018-11-21  
 ---
 
 
