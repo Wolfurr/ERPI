@@ -1,9 +1,10 @@
 ---
-title: La Fabrique Nancy Grand Coeur 
+title: La Fabrique Nancy Grand Coeur
 excerpt: "Un démonstrateur partagé avec le Grand Nancy"
 header:
   teaser: /assets/images/projects/fabrique-nancy/teaser.png
 last_modified_at: 2019-04-12
+
 ---
 
 ## Presentation
@@ -23,7 +24,7 @@ Design, monitoring and evaluation within the framework of the Concertation Déci
 
 - From Nancy grand Coeur to the city of Charles III: the uses of Charles III Square
 - EcoQuartier Nancy Grand Cœur Deepening of the themes:
-  
+
   - EcoMobility
   - Sharing of public spaces
   - Overall energy performance and smart cities

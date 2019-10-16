@@ -4,6 +4,8 @@ excerpt: "Innovation on the health field"
 header:
   teaser: /assets/images/projects/inno-health/teaser.jpg
 last_modified_at: 2019-04-12
+Research-field:
+  - Acceptability
 ---
 
 ## Innovation for Health and Wellness!

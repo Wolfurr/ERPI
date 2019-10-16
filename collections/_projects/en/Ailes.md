@@ -2,17 +2,17 @@
 title: AILES
 excerpt: "Living Lab approach to co-create innovative digital solutions with high schools"
 header:
-  teaser: "/assets/images/projects/3D-soil-test/teaser.jpg"  
-last_modified_at: 2018-11-21  
-type-project: Fuzzy Front-End Innovation
+  teaser: "/assets/images/projects/Ailes/teaser.jpg"  
+last_modified_at: 2019-10-16  
+
 keywords:
   - Living Lab
   - Machine Learning
   - Recommender Systems
   - Digital Innovation
-Research domain: 
+Research-field:
   - Artificial Intelligence
-  - Acceptability product / process / supply chain
+  - Acceptability
 
 Field of application:
   - Education     

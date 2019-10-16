@@ -4,7 +4,9 @@ excerpt: "Pole de recherche sur l'innovation"
 header:
   teaser: /assets/images/projects/chaire-princip/teaser.jpg
 last_modified_at: 2019-04-12
-type-project: Innovation Metrology
+
+Research-field:
+  - Metrology
 ---
 
 ## Presentation

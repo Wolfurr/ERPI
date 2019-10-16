@@ -16,17 +16,32 @@
 {% endif %}
 
 
-{% if include.role == 'Prof' %}  
-  {% assign entries = entries | where: "role", 'Prof'  %} 
-{% elsif include.role == 'MCF' %}  
-  {% assign entries = entries | where: "role", 'MCF'  %}   
-{% elsif include.role == 'IR' %}  
-  {% assign entries = entries | where: "role", 'IR'  %} 
-{% elsif include.role == 'PHD' %}  
-  {% assign entries = entries | where: "role", 'PHD'  %}   
-{% elsif include.role == 'Admin' %}  
-  {% assign entries = entries | where: "role", 'Admin'  %}     
+{% if include.role == 'Prof' %}
+  {% assign entries = entries | where: "role", 'Prof'  %}
+{% elsif include.role == 'MCF' %}
+  {% assign entries = entries | where: "role", 'MCF'  %}
+{% elsif include.role == 'IR' %}
+  {% assign entries = entries | where: "role", 'IR'  %}
+{% elsif include.role == 'PHD' %}
+  {% assign entries = entries | where: "role", 'PHD'  %}
+{% elsif include.role == 'Admin' %}
+  {% assign entries = entries | where: "role", 'Admin'  %}
 {% endif %}
+
+
+
+
+
+{% if include.Research-field == 'Metrology' %}
+  {% assign entries = entries | where: "Research-field", 'Metrology'  %}
+{% elsif include.Research-field == 'Prospective' %}
+  {% assign entries = entries | where: "Research-field", 'Prospective'  %}
+{% elsif include.Research-field == 'Design' %}
+  {% assign entries = entries | where: "Research-field", 'Design'  %}
+{% elsif include.Research-field == 'Acceptability' %}
+  {% assign entries = entries | where: "Research-field", 'Acceptability'  %}
+{% endif %}
+
 
 {% if include.sort_by == "orden" %}
   {% assign entries = entries | sort: 'orden' %}

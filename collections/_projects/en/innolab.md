@@ -18,8 +18,9 @@ partners:
   title: ''
   excerpt: "[Universidad Nacional de Colombia](http://unal.edu.co/)"
 
+Research-field:
+  - Design
 
-type-project: Fuzzy Front-End Innovation
 ---
 
 ## Why Innovation Labs?

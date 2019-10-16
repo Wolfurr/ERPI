@@ -19,7 +19,7 @@ publications:
       - title: "Articles scientifiques"
         url: /fr/publications/articles/
       - title: "Conférences"
-        url: /fr/publications/conferences/    
+        url: /fr/publications/conferences/
       - title: "Livres"
         url: /fr/publications/books/
       - title: "Thèses"
@@ -28,31 +28,16 @@ publications:
           - title: "Thesès en cours"
             url: /fr/publications/thesis/#current-thesis
           - title: "Thèses soutenues"
-            url: /fr/publications/thesis/#defended-thesis 
+            url: /fr/publications/thesis/#defended-thesis
 
 projects:
-  - title: "ERPI Projets"
-    children:      
-      - title: "Lorraine Smart City Living Lab"
-        url: /fr/projects/lorraine-smart-city-living-lab/
-
-      - title: "Innovation on Health"
-        url: /fr/projects/innovation-on-health/
-
-      - title: "3D Soil Test"
-        url: /fr/projects/3D-soil-test/
-
-      - title: "Green FabLab"
-        url: /fr/projects/green-fablab/
-
-      - title: "Chaire PRINCIP"
-        url: /fr/projects/princip/
-
-      - title: "Chaire REVES"
-        url: /fr/projects/reves/
-
-      - title: "La Fabrique"
-        url: /fr/projects/fabrique-nancy/ 
-      - title: "Labcom"
-        url: /projects/labcom/    
-
+  - title: "Projets ERPI par:"
+    children:
+      - title: "Domaine de recherche"
+        url: /fr/projects/
+#      - title: "Societal challengue"
+#        url: /projects/innovation-on-health/
+#      - title: "Application field"
+#        url: /projects/innolabs/
+#      - title: "Past projects"
+#        url: /projects/3D-soil-test/

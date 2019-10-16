@@ -15,22 +15,24 @@ partners:
   alt: ANR
   title: ''
   excerpt: "[ANR](http://anr.fr/)"
-type-project: Fuzzy Front-End Innovation
+
 published: true
 
+Research-field:
+  - Acceptability
 ---
 ## The Joint Research Lab: Humans at the heart of the challenges of the digital world
 
-The LabCom is centered in the study of digitally supported human-to-human and human-machine interactions, with a vision of: technology at the service of mankind. 
+The LabCom is centered in the study of digitally supported human-to-human and human-machine interactions, with a vision of: technology at the service of mankind.
 
-Digital technology is used to help and amplify people's decision-making and management skills in increasingly complex environments (increasing number of data to be processed, more frequent interactions between stakeholders, Virtual vs. Real interface, etc.). 
+Digital technology is used to help and amplify people's decision-making and management skills in increasingly complex environments (increasing number of data to be processed, more frequent interactions between stakeholders, Virtual vs. Real interface, etc.).
 
 ## Aims
 
 The aim of this research program is to develop and further integrate Acceptability assessment indicators using psychophysiological sensors (developed by TEA) on the human activity analysis solutions (software by TEA)
 
 
-## A gathering of skils, expertises and ressources 
+## A gathering of skils, expertises and ressources
 
 The LabCom is a Research program financed by the ANR between the ERPI research team and the SME TEA.
 

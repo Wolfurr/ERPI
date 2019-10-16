@@ -65,7 +65,7 @@ key {
 // /* type scale */
 $type-size-1 : 1.3em;
 $type-size-2 : 1.2em;
-$type-size-3 : 1.1em;  
+$type-size-3 : 1.1em;
 $type-size-4 : 1em;
 $type-size-5 : 0.8em;
 $type-size-6 : 0.75em;   // ~12px
@@ -89,7 +89,7 @@ $black:  #111;
 
 // $body-color: ;
 // $background-color: ;
-// $masthead-link-color: ; 
+// $masthead-link-color: ;
 $link-color: $ERPI-Blue-Dark;
 $text-color: $black;
 
@@ -100,11 +100,11 @@ $text-color: $black;
 
 // Collection Styles
   // Teaser Image
-.staff {      
+.staff {
   img {
     width: 80%;
     border-radius: 50%;
-   } 
+   }
 }
 
 
@@ -156,7 +156,7 @@ table tr td:first-child {
   .toc .nav__title {
     background: #808080;
   }
-  
+
 /* Sidebar */
   /* sticky = not sticky */
   @media (min-width: 64em) {
@@ -167,11 +167,11 @@ table tr td:first-child {
       top: 0;
     }
   }
-  
+
   .nav__sub-title {
     padding: 0;
   }
-  
+
   .nav__list .nav__items .active {
     /* background: #cccccc;
     color: #808080;
@@ -179,11 +179,11 @@ table tr td:first-child {
     display: inline-block;
     padding-left: 1em; */
   }
-  
+
   #language_switcher {
     margin-top: 2.5em;
   }
-  
+
 /* Masthead */
   .masthead {
     box-shadow: 1px 1px 5px #ccc;
@@ -194,7 +194,7 @@ table tr td:first-child {
     margin-left: 0.5em;
     padding: 0;
   }
-  
+
   .greedy-nav a.site-title img {
     height: 3em;
   }
@@ -210,7 +210,7 @@ table tr td:first-child {
   button:focus {
     outline: none;
   }
-  
+
   .btn--primary:hover {
     background: #003399;
   }
@@ -256,7 +256,7 @@ table tr td:first-child {
   .masthead__menu-item:hover a {
     color: white;
   }
-  
+
   .greedy-nav a {
     padding: 0.2rem 0;
   }
@@ -264,7 +264,7 @@ table tr td:first-child {
   .greedy-nav .visible-links a:before {
     background: transparent;
   }
-  
+
 /* Pagination */
   .pagination--pager {
     background: $ERPI-Blue-Ligth;
@@ -275,20 +275,20 @@ table tr td:first-child {
     border: 1px solid #cccccc;
     border-radius: 0;
   }
-  
+
   .pagination--pager:nth-child(2) {
     background: $ERPI-Green-Ligth;
   }
-  
+
   .pagination--pager.disabled {
     background: #cccccc;
   }
-  
+
 /* Archive */
   .archive__item-title {
     overflow: inherit;
   }
-  
+
 /* Tutorials */
 #tutorial-list, .tutorial-orderby section { border-top: 1px solid #f2f3f3; padding-top: 5px; }
 #tutorial-list article { display: flex; flex-flow: row wrap; }
@@ -312,3 +312,9 @@ table tr td:first-child {
 
 /* Image Manipulation */
 .img-invert { filter: invert(1); }
+
+
+
+
+
+@import "modif-figures";

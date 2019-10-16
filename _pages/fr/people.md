@@ -6,7 +6,7 @@ permalink: /fr/people/
 collection: people
 entries_layout: grid
 teaser_class: staff
-sort_by: orden 
+sort_by: orden
 
 excerpt: "A propos du ERPI"
 header:
@@ -19,4 +19,4 @@ last_modified_at: 2018-09-07
 
 
 ## Equipe
---- 
+---
