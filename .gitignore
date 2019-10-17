@@ -13,4 +13,4 @@ _site/
 *.sublime-workspace
 .bundle
 vendor
-Gemgile.lock
+Gemfile.lock
