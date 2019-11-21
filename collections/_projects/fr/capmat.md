@@ -50,7 +50,7 @@ En partant des connaissances de l’équipe pluridisciplinaire, une première s�
 
 
 
-## objectifs
+## Objectifs
 
 - **•	Le développement d’une « plateforme de collecte des besoins en capteurs ». Ce dispositif vise à proposer un espace pour déposer les demandes mais aussi une « boite à idées » de capteurs alimentée par la recherche au sein de l’Université de Lorraine.**
 
