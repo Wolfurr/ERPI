@@ -5,32 +5,25 @@ header:
   teaser: "/assets/images/projects/inno4sme/teaser.jpg"
   overlay_image: "/assets/images/projects/inno4sme/teaser.jpg"
 
-keywords:
-  - Innovation
-  - Export
-  - SME
-  - Synergies
-  - Decision-making tool
-  - Joint practices
-
-Research-field:
-  - Artificial Intelligence
-  - Metrology
-
-Field of application:
-  - Education     
+keywords: [Innovation, Export, SME, Synergies, Decision-making tool, Joint practices,]
+Research-field: [Metrology]
+Field of application: [Wine]
 
 partners:
   - image_path: "/assets/images/projects/inno4sme/Cerefige.jpg"
+    url: http://cerefige.univ-lorraine.fr/
     title: ''
     excerpt: "[Centre Européen de Recherche en Economie Financière et en Gestion des Entreprises (CEREFIGE)](http://cerefige.univ-lorraine.fr/)"
+
   - image_path: "/assets/images/projects/inno4sme/usach.jpg"
     title: ''
+    url: https://www.usach.cl/
     excerpt: "[Universidad de Santiago de Chile](https://www.usach.cl/)"
 
 Industrial:
     - image_path: "/assets/images/projects/inno4sme/Innovationway.jpg"    
       title: ''
+      url: http://innovation-way.com/
       excerpt: "[Innovation Way](http://innovation-way.com/)"
 
 last_modified_at: 2019-11-21
