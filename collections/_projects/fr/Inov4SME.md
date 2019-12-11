@@ -60,7 +60,14 @@ Pour garantir la qualité opérationnelle de cet outil, il est nécessaire que l
 - Enjolras M., Camargo M., Schmitt C., (2016): [“SMEs’ Innovation and Export Capabilities: Identification and Characterization of a Common Space Using Data Spatialization”](https://www.jotmi.org/index.php/GT/article/view/2055/1023), Journal of Technology Management & Innovation, Volume 11, n°2, p 56-69, Juin 2016. DOI: 10.4067/S0718-27242016000200006
 
 
-# Contact
+## Remerciements
+
+<img src="/assets/images/projects/inno4sme/LUE.jpg"  alt= "LUE Innovv4SME" width="30%" class="align-right">
+Ces travaux ont été soutenus en partie par le projet français PIA "Lorraine Université d'Excellence" (Référence ANR-15-IDEX-04-LUE).
+
+
+
+##  Contact
 * **Manon ENJOLRAS**: manon.enjolras{at}univ-lorraine.fr
 *  **Mauricio CAMARGO** 
 
