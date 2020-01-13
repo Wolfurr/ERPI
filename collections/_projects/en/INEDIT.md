@@ -1,62 +1,90 @@
 ---
 title: INEDIT
+classes: wide
 excerpt: "open **IN**novation **E**cosystems for **D**o **I**t **T**ogether process --- H2020"
 header:
-  teaser: "/assets/images/projects/capmat/teaser.png"
-  overlay_image: "/assets/images/projects/capmat/banner.png"
+  teaser: "/assets/images/projects/inedit/teaser.png"  
+  overlay_image: "/assets/images/projects/inedit/header.png"
 
-last_modified_at: 2019-10-16
+last_modified_at: 2020-01-13
 
-keywords:
-  - Need analysis
-  - Magnetic sensor
-  - Magnetostrictive sensor
-  - Gas sensor
-
-Research-field:
-  - Otro
-
-Field of application:
-  - Smart Cities
-  - Industry 4.0
+keywords: [Open innovation ecosystems, DIY, DIT approach, agile supply chains, Open Manufacturing demonstration Facility, co-creation, circular economy, makers, translation layer, gender, AR/ VR, platform]
+Research-field: [Design]
+Field of application: [Furniture]
 
 partners:
-  - image_path: "/assets/images/projects/capmat/IJL.jpg"
+  - image_path: "/assets/images/projects/inedit/partners/ENSAM.png"
     title: ''
-    excerpt: "[IJL (Institut Jean Lamour)](https://ijl.univ-lorraine.fr/)"
-  - image_path: "/assets/images/projects/capmat/INRS.jpg"
+    excerpt: "[École nationale supérieure d'arts et métiers](https://artsetmetiers.fr/)"
+  
+  - image_path: "/assets/images/projects/inedit/partners/FIR.jpg"
     title: ''
-    excerpt: "[INRS (Institut National de Recherche et de Sécurité)](http://www.inrs.fr/)"
-  - image_path: "/assets/images/projects/capmat/GREEN.jpg"    
+    excerpt: "[FIR - Forschungsinstitut für Rationalisierung ](https://www.fir.rwth-aachen.de/)"
+  
+  - image_path: "/assets/images/projects/inedit/partners/SUPSI.png"    
     title: ''
-    excerpt: "[GREEN (Groupe de Recherche en Electrotechnique et Electronique)](https://green.univ-lorraine.fr/)"
+    excerpt: "[SUPSI - Scuola universitaria professionale della Svizzera Italiana](http://www.supsi.ch/home.html)"
+  - image_path: "/assets/images/projects/inedit/partners/HANZ.png"    
+    title: ''
+    excerpt: "[​Hanze University of Applied Sciences](https://www.hanze.nl/eng)"
+  - image_path: "/assets/images/projects/inedit/partners/UNINOVA.jpeg"    
+    title: ''
+    excerpt: "[​Uninova - Instituto de Desenvolvimento de Novas Tecnologias](http://www.uninova.pt/)"
+
 
 Industrial:
-    - image_path: "/assets/images/projects/capmat/IS.jpg"    
+    - image_path: "/assets/images/projects/inedit/partners/SEZ.png"    
       title: ''
-      excerpt: "[IS (Institut de Soudure)](https://www.isgroupe.com/)"
+      excerpt: "[Steinbeis Innovation gGmbH](https://www.steinbeis.de)"
 
-published: False
+    - image_path: "/assets/images/projects/inedit/partners/CRIT.png"    
+      title: ''
+      excerpt: "[Centro di Ricerca e Innovazione tecnologica](https://www.crit-research.it/it/)"
+    - image_path: "/assets/images/projects/inedit/partners/TTS.png"    
+      title: ''
+      excerpt: "[Technology Transfer System Srl](https://www.ttsnetwork.net/)"
+    - image_path: "/assets/images/projects/inedit/partners/SCM.png"    
+      title: ''
+      excerpt: "[Scm Group](https://www.scmgroup.com/)"
+    - image_path: "/assets/images/projects/inedit/partners/Veragouth.jpg"    
+      title: ''
+      excerpt: "[Veragouth](https://www.veragouth.com/)"
+    - image_path: "/assets/images/projects/inedit/partners/PSC.png"    
+      title: ''
+      excerpt: "[Transition Technologies PSC](https://ttpsc.com)"
+    - image_path: "/assets/images/projects/inedit/partners/AIMEN.png"    
+      title: ''
+      excerpt: "[Asociación de Investigación Metalúrgica del Noroeste](https://www.aimen.es/)"    
+    - image_path: "/assets/images/projects/inedit/partners/Fanvoice.png"    
+      title: ''
+      excerpt: "[Fanvoice - Crownd Prediction](https://www.fanvoice.com/)"
+
+
+published: True
 ---
 
 
 ## Global context
 
-The CAP-MAT project is part of a regional dynamic around materials and sensors. Lorraine is known for its quest for excellence in materials and metallurgy science and technology. Thus, as part of the University of Lorraine's response to the ISITE call for tenders, Lorraine Université d'Excellence (LUE), one of the flagship projects is a project on nanomaterials for sensors: N4S (Nanomaterials for Sensors) bringing together 8 Lorraine laboratories federated within the 4 themes around sensors.
+The INEDIT (open INnovation Ecosystems for Do It Together process)  is a research project obtained in the framework of the European Union's H2020 programme starting in autumn 2019 for a duration of 36 months. 
+The consortium set up is made up of 14 partners from nine countries.
 
-The region also hosts the annual World Materials Forum and its cohort of global materials specialists.
-The CAP-MAT project is positioned in the "Smart Factory" theme: it involves developing intelligent sensors for the transformation of materials, integrating the entire chain from resources to finished products. The creation of a team of managers, the "office", will make it possible to centralize the various sensor needs, but also the existing skills in this field within the various actors of research and development in Lorraine.
+INEDIT creates an open innovation European DIT ecosystem for sustainable furniture co-creation. 
+It channels the creativity of consumers, shapes it through designers’ professional skills, and makes it viable by leveraging on the expertise of production specialists in order to deliver sustainable, smart and personalized new products in a shorter time to market. 
+INEDIT intends to demonstrate the capacity to turn the well-known ‘Do It Yourself’ (DIY) approach applied by individuals within FabLabs into a professional approach named ‘Do It Together’ (DIT). 
 
-Based on the knowledge of the multidisciplinary team, a first selection of sensors will be made to start the study.
-
+The DIT approach will be applied by customers and professional producers, especially SMEs, for conveying higher customer satisfaction through customer-driven production. DIT is a novel approach capitalizing on the knowledge, creativity and ideas of design and engineering conceptualized by interdisciplinary stakeholders and sometimes even new actors. It is powered by existing European innovation ecosystems shaping new products across EU countries. INEDIT demonstrates the approach through four cross use cases with high societal impact: sustainable wood panels manufacturing and 3D-printing of wood, 3D printing of recycled plastic and Smartification. Sustainability and consideration of individual preferences, especially of women and men, will be our guiding thread. INEDIT address societal challenges such as contribution to reduce the amount of produced CO2 in focusing on European-wide production, creation and maintenance of EU-wide job opportunities. This will lead to new business opportunities supported by business model innovation. Moreover, these innovative networked local manufacturing competences and production facilities across the EU will solve ethical concerns within the manufacturing network. INEDIT intends to demonstrate, through its twin - digital and physical - platform, the potential innovation around social manufacturing within the circular economy in designing global while producing local.
 
 ## Research Goal:
 
-- **The development of a "sensor needs collection platform". This system aims to provide a space for submitting requests and demands but also a "suggestion box" of sensors powered by research at the University of Lorraine.**
+- To unleash creativity of consumers and designers towards co-creation of new pieces of furniture
+addressing the needs of the single user in an industrial context.
 
-- **The development of the first 2 sensors (magnetic sensor and gas sensor). The latter will allow to test the development process, i.e. the launch of new sensor design projects based on ideas emerging in the scientific community.**
-
-
+- To democratize the access to production resources in the furniture sector.
+- To support SME operating in the furniture sector in finding new business opportunities.
+- To create a framework of solutions for creation, engineering and distributed production of customer-driven pieces of furniture.
+- To define design and manufacturing strategies focusing on lowering ecological impact and addressing societal challenges.
+- To create an ecosystem of all stakeholders within European.
 
 ## Academical partnerships
 
@@ -68,8 +96,15 @@ Based on the knowledge of the multidisciplinary team, a first selection of senso
 
 {% include feature_row id="Industrial" %}
 
-# Contact
 
-- **Vincent Boly**: vincent.boly{at}univ-lorraine.fr
-- **Alaa Hassan**: alaa.hassan{at}univ-lorraine.fr
-- **Fatima Ezzahra**: Hamdani: fatima-ezzahra.hamdani{at}univ-lorraine.fr
+## Acknowledgements
+
+<img src="/assets/images/projects/inedit/EU-logo.png"  alt= "H2020" width="15%" class="align-right">
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under Grant Agreement No. 869952
+
+
+
+
+## Contact
+
+- **Laurent Dupoint**: l.dupont{at}univ-lorraine.fr (Project Manager for UL)

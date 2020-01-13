@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/projects/inno4sme/teaser.jpg"
   overlay_image: "/assets/images/projects/inno4sme/teaser.jpg"
 
-keywords: [Innovation, Export, SME, Synergies, Decision-making tool, Joint practices,]
+keywords: [Innovation, Export, SME, Synergies, Decision-making tool, Joint practices]
 Research-field: [Metrology]
 Field of application: [Wine]
 
