@@ -259,22 +259,6 @@ Javier Arrieta:
 
 
 
-Elnaz:
-  name: Elnaz Asadollahi-Yazdi
-  email: 'elnaz.asadollahiyazdi@univ-lorraine.fr'
-  bio: "ATER"
-  avatar: "/assets/images/people/Elnaz.jpeg"
-  links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.fr/citations?user=O7nk8f0AAAAJ&hl=fr&oi=ao" 
-      - label: "Researchgate"
-        icon: "ai ai-researchgate"
-        url: "https://www.researchgate.net/profile/Elnaz_Asadollahiyazdi"
-      - label: "LinkedIn"
-        icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/brunelle-marche-66a93b58/"      
-
 
 Fatima:
   name: Fatima Ezzahra HAMDANI
@@ -362,41 +346,6 @@ Carlos Moya:
         url: " "   
 
 
-
-Felipe Sanchez:
-  name: Felipe Sanchez
-  email: ' '
-  bio: "PhD"
-  avatar: "/assets/images/people/Man.jpg"
-  links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: " " 
-      - label: "Researchgate"
-        icon: "ai ai-researchgate"
-        url: " "
-      - label: "LinkedIn"
-        icon: "fab fa-linkedin"
-        url: " "   
-
-
-
-
-Giang:
-  name: Thi Hoang Giang TRAN
-  email: ' '
-  bio: "PhD"
-  avatar: "/assets/images/people/PHD/Giang.jpeg"
-  links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: " " 
-      - label: "Researchgate"
-        icon: "ai ai-researchgate"
-        url: " "
-      - label: "LinkedIn"
-        icon: "fab fa-linkedin"
-        url: " "   
 
 
 
@@ -511,24 +460,21 @@ Pavlo Santander:
 
 
 
-Pedro Barrios:
-  name: Pedro Barrios
+Fedoua Kasmi:
+  name: Fedoua Kasmi
   email: ' '
-  bio: "PhD"
-  avatar: "/assets/images/people/Man"
+  bio: "Post-Doctoral Researcher"
+  avatar: "/assets/images/people/Fedoua-Kasmi.jpg"
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
-        url: " " 
+        url: "https://scholar.google.com/citations?user=GDkVnwwAAAAJ&hl=fr" 
       - label: "Researchgate"
         icon: "ai ai-researchgate"
-        url: " "
+        url: "https://www.researchgate.net/profile/Fedoua_Kasmi"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: " "   
-
-
-
+        url: "https://www.linkedin.com/in/fedoua-kasmi-183094116/"   
 
 
 

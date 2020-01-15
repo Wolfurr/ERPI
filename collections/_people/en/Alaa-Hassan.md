@@ -1,7 +1,7 @@
 ---
 title: Alaa Hassan
 permalink: /people/Alaa-Hassan/
-excerpt: " "
+excerpt: "Product Design - Additive Manufacturing - Decision Support System"
 
 author: Alaa Hassan
 
@@ -11,6 +11,7 @@ header:
 orden: Hassan
 role: MCF
 last_modified_at: 2018-11-21
+tags: [Product Design, Additive Manufacturing, Decision Support System]
 ---
 
 Alaa Hassan is an Associate Professor on Mechanical Design at the [ENSGSI](https://www.ensgsi.univ-lorraine.fr/) (University of Lorraine) and researcher at the ERPI Laboratory, Nancy, France. 

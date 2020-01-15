@@ -1,7 +1,7 @@
 ---
 title: Raphaël Bary
 permalink: /people/Raphael-Bary/
-excerpt: " "
+excerpt: "Savoir-être - Innovative - Learning"
 last_modified_at: 2018-09-19 
 author: Raphael Bary
 header:
@@ -10,7 +10,9 @@ header:
 
 orden: Bary
 role: MCF
+
+tags: [Savoir-être,  Innovative, Learning]
 ---
 
-Raphael Bary
+
 

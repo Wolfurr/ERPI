@@ -1,7 +1,7 @@
 ---
 title: Pascal Lhoste
 permalink: "/people/Pascal-Lhoste/"
-excerpt: " "
+excerpt: "Knowledge Modeling, Meta-Modeling, Model Integration, Discrete Event System Models, Functional Modeling, Information Systems."
 author: Pascal Lhoste
 header:
   teaser: "/assets/images/people/PL.jpg"
@@ -9,6 +9,7 @@ orden: Lhoste
 role: Prof
 last_modified_at: 2018-11-21
 
+tags: [Knowledge Modeling, Meta-Modeling, Model Integration, Discrete Event System Models, Functional Modeling, Information Systems.]
 ---
 Pascal LHOSTE is Professor at the University of Lorraine - National School of Systems Engineering and Innovation (ENSGSI) since 2004, a school he managed from 2009 to 2019. 
 His research activity deals with Contribution of Knowledge Modeling to Innovation Processes is developed at ERPI 

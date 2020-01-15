@@ -9,6 +9,8 @@ header:
 
 orden: Marche
 role: IR
+
+tags: [Supply Chain Design , Innovation , Modeling , Strategy , Agility]
 ---
 
 Brunelle is an engineer and doctor in Industrial Engineering. Her research focuses on supply chain design and in particular on the importance of a combined prospective and multi-scale optimization approach in supply chain design to meet the increasingly complex requirements of a new product. Her work combines innovation engineering and system engineering to provide tools to facilitate the design and implementation of supply chains.  As part of her research, she collaborated with the University of Delft.

@@ -1,7 +1,7 @@
 ---
 title: Vincent Boly
 permalink: /people/Vincent-Boly/
-excerpt: ""
+excerpt: "Innovation metrology"
 last_modified_at: 2018-09-19
 author: Vincent Boly
 header:
@@ -9,6 +9,10 @@ header:
 
 orden: Boly
 role: Prof
+
+tags:
+  - Innovation metrology
+
 ---
 
 

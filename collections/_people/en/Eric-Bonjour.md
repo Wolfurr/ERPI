@@ -1,7 +1,7 @@
 ---
 title: Eric Bonjour
 permalink: /people/Eric-Bonjour/
-excerpt: ""
+excerpt: "Systems engineering - KM - Project management"
 
 author: Eric Bonjour
 header:
@@ -9,6 +9,9 @@ header:
 
 orden: Bonjour
 role: Prof
+tags: [Systems engineering,  KM , Project management]
+
+
 last_modified_at: 2018-11-21
 ---
 

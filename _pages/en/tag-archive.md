@@ -7,8 +7,9 @@ permalink: /tags/
 
 ![Keywords ERPI](/assets/images/about/Keywords-ERPI.png)
 
+{% assign entries = site.people | where: "lang", page.lang %}
 
-{% include group-by-array.html collection= site.people field='tags' %}
+{% include group-by-array.html collection=entries field='tags' %}
 
 <ul class="taxonomy__index">
   {% for tag in group_names %}

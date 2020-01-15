@@ -1,7 +1,7 @@
 ---
 title: Olivier Chery
 permalink: /people/Olivier-Chery/
-excerpt: " "
+excerpt: "Sustainable development - Assessment - Environment"
 last_modified_at: 2018-09-19
 author: Olivier Chery
 header:
@@ -9,8 +9,6 @@ header:
 
 orden: Chery
 role: MCF
-
+tags: [Sustainable development, Assessment, Environment]
 ---
 
-Olivier Chery
-(Durabilité, Aide à la décision, Analyse de Risques)

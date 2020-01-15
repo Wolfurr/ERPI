@@ -1,7 +1,7 @@
 ---
 title: Hakim Boudaoud
 permalink: /people/Hakim-Boudaoud/
-excerpt: " "
+excerpt: "Composites - Recycling - 3D printing"
 last_modified_at: 2019-04-08
 author: Hakim Boudaoud
 header:
@@ -11,7 +11,6 @@ header:
 orden: Boudaoud
 role: MCF
 
-
+tags: [Composites , Recycling , 3D printing]
 ---
 
-Hakim Boudaoud

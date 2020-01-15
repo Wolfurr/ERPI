@@ -60,6 +60,12 @@ Industrial:
       excerpt: "[Fanvoice - Crownd Prediction](https://www.fanvoice.com/)"
 
 
+posters:
+  - url: /assets/images/projects/inedit/posters/poster-1/poster.jpeg
+    image_path: /assets/images/projects/inedit/posters/poster-1/poster-teaser.jpeg
+    alt: "INEDIT ERPI - Université de Lorraine"
+    title: "Poster presented at the GDR sciences 2019 at Vosge -FR"
+
 published: True
 ---
 
@@ -75,6 +81,9 @@ INEDIT intends to demonstrate the capacity to turn the well-known ‘Do It Yours
 
 The DIT approach will be applied by customers and professional producers, especially SMEs, for conveying higher customer satisfaction through customer-driven production. DIT is a novel approach capitalizing on the knowledge, creativity and ideas of design and engineering conceptualized by interdisciplinary stakeholders and sometimes even new actors. It is powered by existing European innovation ecosystems shaping new products across EU countries. INEDIT demonstrates the approach through four cross use cases with high societal impact: sustainable wood panels manufacturing and 3D-printing of wood, 3D printing of recycled plastic and Smartification. Sustainability and consideration of individual preferences, especially of women and men, will be our guiding thread. INEDIT address societal challenges such as contribution to reduce the amount of produced CO2 in focusing on European-wide production, creation and maintenance of EU-wide job opportunities. This will lead to new business opportunities supported by business model innovation. Moreover, these innovative networked local manufacturing competences and production facilities across the EU will solve ethical concerns within the manufacturing network. INEDIT intends to demonstrate, through its twin - digital and physical - platform, the potential innovation around social manufacturing within the circular economy in designing global while producing local.
 
+{% include gallery id="posters"  %}
+
+
 ## Research Goal:
 
 - To unleash creativity of consumers and designers towards co-creation of new pieces of furniture
@@ -86,11 +95,36 @@ addressing the needs of the single user in an industrial context.
 - To define design and manufacturing strategies focusing on lowering ecological impact and addressing societal challenges.
 - To create an ecosystem of all stakeholders within European.
 
+
+
+
+## Working axis 
+
+1. **Project Management**: WP1 brings resources to coordinate the INEDIT project. It will make sure the work is carried on time and deliverables are produced as planned; it will address the risk and quality management related to the other work packages and ensures the project keeps track regarding ethics, gender and individual preferences issues.
+
+2. **Specification of the DIT approach and Use Cases**: It identifies the state-of-the-art on co-creation environments, collect the needs and expectations for the DIT approach and classifies suitable Use Cases and their specific requirements. It will specify value elements to be delivered by our resulting physical and virtual platforms and create the DIT overall value chain scenarios and training activities.
+
+3. **Setting-up of an overall user-centered Open Innovation Platform**: It aims at creating a framework of technologies and methods supporting the different phases of the INEDIT process from co-creation to manufacturing. Fanvoice open innovation platform will be adapted for the DIT process so the modules can be integrated.
+
+4. **Framework of a replicable Open Manufacturing Demonstration Facility supporting the INEDIT process**: It aims to create a demonstration framework for OMDFs which matter for the customers and SMEs, allowing stakeholders switch from Conceptualization to Materialization with the adapted sustainable Logistic in a DIT dynamic.
+
+5. **Sustainable DIT Business Models**: It aims to create sustainable business models for the DIT approach. It addresses business scenarios, use involvement concept and sustainability-driven orchestrator to deliver at the end a roll-out strategy.
+
+6. **Use cases experiments demonstration and evaluation**: It deals with the instantiation of the INEDIT approach within four concrete use cases: manufacturing of wood furniture, 3D printing of wood, 3D printing of recycled plastic and smartification of furniture Main goal of WP6 is the complete validation of INEDIT framework It provides both validation and evaluation of the achieved results with a specific task on cultural analysis focusing on gender dimension.
+
+7. **Dissemination, Communication and Exploitation**: It includes all the activities related to communication, dissemination of the results and exploitation strategy. It also comprises a specific task on community building and user involvement.
+
+
+
 ## Academical partnerships
 
 {% include feature_row id="partners" %}
 
 
+
+## Scientific production
+
+- You can find the associated scientific production at: [https://cordis.europa.eu/project/id/869952](https://cordis.europa.eu/project/id/869952)  
 
 ## Industrial partnerships
 
@@ -107,4 +141,10 @@ This project has received funding from the European Union’s Horizon 2020 resea
 
 ## Contact
 
-- **Laurent Dupoint**: l.dupont{at}univ-lorraine.fr (Project Manager for UL)
+- [**Laurent Dupont**](/people/Laurent-Dupont/): l.dupont{at}univ-lorraine.fr (Project Manager for UL)
+- [Frédérique Mayer](/people/Frederique-Mayer/)
+- [Brunelle Marche](/people/Brunelle-Marche/)
+- [Fedoua Kasmi](/people/Brunelle-Marche/)
+- [Hakim Boudaoud](/people/Hakim-Boudaoud/)
+- [Fabio Cruz](/people/Fabio-Cruz/)
+
