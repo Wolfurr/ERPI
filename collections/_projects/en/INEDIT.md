@@ -73,7 +73,7 @@ published: True
 ## Global context
 
 The INEDIT (open INnovation Ecosystems for Do It Together process)  is a research project obtained in the framework of the European Union's H2020 programme starting in autumn 2019 for a duration of 36 months. 
-The consortium set up is made up of 14 partners from nine countries.
+The consortium set up is made up of 14 partners from nine countries with a funding of 6,4 M€ for 36 months (2019-2021).
 
 INEDIT creates an open innovation European DIT ecosystem for sustainable furniture co-creation. 
 It channels the creativity of consumers, shapes it through designers’ professional skills, and makes it viable by leveraging on the expertise of production specialists in order to deliver sustainable, smart and personalized new products in a shorter time to market. 
@@ -122,13 +122,13 @@ addressing the needs of the single user in an industrial context.
 
 
 
-## Scientific production
-
-- You can find the associated scientific production at: [https://cordis.europa.eu/project/id/869952](https://cordis.europa.eu/project/id/869952)  
-
 ## Industrial partnerships
 
 {% include feature_row id="Industrial" %}
+
+## Scientific production
+
+- You can find the associated scientific production at: [https://cordis.europa.eu/project/id/869952](https://cordis.europa.eu/project/id/869952)  
 
 
 ## Acknowledgements

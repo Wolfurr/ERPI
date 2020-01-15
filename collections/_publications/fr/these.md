@@ -18,17 +18,6 @@ Co-directrice : Meriem FOURNIER (Directrice AgroParisTech Nancy)
 - Lorena DELGADO, **Sujet de thèse: Impact des espaces d’innovation dans la dynamique de matérialisation des objets de conception dans le cadre de projets innovants** 
 Directeur de la Thèse : Laure Morel (UL-ERPI). Codirection  Alaa Hassan (UL-ERPI), Pedro Palomino   (MdC-USACH)  
 
-- Lacroix Jonathan. **Sujet de la thèse : Conception d'une ingénierie intégrée de pilotage de l'innovation urbaine en mode Fab Living Lab® : application à l'Opération d'intérêt National Alzette Belval.** 
-Directrice de la thèse : Claudine Guidat, Codirecteur : Grégory Hamez.
-
-- Thi Hoang Giang TRAN. **Sujet de la thèse : D’un “diagnostique partagé” à “l’action partagée” : comment le mode projet living lab peut alimenter le processus d’aide à la décision du « faire la ville » en intégrant les citoyens pour une ville intelligente.**
-Directeur de la thèse : Mauricio Camargo, Codirecteur : Laurent Dupont
-
-- Chavez Barrios Pedro. **Sujet de la thèse : conception d'outils d'information et de technologies pour soutenir le processus de créativité et d'innovation**
-Directeur de la thèse : Davy Monticolo.
-
-- Sanchez Garzon Felipe. **Sujet de la thèse : Accompagner la transformation de la gestion de projets d'une entreprise par le développement d'un référentiel de maturité digitale et par la formalisation d'un retour d'expériences de transformation**
-Directeurs de la thèse : Eric Bonjour, Davy Monticolo.
 
 - Santander Pavlo. **Sujet de thèse : Valorisation en circuit court de déchets thermoplastiques pour la conception par impression 3D de structures composites.** 
 Directeurs de thèse : Mauricio Camargo, Hakim Boudaoud
