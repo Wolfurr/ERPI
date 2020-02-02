@@ -11,3 +11,22 @@ orden: Acosta
 role: PHD
 ---
 
+
+## Title of the thesis
+
+**Amélioration des modèles et méthodes d'évaluation de l'acceptabilité. Application à la co-conception et à la mise en place d'une organisation innovante en santé, concernant la prise en charge des personnes âgées.**
+
+## Abstract
+
+
+
+
+
+
+## Directors 
+
+- [Laure MOREL](/people/Eric-Bonjour/)
+- [Auguste Rakotodranaivo](/people/Auguste-Rakotodranaivo/)
+
+
+

@@ -12,5 +12,22 @@ role: PHD
 ---
 
 
+## Title of the thesis
 
+**Capacité à innover et collaborer entre des services achat et fouisseurs PME.**
+
+## Abstract
+
+
+
+
+## Funding
+
+- *Financement de la thèse:*  Chaire PEAK. 
+
+
+## Directors 
+
+- [Laure MOREL](/people/Laure-Morel/)
+- [Vincent BOLY](/people/Vincent-Boly/)
 

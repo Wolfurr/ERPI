@@ -1,6 +1,6 @@
 ---
 title: "Projects ERPI"
-permalink: /projects/
+permalink: /projects/funding/
 layout: single
 class: wide
 #layout: collection
@@ -34,55 +34,34 @@ last_modified_at: 2019-10-16
 ---
 
 
-# Research projects
 
-The projects of the ERPI laboratory are related to four main research fields:
-
-{% include gallery  layout="four" %}
+##  European projects <img class="emoji" title=":EU:" alt=":EU:" src="/assets/images/projects/inedit/EU-logo.png" height="20" width="20">
 
 
-## Innovation metrology
+
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html
     collection=page.collection
-    type=page.entries_layout    
-    Research-field = "Metrology"
+    type=page.entries_layout        
+    Funding = "EU"
 %}
 </div>
 <div style="width: 100%; clear: both; "></div>
 
-## Prospective & Weak signals
 
+
+## French projects :fr:
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html
     collection=page.collection
-    type=page.entries_layout    
-    Research-field = "Prospective"
+    type=page.entries_layout        
+    Funding = "FR"
 %}
 </div>
 <div style="width: 100%; clear: both; "></div>
 
-## Design support in front end
+## Local projects
 
 
-<div class="entries-{{ page.entries_layout }}">
-{% include documents-collection.html
-    collection=page.collection
-    type=page.entries_layout    
-    Research-field = "Design"
-%}
-</div>
-<div style="width: 100%; clear: both; "></div>
-
-## Acceptability
-
-
-<div class="entries-{{ page.entries_layout }}">
-{% include documents-collection.html
-    collection=page.collection
-    type=page.entries_layout
-    Research-field = "Acceptability"
-%}
-</div>

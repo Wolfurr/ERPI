@@ -11,3 +11,25 @@ orden: Fonseca
 role: PHD
 ---
 
+
+## Title of the thesis
+
+**Conception et optimisation multi-objectifs d’un système énergétique sur un éco-quartier incluant différentes technologies de génération et de conversion d’énergie, basées sur l’hydrogène comme vecteur énergétique.**
+
+## Abstract
+
+
+
+
+## Funding
+
+- *Financement de la thèse:*  Projet IMPACT Hydrogène. Bourse LUE
+
+
+## Directors 
+
+- [Mauricio Camargo](/people/Laure-Morel/)
+- Laurent Falk (Director of the LRGP laboratory)
+
+
+

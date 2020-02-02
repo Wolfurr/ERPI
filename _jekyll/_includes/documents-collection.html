@@ -42,6 +42,13 @@
   {% assign entries = entries | where: "Research-field", 'Acceptability'  %}
 {% endif %}
 
+{% if include.Funding == 'EU' %}
+  {% assign entries = entries | where: "Funding", 'EU'  %}
+{% elsif include.Funding == 'FR' %}
+  {% assign entries = entries | where: "Funding", 'FR'  %}
+{% endif %}
+
+
 
 {% if include.sort_by == "orden" %}
   {% assign entries = entries | sort: 'orden' %}

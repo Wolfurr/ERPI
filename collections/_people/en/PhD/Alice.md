@@ -19,3 +19,20 @@ tags:
   - Large corporation  
 ---
 
+
+## Title of the thesis
+
+**Amélioration de la relation grands groupes / PME dans une démarche d'innovation.**
+
+## Abstract
+
+
+
+
+## Directors 
+
+- [Laure MOREL](/people/Laure-Morel/)
+- Stéphane Négny 
+
+
+

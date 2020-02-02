@@ -11,3 +11,24 @@ orden: Arnould
 role: PHD
 ---
 
+
+## Title of the thesis
+
+**Conception et évaluation de systèmes d'innovation pour mieux mobiliser les bois en petite propriété forestière privée**
+
+## Abstract
+
+
+
+
+## Directors 
+
+Co-direction : ERPI et UMR SILVA (INRA / AgroParisTech /Université de Lorraine)
+
+- [Laure MOREL](/people/Laure-Morel/)
+- Meriem FOURNIER (Directrice AgroParisTech Nancy)
+
+
+
+
+

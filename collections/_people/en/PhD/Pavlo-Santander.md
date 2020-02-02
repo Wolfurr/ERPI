@@ -11,3 +11,25 @@ orden: Casanove
 role: PHD
 ---
 
+
+## Title of the thesis
+
+**Valorisation en circuit court de déchets thermoplastiques pour la conception par impression 3D de structures composites.**
+
+## Abstract
+
+
+
+
+
+
+
+
+
+## Directors 
+
+- [Mauricio Camargo](/people/Mauricio-Camargo/)
+- [Hakim Boudaoud](/people/Hakim-Boudaoud/)
+
+
+

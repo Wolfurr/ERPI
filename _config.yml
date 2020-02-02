@@ -286,7 +286,8 @@ collections:
     permalink: /:collection/:path/
   summer-school:
     output: true
-
+  partners:
+    output: true
 
 
 
@@ -435,7 +436,17 @@ defaults:
       sidebar:
         nav: "summer-school"
 
+  - scope:
+      type: partners
+    values:
+      layout: single
+      sidebar:
+        nav: "partners"
 
+  - scope:
+      path: "_partners/en"
+    values:
+      lang: en
 # It'd be nice to have "lang" set through wildcard, using * for directories:
 # https://jekyllrb.com/docs/configuration/front-matter-defaults/
 # this doesn't seem to work

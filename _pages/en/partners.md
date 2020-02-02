@@ -1,18 +1,48 @@
 ---
 lang: en
-title: "People"
+title: "International partners"
 permalink: /partners/
-
-collection: people
-entries_layout: grid
-teaser_class: staff
-sort_by: orden 
-
-
-excerpt: "About ERPI"
+excerpt: "National and International ERPI Partners"
 header:
   overlay_image: /assets/images/about/erpi-travail.jpg
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
+last_modified_at: 2020-02-02
+sidebar:
+  nav: "partners"
 
-last_modified_at: 2019-04-08
 ---
+
+
+# International Professors at ERPI  
+
+
+
+## Joshua Pearce --- Michigan Tech - USA
+
+### Conference: Distributing Recycling
+
+{% include video id="JxF5gunuM1A" provider="youtube" %}
+
+### Conference on Distributing Recycling
+
+{% include video id="QsqvDTdcJtE" provider="youtube" %}
+
+
+
+## Roland ORTT - TU DELF / Netherlands
+
+### Conference: The innovation diffusion paradigm
+
+{% include video id="KMtcm1-z50s" provider="youtube" %}
+
+
+
+
+
+- Paulo, 
+- Miguel, 
+- Daniel 
+- Julio, 
+- Richard  
+
+

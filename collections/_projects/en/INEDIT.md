@@ -11,6 +11,9 @@ last_modified_at: 2020-01-13
 keywords: [Open innovation ecosystems, DIY, DIT approach, agile supply chains, Open Manufacturing demonstration Facility, co-creation, circular economy, makers, translation layer, gender, AR/ VR, platform]
 Research-field: [Design]
 Field of application: [Furniture]
+Funding: [EU]
+
+
 
 partners:
   - image_path: "/assets/images/projects/inedit/partners/ENSAM.png"
@@ -129,6 +132,8 @@ addressing the needs of the single user in an industrial context.
 ## Scientific production
 
 - You can find the associated scientific production at: [https://cordis.europa.eu/project/id/869952](https://cordis.europa.eu/project/id/869952)  
+
+
 
 
 ## Acknowledgements

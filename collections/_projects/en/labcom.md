@@ -20,7 +20,11 @@ published: true
 
 Research-field:
   - Acceptability
+
+Funding: [FR]  
 ---
+
+
 ## The Joint Research Lab: Humans at the heart of the challenges of the digital world
 
 The LabCom is centered in the study of digitally supported human-to-human and human-machine interactions, with a vision of: technology at the service of mankind.
