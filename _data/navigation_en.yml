@@ -9,11 +9,12 @@ main:
 
   - title: "Projects"
     url: /projects/
-  - title: "News"
-    url: /news/
 
   - title: "Partners"
     url: /partners/
+
+  - title: "News"
+    url: /news/
 
   - title: "Contact"
     url: /contact/
