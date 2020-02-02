@@ -9,19 +9,20 @@ teaser_class: staff
 sort_by: orden 
 
 
+
 excerpt: "About ERPI"
 header:
   overlay_image: /assets/images/about/erpi-travail.jpg
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
-last_modified_at: 2019-04-08
+last_modified_at: 2020-02-02
 ---
+
+{% include toc icon="cog" title="People at ERPI" %}
 
 
 
 ## Professors
-
-
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html 
@@ -37,8 +38,6 @@ last_modified_at: 2019-04-08
 
 
 ## Assistant Professors
-
-
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html 
@@ -82,19 +81,12 @@ last_modified_at: 2019-04-08
 %}
 </div>
 
-<div style="width: 100%; clear: both;"></div>
 
+<div style="width: 100%; clear: both;"></div>
 
 ## Administrative and Technical Staff
 
-<div class="entries-{{ page.entries_layout }}">
-{% include documents-collection.html  
-    collection=page.collection  
-    type=page.entries_layout 
-    teaser_class=page.teaser_class   
-    sort_by = 'orden' 
-    role="Admin" 
-%}
-
+<div class = "entries-{{ page.entries_layout }}">
+{% include documents-collection.html  collection=page.collection  type=page.entries_layout  teaser_class = page.teaser_class  sort_by = "orden"  role= "Admin" %}
 
 

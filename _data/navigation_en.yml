@@ -1,15 +1,23 @@
 # Navigion Links
 main:
-  - title: "About ERPI"
-    url: /about/
-  - title: "Publications"
-    url: /publications/
+  - title: "People"
+    url: /people/
+#  - title: "About ERPI"
+#    url: /about/
+  - title: "Articles"
+    url: /publications/articles/
+
   - title: "Projects"
     url: /projects/
   - title: "News"
     url: /news/
+
+  - title: "Partners"
+    url: /partners/
+
   - title: "Contact"
     url: /contact/
+
   - title: ":fr:"
     url: /fr/
 

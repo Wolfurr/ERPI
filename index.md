@@ -39,9 +39,13 @@ gallery:
 ---
 
 
+
+{% include feature_row id="intro" type="center" %}
+
+
 The **ERPI (Research team on innovation process)** is one of the [University of Lorraine](http://univ-lorraine.fr) research labs.
 It is labeled as such by the French Ministry of Higher Education, Research and Innovation.
-ERPI is a founding member of the Jacques Villermaux Federation and linked to the EMPP scientifique pole.
+ERPI is a founding member of the Jacques Villermaux Federation and linked to the EMPP scientific axis.
 ERPI has an historical link with the [ENSGSI](http://ensgsi.univ-lorraine.fr) ( Engineering School on Innovation).
 
 ERPI is a research team on Industrial Engineering specialized on the research of innovation processes management. Its activities concerns the methods, tools and knowledges allowing to optimise innovation projects management.
@@ -54,6 +58,14 @@ The scientific project of the ERPI deals with the Fuzzy Front-End off innovation
 </a>
 The **Lorraine Fab Living Lab® (LF2L®)** is a research platform of the ERPI Laboratory dedicated to the prospective assessment of innovative usages. It supports the creation and achievement of results through an established process based on the usage paradigm bringing together in the same space complementary advanced tools. The originality of the LF2L® is to be able to welcome, support and associate different communities (citizen users, entrepreneurs, researchers, etc.) using a conceptual framework of LF2L taking into consideration the 2D (concept), 3D (object), 4D (evolution scenarios) approaches involving the different type of stakeholders in order to have a foresight usage evaluation of a new concept, technology or project. This approach is useful to accelerate the deployment of industrial or urban demonstrators.
 
+
+## Research subjects
+
+ Some topics of research are 
+
+- Innovation management
+- Use assessment
+- Innovation assessment
 
 
 ## Academic partners

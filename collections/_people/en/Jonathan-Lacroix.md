@@ -8,6 +8,6 @@ header:
   teaser: /assets/images/people/PHD/Jonathan-Lacroix.jpeg
 
 orden: Lacroix
-role: PHD
+role: IR
 ---
 
