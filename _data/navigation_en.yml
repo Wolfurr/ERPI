@@ -45,12 +45,12 @@ projects:
     children:
       - title: "Current projects"
         url: /projects/
-      - title: "Funding"
-        url: /projects/funding/
+#      - title: "Funding"
+#        url: /projects/funding/
 #      - title: "Application field"
 #        url: /projects/innolabs/
-      - title: "Past projects"
-        url: /projects/finished/
+#      - title: "Past projects"
+#        url: /projects/finished/
 
 
 partners:
@@ -59,12 +59,12 @@ partners:
       - title: "Professors"
         url: /partners/
 
-      - title: "Industrial"
-        url: /partners/industrial/
+#      - title: "Industrial"
+#        url: /partners/industrial/
 #      - title: "Application field"
 #        url: /projects/innolabs/
-      - title: "Institutional"
-        url: /projects/institutional/
+#      - title: "Institutional"
+#        url: /projects/institutional/
 
 
 

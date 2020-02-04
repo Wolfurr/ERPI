@@ -23,7 +23,7 @@ sidebar:
 
 {% include video id="JxF5gunuM1A" provider="youtube" %}
 
-### Conference on Distributing Recycling
+### Conference: The Open Source Lab
 
 {% include video id="QsqvDTdcJtE" provider="youtube" %}
 
@@ -36,13 +36,5 @@ sidebar:
 {% include video id="KMtcm1-z50s" provider="youtube" %}
 
 
-
-
-
-- Paulo, 
-- Miguel, 
-- Daniel 
-- Julio, 
-- Richard  
 
 
