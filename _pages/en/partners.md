@@ -15,6 +15,12 @@ sidebar:
 
 # International Professors at ERPI  
 
+## Ferran Giones --- University of Southern Denmark, SDU Sønderborg
+
+### Conference: Building Technology Transfer Opportunities through scientist-students collaboration
+
+{% include video id="E6YcWu07uXk" provider="youtube" %}
+
 
 
 ## Joshua Pearce --- Michigan Tech - USA
@@ -29,7 +35,7 @@ sidebar:
 
 
 
-## Roland ORTT - TU DELF / Netherlands
+## Roland ORTT --- TU DELF / Netherlands
 
 ### Conference: The innovation diffusion paradigm
 
