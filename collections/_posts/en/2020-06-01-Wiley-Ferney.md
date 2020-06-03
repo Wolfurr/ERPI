@@ -1,6 +1,6 @@
 ---
 title: Congratulations to one of our PhD student 
-date:   2020-06-01 08:00:00 -0600
+
 
 excerpt: "Congratulations to Ferney Osorio, whose paper has been recognized as one of the most read in Creativity and Innovation Management"
 ---
