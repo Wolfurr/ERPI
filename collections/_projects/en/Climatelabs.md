@@ -1,11 +1,38 @@
 ---
 title: Climatelabs
-excerpt: "Strengthening applied research and innovation capacities in Latin-America through co- creation labs for mitigation and adaptation to Climate Change"
+excerpt: "Strengthening applied research and innovation capacities in Latin-America"
 header:
   teaser: /assets/images/projects/climatelabs/teaser.png
   overlay_image: /assets/images/projects/climatelabs/teaser.png
 last_modified_at: 2020-02-20
 
+gallery:
+  - url: /assets/images/projects/climatelabs/total.jpg
+    image_path: /assets/images/projects/climatelabs/total.jpg
+    alt: ""
+    title: "Climatelabs Kick-off / March 2020"
+  - url: /assets/images/projects/climatelabs/total2.jpg
+    image_path: /assets/images/projects/climatelabs/total2.jpg
+    alt: ""
+    title: "Climatelabs Kick-off / March 2020"  
+  - url: /assets/images/projects/climatelabs/erpi.jpg
+    image_path: /assets/images/projects/climatelabs/erpi.jpg
+    alt: ""
+    title: "Climatelabs Kick-off / March 2020"
+  - url: /assets/images/projects/climatelabs/ferney.jpg
+    image_path: /assets/images/projects/climatelabs/ferney.jpg
+    alt: ""
+    title: "Climatelabs Kick-off / March 2020"
+  - url: /assets/images/projects/climatelabs/mauricio.jpg
+    image_path: /assets/images/projects/climatelabs/mauricio.jpg
+    alt: ""
+    title: "Climatelabs Kick-off / March 2020"
+  - url: /assets/images/projects/climatelabs/laurent.jpg
+    image_path: /assets/images/projects/climatelabs/laurent.jpg
+    alt: ""
+    title: "Climatelabs Kick-off / March 2020"
+
+ 
 Research-field: [Design]
 Field of application: [Furniture]
 Funding: [EU]
@@ -30,6 +57,8 @@ The project seeks, ultimately, to build strong and connected areas of innovation
 
 
 
+{% include gallery caption="Kick-off meeting at Manizales. March 2020" %}
+
 
 ## Acknowledgements
 
@@ -44,7 +73,7 @@ Co-funded by the Erasmus+ Programme of the European Union
 
 - [**Fabio Cruz**](/people/Fabio-Cruz/): (Project Manager for UL)
 - [Ferney Osorio](/people/Ferney-Osorio/)
-- [Laurent Dupont](/people/Laurent-Dupont/): 
+- [Laurent Dupont](/people/Laurent-Dupont/) 
 - [Mauricio Camargo](/people/Mauricio-Camargo/)
 - [Laure Morel](/people/Laure-Morel/)
 - [Claudine Guidat](/people/Claudine-Guidat/)

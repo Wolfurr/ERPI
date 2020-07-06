@@ -4,7 +4,7 @@ excerpt: "Un démonstrateur partagé avec le Grand Nancy"
 header:
   teaser: /assets/images/projects/fabrique-nancy/teaser.png
 last_modified_at: 2019-04-12
-
+Funding: [Nancy]
 ---
 
 ## Presentation

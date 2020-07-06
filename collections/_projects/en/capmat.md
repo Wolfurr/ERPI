@@ -20,6 +20,8 @@ Field of application:
   - Smart Cities
   - Industry 4.0
 
+Funding: [UL] 
+
 partners:
   - image_path: "/assets/images/projects/capmat/IJL.jpg"
     title: ''

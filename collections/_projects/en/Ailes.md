@@ -16,6 +16,9 @@ Research-field:
 
 Field of application:
   - Education     
+
+Funding: [Lorraine]  
+
 ---
 
 > The aim of this project is to apply a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. The project also includes a follow-up phase for cohorts of high school students from the second to the second year of high school, for the establishment of an observatory that will use data analysis and learning approaches to submit the best recommendations to high school students when they choose their orientation.

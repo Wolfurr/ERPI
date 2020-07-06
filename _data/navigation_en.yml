@@ -45,8 +45,8 @@ projects:
     children:
       - title: "Current projects"
         url: /projects/
-#      - title: "Funding"
-#        url: /projects/funding/
+      - title: "Scope"
+        url: /projects/funding/
 #      - title: "Application field"
 #        url: /projects/innolabs/
 #      - title: "Past projects"

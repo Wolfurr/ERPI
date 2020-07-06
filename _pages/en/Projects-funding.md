@@ -35,9 +35,7 @@ last_modified_at: 2019-10-16
 
 
 
-##  European projects <img class="emoji" title=":EU:" alt=":EU:" src="/assets/images/projects/inedit/EU-logo.png" height="20" width="20">
-
-
+##  European  <img class="emoji" title=":EU:" alt=":EU:" src="/assets/images/projects/inedit/EU-logo.png" height="20" width="20">
 
 
 <div class="entries-{{ page.entries_layout }}">
@@ -51,7 +49,7 @@ last_modified_at: 2019-10-16
 
 
 
-## French projects :fr:
+## French :fr:
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html
@@ -62,6 +60,37 @@ last_modified_at: 2019-10-16
 </div>
 <div style="width: 100%; clear: both; "></div>
 
-## Local projects
+## Regional 
+
+<div class="entries-{{ page.entries_layout }}">
+{% include documents-collection.html
+    collection=page.collection
+    type=page.entries_layout        
+    Funding = "Lorraine"
+%}
+</div>
+<div style="width: 100%; clear: both; "></div>
+
+## University 
+<div class="entries-{{ page.entries_layout }}">
+{% include documents-collection.html
+    collection=page.collection
+    type=page.entries_layout        
+    Funding = "UL"
+%}
+</div>
+<div style="width: 100%; clear: both; "></div>
+
+
+
+## City
+<div class="entries-{{ page.entries_layout }}">
+{% include documents-collection.html
+    collection=page.collection
+    type=page.entries_layout        
+    Funding = "Nancy"
+%}
+</div>
+<div style="width: 100%; clear: both; "></div>
 
 
