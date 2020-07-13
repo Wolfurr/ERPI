@@ -8,6 +8,7 @@ last_modified_at: 2018-11-21
 Research-field:
   - Design
 
+Funding: [UL]
 ---
 
 ## La création d'un filière de récyclage local du plastique pour l'impression 3D ouvrira des nouvelles opportunités pour l'economie circulaire et pour une recyclage distribuée.

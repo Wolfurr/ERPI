@@ -6,6 +6,7 @@ header:
 last_modified_at: 2019-10-16
 Research-field:
   - Acceptability
+Funding: [UL]  
 ---
 
 ## L'innovation au service de la Santé et du Bien-Être !

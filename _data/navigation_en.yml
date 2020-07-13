@@ -43,10 +43,10 @@ publications:
 projects:
   - title: "ERPI Projects"
     children:
-      - title: "Current projects"
+      - title: "Thematic"
         url: /projects/
-#      - title: "Funding"
-#        url: /projects/funding/
+      - title: "Scope"
+        url: /projects/funding/
 #      - title: "Application field"
 #        url: /projects/innolabs/
 #      - title: "Past projects"

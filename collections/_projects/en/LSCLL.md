@@ -10,6 +10,7 @@ last_modified_at: 2019-04-12
 Research-field:
   - Design
 
+Funding: [UL]  
 ---
 
 ## The Lorraine Smart Cities Living Lab (LSCLL) of the University of Lorraine at the service of citizens and territories

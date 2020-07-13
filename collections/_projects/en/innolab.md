@@ -21,6 +21,7 @@ partners:
 Research-field:
   - Design
 
+Funding: [UL]
 ---
 
 ## Why Innovation Labs?

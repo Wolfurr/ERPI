@@ -16,6 +16,7 @@ Research-field:
 
 Field of application:
   - Education     
+Funding: [Lorraine] 
 
 last_modified_at: 2019-10-16  
 ---

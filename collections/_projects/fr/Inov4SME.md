@@ -8,6 +8,7 @@ header:
 keywords: [Innovation, export, PME, synergies, outil d’aide à la décision, pratiques ] 
 Research-field: [Metrology, export, PME, synergies, outil d’aide à la décision, pratiques ]
 Field of application: [Vin]
+Funding: [UL]
 
 partners:
   - image_path: "/assets/images/projects/inno4sme/Cerefige.jpg"

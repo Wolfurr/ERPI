@@ -8,6 +8,7 @@ header:
 keywords: [Innovation, Export, SME, Synergies, Decision-making tool, Joint practices]
 Research-field: [Metrology]
 Field of application: [Wine]
+Funding: [UL]
 
 partners:
   - image_path: "/assets/images/projects/inno4sme/Cerefige.jpg"

@@ -9,6 +9,7 @@ last_modified_at: 2018-11-21
 Research-field:
   - Design
 
+Funding: [UL]
 ---
 
 ## The creation of a local plastic recycling network for 3D printing will open up new opportunities for the circular economy and for a distributed recycling paradigm.

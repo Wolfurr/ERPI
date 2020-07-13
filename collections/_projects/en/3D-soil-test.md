@@ -4,9 +4,9 @@ excerpt: "Soil organic matter degradation Additive Manufacturing, Participatory 
 header:
   teaser: "/assets/images/projects/3D-soil-test/teaser.jpg"  
 
+Research-field: [Design]
+Funding: [UL]  
 
-Research-field:
-  - Design
 last_modified_at: 2018-11-21  
 ---
 
