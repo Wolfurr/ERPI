@@ -15,7 +15,7 @@ Ils ont ensuite envisagé des solutions pour transformer la PME en analysant les
 
 Les équipes, accompagnées par leurs facilitateurs respectifs, ont fourni un travail conséquent et abouti. Elles ont eu l’occasion de clôturer cet événement en présentant leurs propositions devant un jury d’experts et de professionnels franco-allemand, ce qui a donné lieu à de riches échanges.  
 
-Au vu du succès de cette première édition, ce challenge sera renouvelé en été 2021 au sein de la Technische Universität Kaiserslautern, cette fois-ci en format présentiel.  
+Au vu du succès de cette première édition, ce challenge sera renouvelé en **été 2021 au sein de la Technische Universität Kaiserslautern**, cette fois-ci en format présentiel.  
 
 *Plus d’informations : davy.monticolo {at} univ-lorraine.fr*
 
