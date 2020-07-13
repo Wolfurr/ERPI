@@ -6,6 +6,18 @@ toc: true
 toc_label: "Year"
 ---
 
+## 2021 (upcoming)  
+
+Call for Chapters - European Perspectives on Innovation Management
+
+It is the diversity of cultures within Europe that inspired us to explore what unites these approaches to innovation management and how they differ.
+
+We invite scholars to contribute chapters, whether they are conceptual, positional, empirical or comparative, to look at specific characteristics of innovation in a regional, national and transnational context within Europe.
+
+We are looking forward to receiving chapters about Nordic, Anglo-Saxon, Nippon-Rhineland, Mediterranean, Eastern Europe, etc. approaches to innovation management and settings; however, perspectives for this book are not limited to these. Although there have been studies into this, they have not been brought together in a collection.
+
+More information on the dedicated [website](https://european-perspectives-innovation-management.eu)  
+
 ## 2017
 
 Boly V., Morel L, Camargo M. [Innovation management: twenty-three years of higher education in a French engineering school](http://romatrepress.uniroma3.it/ojs/index.php/erasmus01/article/view/1340) dans Le ragioni di Erasmus, 1. Curatore: Marina Geat e Vincenzo A. Piccione. Editore: RomaTrE-Press. Data di pubblicazione: settembre 2017. Pagine: 304. ISBN: 978-88-94885-31-6. [Details](http://romatrepress.uniroma3.it/ojs/index.php/erasmus01)

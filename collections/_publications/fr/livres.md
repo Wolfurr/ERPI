@@ -6,6 +6,19 @@ toc_label: "Year"
 last_modified_at: 2018-09-10
 ---
 
+## 2021 (prochainnement)
+
+
+C'est la diversité culturelle des pays d'Europe qui nous à inspiré pour explorer ce qui unit les approches du management de l'innovation et comment elles différes. 
+
+Nous invitons les universaitaires a contribuer aux chapitres qu'ils soient conceptuels, positionnels, empiriques ou bien comparatifs afin de regarder les caractéristiques spécifiques de l'innovation dans des contextes régionaux, nationaux et transnationaux au sein de l'Europe. 
+
+Nous attendons vivement de recevoir des chapitres sur les approches nordiques, anglo-saxonnes, nippon-rhénanes, méditerranéennes, d'Europe de l'Est, etc. en matière de gestion de l'innovation et de son cadrage; cependant, les perspectives de ce livre ne se limitent pas à celles-ci. Bien qu'il y ait eu des études à ce sujet, elles n'ont pas été rassemblées dans un même ouvrage.  
+
+Vous pouvez obtenir plus d'information sur ce projet en visitant le [site Internet dédié](https://european-perspectives-innovation-management.eu)  . 
+
+*Les chapitres sont à soumettre en anglais.*
+
 ## 2017
 
 Boly V., Morel L, Camargo M. [Innovation management: twenty-three years of higher education in a French engineering school](http://romatrepress.uniroma3.it/ojs/index.php/erasmus01/article/view/1340) dans Le ragioni di Erasmus, 1. Curatore: Marina Geat e Vincenzo A. Piccione. Editore: RomaTrE-Press. Data di pubblicazione: settembre 2017. Pagine: 304. ISBN: 978-88-94885-31-6. [Details](http://romatrepress.uniroma3.it/ojs/index.php/erasmus01)
