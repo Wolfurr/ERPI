@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/David-Monticolo.jpg
 
 orden: Monticolo
-role: MCF
+role: PROF
 
 ---
 
