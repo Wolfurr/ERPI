@@ -69,7 +69,7 @@ Industrial:
       url: http://www.elektriliit.ee/
       excerpt: "[ETL](http://www.elektriliit.ee/)"
 
-last_modified_at: 2019-11-21
+last_modified_at: 2020-08-26
 ---
 
 
@@ -104,17 +104,17 @@ The method applied is those of “living lab” in order to involve representati
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 837626
 
 
-## Wabsites
+## Websites
 
-[SMAGRINET](https://www.smagrinet.eu)  
+<i class="fas fa-link"></i>  [SMAGRINET](https://www.smagrinet.eu)  
 
-[CORDIS](https://cordis.europa.eu/project/id/837626)  
+<i class="far fa-id-card"></i> [CORDIS](https://cordis.europa.eu/project/id/837626)  
 
 ##  Social Networks 
 
-[SMAGRINET on Twitter](https://twitter.com/smagrinet)  
+<i class="fab fa-twitter-square"></i> [SMAGRINET on Twitter](https://twitter.com/smagrinet)  
 
-[SMAGRINET on Linkedin](https://www.linkedin.com/company/smagrinet/)
+<i class="fab fa-linkedin"></i> [SMAGRINET on Linkedin](https://www.linkedin.com/company/smagrinet/)
 
 
 

@@ -107,15 +107,15 @@ This project has received funding from the European Union’s Horizon 2020 resea
 
 ## Sites Internet
 
-[SMAGRINET](https://www.smagrinet.eu)  
+<i class="fas fa-link"></i> [SMAGRINET](https://www.smagrinet.eu)  
 
-[CORDIS](https://cordis.europa.eu/project/id/837626)  
+<i class="far fa-id-card"></i> [CORDIS](https://cordis.europa.eu/project/id/837626)  
 
 ##  Réseaux sociaux 
 
-[SMAGRINET sur Twitter](https://twitter.com/smagrinet)  
+<i class="fab fa-twitter-square"></i> [SMAGRINET sur Twitter](https://twitter.com/smagrinet)  
 
-[SMAGRINET sur Linkedin](https://www.linkedin.com/company/smagrinet/)
+<i class="fab fa-linkedin"></i> [SMAGRINET sur Linkedin](https://www.linkedin.com/company/smagrinet/)
 
 
 
