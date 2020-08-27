@@ -9,7 +9,7 @@ header:
 keywords: []
 Research-field: [Prospective]
 Field of application: []
-Funding: [EU]
+Funding: [Non]
 
 toc: true
 toc_label: "Year"
