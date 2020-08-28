@@ -1,6 +1,6 @@
 ---
 title: Lorraine Smart Cities Living Lab
-permalink: /projects/lorraine-smart-city-living-lab/
+permalink: /projects/lorraine-smart-cities-living-lab/
 excerpt: "Living lab Lorrain"
 header:
   teaser: /assets/images/projects/LSCLL/teaser.jpg
@@ -18,58 +18,64 @@ Funding: [UL]
 
 ## The Lorraine Smart Cities Living Lab (LSCLL) of the Université de Lorraine at the service of citizens and territories
 
-Already 10 years of Living Lab in the Grand Est region!
-In 2018, the Lorraine Smart Cities Living Lab (LSCLL) celebrates its 10th anniversary and experiments in terms of projects, governance and support platform.
+The Université de Lorraine supported and developed Living Lab in the Grand Est region since 2008!  
+
+Based on the universality of the university and its multidisciplinarity, the Lorraine Smart Cities Living Lab (LSCLL) experiments in terms of projects, governance and support platform.  
+
+The Lorraine Smart Cities Living Lab is a collaborative resource centre of the Université de Lorraine, to support and link the various thematic and territorial labs integrating users and implementing collaborative approaches in the service of Research, Development of Innovations, Training and a Citizen Culture. The LSCLL seeks to develop Public Private Population Partnerships (PPPPs) to disseminate innovation and related practices.  
+
+The LSCLLL brings together several teams from the University of Lorraine. In 2018, [INRAE Grand Est](https://www.inrae.fr/centres/grand-est-nancy) and [AgroParisTech centre de Nancy](http://www2.agroparistech.fr/Centre-de-Nancy-733.html) joined the governance of the LSCLL as part of the national “Territories of Innovation” challenge with the [“Des Hommes et des Arbres” project](https://www.deshommesetdesarbres.org/).
 
 
-The Lorraine Smart Cities Living Lab is a collaborative resource centre of the Université de Lorraine, to support and link the various thematic and territorial labs integrating users and implementing collaborative approaches in the service of Research, Development of Innovations, Training and a Citizen Culture. The LSCLL seeks to develop Public Private Population Partnerships (PPPPs) to disseminate innovation and related practices.
-The LSCLLL brings together several teams from the Université de Lorraine. In 2018, INRA joined the governance of the LSCLL as part of the TIGA project "Des Hommes et des Arbres" (http://www.dhda2018.fr/)
+It experiments, develops and capitalizes on a dynamic of universality based on  
 
-It experiments, develops and capitalizes on a dynamic of universality based on : 
 + A legally neutral university space
 + A third party guarantor
-+ A university foundation
-+ A Fab Living Lab Engineering (www.lf2l.fr) proposing an integrated process
-+ Ideation
-+ Materialization
-+ Test by use
-+ Open Citizen Labs engineering, for:
-+ Facilitate access to places where users and citizens are present. Involve them in all stages of a project
++ A university foundation: [NIT Foundation](http://fondation-nit.univ-lorraine.fr/) 
++ A [Fab Living Lab Engineering](http://lf2l.fr/concept/) proposing an integrated process: 2D - Ideation; 3D - Materialization ; 4D Test by use
++ Open Citizen Labs engineering, for: Facilitate access to places where users and citizens are present; Involve them in all stages of a project  
+  
+
+It covers: 5 Issues for innovative territories (Details to come)  
+
++ The Man / Nature Relationship
++ The Digital Transition
++ The Energy and Ecological Transition
++ The Art of Living and Moving
++ Health and well-being at all stages of life
 
 
-It covers: 5 Issues for innovative territories (Details to come)
-- The Man / Nature Relationship
-- The Digital Transition
-- The Energy and Ecological Transition
-- The Art of Living and Moving
-- Health and well-being at all stages of life
 
-![smartUL](/assets/images/projects/LSCLL/smartUL.png)  
+![smartUL](/assets/images/projects/LSCLL/smartUL.png){:height="300px" width="300px"}  
+ 
 
 ## [Some current projects](http://lf2l.fr/projects/lorraine-smart-city-living-lab/#a-recognized-living-lab-the-result-of-the-actors-who-make-it-up)
 
 Since 2019, Lorraine Smart City living Lab support several National or European projects involving the Université de Lorraine:
  
-•	[SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in Europe.
-•	[CLIMATE LABS](https://erpi.univ-lorraine.fr/projects/Climatelabs/) - Erasmus+ project Strengthening applied research and innovation capacities in Latin-America through co-creation labs for mitigation and adaptation to Climate Change
-•	[INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process) - The H2020 EU-funded [INEDIT project](https://www.inedit-project.eu/project/) will create an ecosystem to transform the DIY approach within FabLabs into a professional “DIT” approach involving users, suppliers, etc.
++ [SMAGRINET](https://www.smagrinet.eu/) - a EU capacity building project empowering smart grid experience in Europe.  
 
-![smartUL](/assets/images/projects/LSCLL/marianne.png)  
++ [CLIMATE LABS](https://erpi.univ-lorraine.fr/projects/Climatelabs/) - Erasmus+ project Strengthening applied research and innovation capacities in Latin-America through co-creation labs for mitigation and adaptation to Climate Change  
+
++ [INEDIT](https://erpi.univ-lorraine.fr/projects/INEDIT/) (open INnovation Ecosystems for Do It Together process) - The H2020 EU-funded [INEDIT project](https://www.inedit-project.eu/project/) will create an ecosystem to transform the DIY approach within FabLabs into a professional “DIT” approach involving users, suppliers, etc.  
+
+
+![smartUL](/assets/images/projects/LSCLL/marianne.png){:height="150px" width="150px"} 
  
-•	[“Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/) - DHDA” (Humans & Trees) project - In this project involving more than 100 regional partners, the Living lab approach supports the network of “DHDA” relay structures and places with the public (e.g. [LF2L](http://lf2l.fr/), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.) DHDA is one of the 24 national winners of the French PIA3 (Investment in the Future Programme) action “Territoires d’innovation” (Territories of Innovation).
-•	[AILES](https://erpi.univ-lorraine.fr/projects/Ailes/) (Accompagnement à l’intégration des lycéens dans l’enseignement supérieur) - a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. Winner of the French PIA3 (Investment in the Future Programme) action “Territoires d’innovation pédagogique” (Territories of Pedagogical Innovation)
++ [“Des Hommes et des Arbres](https://www.deshommesetdesarbres.org/) - DHDA” (Humans & Trees) project - In this project involving more than 100 regional partners, the Living lab approach supports the network of “DHDA” relay structures and places with the public (e.g. [LF2L](http://lf2l.fr/), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.) DHDA is one of the 24 national winners of the French PIA3 (Investment in the Future Programme) action “Territoires d’innovation” (Territories of Innovation).
++ [AILES](https://erpi.univ-lorraine.fr/projects/Ailes/) (Accompagnement à l’intégration des lycéens dans l’enseignement supérieur) - a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. Winner of the French PIA3 (Investment in the Future Programme) action “Territoires d’innovation pédagogique” (Territories of Pedagogical Innovation)
 
 
 
 ## [A recognized Living Lab, the result of the actors who make it up](http://lf2l.fr/projects/lorraine-smart-city-living-lab/#a-recognized-living-lab-the-result-of-the-actors-who-make-it-up)
 
-Designed from 2008, by the ERPI laboratory team in partnership with local socio-economic actors, the LSCLL is the LL of the Université de Lorraine. It was recognized and [accredited in 2010 by ENoLL](https://enoll.org/network/living-labs/?livinglab=lorraine-smart-cities-living-lab), the European Living Lab network. In 2013, and in 2015, the LSCLL became a co-founding member of France Living Labs and Francophonie Living Labs.
+Designed from 2008, by the ERPI laboratory team in partnership with local socio-economic actors, the LSCLL is the LL of the Université de Lorraine. It was recognized and [accredited in 2010 by ENoLL](https://enoll.org/network/living-labs/?livinglab=lorraine-smart-cities-living-lab), the European Living Lab network. In 2013, and in 2015, the LSCLL became a co-founding member of France Living Labs and Francophonie Living Labs.  
 
-The LSCLL is a "project mode" led by the ERPI laboratory, with governance open to local actors interested in innovation through use at the service of citizens. The LSCLL does not have its own legal structure. It is the result of the pooling of the resources of actors who wish to collaborate together on a theme, a mechanism, a research question involving users in the development of responses to societal challenges.
+The LSCLL is a "project mode" led by the ERPI laboratory, with governance open to local actors interested in innovation through use at the service of citizens. The LSCLL does not have its own legal structure. It is the result of the pooling of the resources of actors who wish to collaborate together on a theme, a mechanism, a research question involving users in the development of responses to societal challenges.  
 
 The term "Lorraine" refers to the initial territory of anchorage, it corresponds to the territory of the Université de Lorraine, and works with all continents.
 The notion of "Smart Cities" is understood in the very broad sense covering all the possible themes of territories, their challenges and the transitions they face.
-In 2010-2011, the Lorraine Smart Cities Living Lab received support from the DIRECCTE Lorraine and the Lorraine Region on the basis of European funding (ERDF). Since 2011, the LSCLL has been funded by the ERPI laboratory's research projects.
+In 2010-2011, the Lorraine Smart Cities Living Lab received support from the DIRECCTE Lorraine and the Lorraine Region on the basis of European funding (ERDF). Since 2011, the LSCLL has been funded by the ERPI laboratory's research projects.  
 
 
 ![Logos](/assets/images/projects/LSCLL/bandeaulogo.png)  
