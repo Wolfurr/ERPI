@@ -2,6 +2,8 @@
 main:
   - title: "À propos"
     url: /fr/about/
+  - title: "Membres"
+    url: /fr/people  
   - title: "Publications"
     url: /fr/publications/
   - title: "Projets"
