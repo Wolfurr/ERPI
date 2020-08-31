@@ -11,25 +11,32 @@ orden: Fonseca
 role: PHD
 ---
 
+## Background and contact 
+
+BSc. and  MSc. degree in Chemical Engineering  from the Universidad Nacional de Colombia. Currently PhD student in Chemical and Process Engineering under a joint supervision between Université de Lorraine and Universidad Nacional de Colombia. Research focus on design and optimization of chemical processes, energy systems, hydrogen energy, multi-objective obtimization and the design of sustainable processes.
+
+
+[![Google Scholar](/assets/images/people/PHD/scholar.png){:height="70px" width="70px"}](https://scholar.google.com/citations?user=6BTWhaEAAAAJ&hl=en) [![ResearchGate](/assets/images/people/PHD/researchgate.png){:height="70px" width="70px"}](https://www.researchgate.net/profile/Juan_Fonseca_Gamboa)
+ 
+![Email](/assets/images/people/PHD/mail.png){:height="70px" width="70px"} juan-david.fonseca-gamboa {at} univ-lorraine.fr
+
+
 
 ## Title of the thesis
 
-**Conception et optimisation multi-objectifs d’un système énergétique sur un éco-quartier incluant différentes technologies de génération et de conversion d’énergie, basées sur l’hydrogène comme vecteur énergétique.**
+**Optimal configuration of distributed energy systems using hydrogen as energy carrier under sustainability criteria.**
 
 ## Abstract
 
 
 
-
-## Funding
-
-- *Financement de la thèse:*  Projet IMPACT Hydrogène. Bourse LUE
-
-
 ## Directors 
 
-- [Mauricio Camargo](/people/Laure-Morel/)
-- Laurent Falk (Director of the LRGP laboratory)
+Mauricio Camargo - Laurent Falk - Ivan Dario Gil  
+
+## Funding 
+
+Projet IMPACT Hydrogène. Bourse LUE  
 
 
 
