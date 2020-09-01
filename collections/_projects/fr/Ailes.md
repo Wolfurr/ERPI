@@ -2,7 +2,7 @@
 title: AILES
 excerpt: "Accompagnement à l'Intégration des Lycéens dans l'Enseignement Supérieur"
 header:
-  teaser: "/assets/images/projects/Ailes/teaser.jpg"  
+  teaser: "/assets/images/projects/Ailes/logoailes.png"  
 keywords:
   - Living Lab
   - Apprentissage Informatique
@@ -42,6 +42,10 @@ Le contexte du projet est le domaine de l’éducation et l’orientation. Les t
 - Université de Technologie de Troyes
 
 
-# Contact
+![Partenaires](/assets/images/projects/Ailes/bandeaulogo.png){:height="600px" width="600px"}
+
+
+## Contact
+
 * **Davy Monticolo**: davy.monticolo(at)univ-lorraine.fr
 *  **Raphael Bary**:/ raphael.bary@univ-lorraine.fr

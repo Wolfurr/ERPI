@@ -2,7 +2,7 @@
 title: AILES
 excerpt: "Living Lab approach to co-create innovative digital solutions with high schools"
 header:
-  teaser: "/assets/images/projects/Ailes/teaser.jpg"  
+  teaser: "/assets/images/projects/Ailes/logoailes.png"  
 last_modified_at: 2019-10-16  
 
 keywords:
@@ -42,7 +42,10 @@ The context of the project is the field of education and guidance. The research 
 - Université de Lorraine
 - Université de Technologie de Troyes
 
+![Partenaires](/assets/images/projects/Ailes/bandeaulogo.png){:height="600px" width="600px"}
 
-# Contact
-* **Davy Monticolo**: davy.monticolo(at)univ-lorraine.fr
-*  **Raphael Bary**:/ raphael.bary@univ-lorraine.fr
+
+
+## Contact
++ **Davy Monticolo**: davy.monticolo(at)univ-lorraine.fr
++ **Raphael Bary**:  raphael.bary@univ-lorraine.fr
