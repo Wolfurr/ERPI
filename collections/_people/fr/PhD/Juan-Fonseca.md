@@ -12,14 +12,9 @@ role: PHD
 ---
 
 
-## Expérience et contact 
+## Expériences
 
 BSc. et MSc. en génie chimique de l'Universidad Nacional de Colombia. Actuellement doctorant en génie chimique et des procédés sous la supervision conjointe de l'Université de Lorraine et de l'Universidad Nacional de Colombia. La recherche porte sur la conception et l'optimisation des procédés chimiques, les systèmes énergétiques, l'énergie de l'hydrogène, l'obtimisation multi-objectifs et la conception de procédés durables.
-
-
-[![Google Scholar](/assets/images/people/PHD/scholar.png){:height="70px" width="70px"}](https://scholar.google.com/citations?user=6BTWhaEAAAAJ&hl=en) [![ResearchGate](/assets/images/people/PHD/researchgate.png){:height="70px" width="70px"}](https://www.researchgate.net/profile/Juan_Fonseca_Gamboa)
- 
-![Email](/assets/images/people/PHD/mail.png){:height="70px" width="70px"} juan-david.fonseca-gamboa {at} univ-lorraine.fr
 
 
 

@@ -1,9 +1,9 @@
 ---
-title: Tu YONGQIANG
+title: Tu Yongqiang
 permalink: /people/Tu-YONGQIANG/
 excerpt: "Quality evaluation and control for bioink based direct ink write"
 last_modified_at: 2020-08-28
-author: Tu
+author: Tu Yongqiang
 header:
   teaser: /assets/images/people/PHD/Tu-YONGQIANG.jpg
 

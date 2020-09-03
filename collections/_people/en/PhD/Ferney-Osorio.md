@@ -11,18 +11,10 @@ orden: Osorio
 role: PHD
 ---
 
-## Background and contact 
+## Background
 
 He is an electronics engineer of the Universidad Nacional de Colombia (UNAL). He received his MSc on a double degree program on Industrial Engineering and Innovation Management from Université de Lorraine (UL) and UNAL. He is co‐founder of the ViveLab Bogotá, where he managed the execution of multiple citizen‐driven innovation projects supported by the national and local government. He also has teaching experience as lecturer in the Master's program on Innovation at the Universidad Antonio Nariño. Today he conducts his PhD research on the design and management of innovation labs under joint supervision at the UL and UNAL. Through the UL, he is involved in the Climate Labs project, an international consortium funded by Eramus+ that seeks to strengthen applied research and innovation capabilities in Latin America through co-creation laboratories for climate change mitigation and adaptation.
  
-
-
-[![Google Scholar](/assets/images/people/PHD/scholar.png){:height="70px" width="70px"}](https://scholar.google.fr/citations?user=uMjJC5cAAAAJ&hl=fr&authuser=1) [![ResearchGate](/assets/images/people/PHD/researchgate.png){:height="70px" width="70px"}](https://www.researchgate.net/profile/Ferney_Osorio)
-
-[![LinkedIn](/assets/images/people/PHD/linkedin.png){:height="70px" width="70px"}](https://www.linkedin.com/in/ferneyob/) 
-![Email](/assets/images/people/PHD/mail.png){:height="70px" width="70px"}  ferney.osorio-bustamante {at} univ-lorraine.fr
-
-
 
 ## Title of the thesis
 

@@ -1,18 +1,21 @@
 ---
-title: GID- Route
-excerpt: "La route durable, la route pour l'avenir"
+title: Gestion Innovative des dépendances routières
+excerpt: "Conception d’un outil d’orientation stratégique et d’accompagnement à l’échelle d’un territoire pour la gestion raisonnée des bords de route"
 header:
-  teaser: /assets/images/projects/noremat/teaser.png
-  overlay_image: /assets/images/projects/noremat/header.png
+  teaser: /assets/images/projects/noremat/teaser2.png
+  overlay_image: /assets/images/projects/noremat/banner.png
 
-partners:
+keywords: [Outil d’aide à la décision ; démonstrateur territorial ; dépendances routières]
+
+Industrial:
 - url: "http://www.noremat.com/"
-  image_path: "/assets/images/projects/noremat/noremat-logo.png"
+  image_path: "/assets/images/projects/noremat/industrialpartner.png"
   alt: "Noremat Logo"
 
-- url: "https://www.ensgsi.univ-lorraine.fr/"
-  image_path: "/assets/images/projects/noremat/ENSGSI.jpg"  
-  alt: "ENSGI Logo"  
+partners:
+- url: "https://www.ucentral.edu.co"
+  image_path: "/assets/images/projects/noremat/univpartner.png"
+
 img-path: "/assets/images/projects/noremat/"  
 last_modified_at: 2018-11-14  
 
@@ -20,72 +23,58 @@ Research-field:
   - Design
 ---
 
-## Présentation
-Afin de prendre la meilleure décision pour la gestion des dépendances routères, l'outil **GID-Route** est conçu pour:
+## Contexte du projet 
+
+Dans un contexte où les infrastructures de transport sont confrontées à des évolutions d’ordres sociétales, territoriales, politiques, techniques et technologiques, il devient primordial de revoir leur place au sein de la société. La construction et l’entretien des infrastructures de transport impliquent des éléments d’appréciations liés au rôle économique des transports, à la sécurité publique et au cadre de vie ainsi qu’à la préservation de l’environnement. Les conséquences des choix effectués, notamment en termes d’aménagement de l’espace, se répercutent sur le long terme.   
+
+Il est donc temps de rendre les stratégies de gestion des infrastructures plus résilientes et adaptées aux nouvelles conditions imposées par la planète. Force est de constater que si dans la théorie, cela paraît simple et une évidence, en pratique, la difficulté de déployer une stratégie respectueuse de l’environnement reste. Afin de faciliter la mise en place de nouvelles stratégies de gestion des dépendances routières, il est nécessaire de développer des outils d’aide à la décision permettant d’évaluer les externalités d’ordres économiques, environnementales et sociétales et donc l’impact de ces stratégies de gestion sur l’environnement et la société. 
 
 
-1. Accompagner les acteurs du territoire dans la définition de leur gestion des bords de route
-2. Quantifier et estimer l'impact sur le territoire d'un mode de gestion: d'un point de vue économique, technique, social et environmental.
-3. Modéliser et évaluer économiquement les bénéficies de la gestion des dépendences routières dans des scénarios possibles
 
-## Démarche de conception de l'outil
+## Objéctifs de la recherche
 
-<b style="color: rgb(128, 0, 0);">1. Définition des besoins des acteurs </b>
+Afin d’accompagner les acteurs du territoire dans la gestion des infrastructures de transport, ce projet cherche à développer un outil d’aide à la décision pour les acteurs du territoire. Cet outil basé sur une modélisation par dynamique des systèmes cherche à faciliter l’évaluation d’une stratégie de gestion des dépendances routières en amont. L’approche proposée sera testée sur des territoires cibles et sera partie intégrante d’un démonstrateur de gestion des dépendances routières.  
 
-   - Identifications des enjeux économiques, technologiques, environnementaux et sociaux
-   - Cahier des charges de l'outil
+Le projet GID-Route, dans sa première phase (Septembre 2017- Février 2019) a permis d’identifier les critères d’évaluation de durabilité des impacts de la gestion des bords de route, au travers d’une étude de la littérature et d’interviews avec les parties prenantes et de développer un modèle en dynamique des systèmes permettant l’intégration des divers critères et leurs interactions possibles ;  
+
+La deuxième phase du projet se concentre sur le développement d’un outil d’aide à la décision par une approche centrée sur l’utilisateur favorisant une gestion innovante et durable des dépendances routières ainsi que le démonstrateur territorial associé. Un démonstrateur territorial sera conçu en lien avec le système d’aide à la décision afin de montrer les impacts d’une gestion innovante et durable des dépendances routières.
 
 
-<b style="color: rgb(128, 0, 0);">2. Définition des spécifications techniques </b>
+## Partenariats universitaires
 
-  - Critères de désicion
-  - Indicateurs économiques,  environnementaux et sociaux
-  - Adaptation de l’outil au contexte
-    - Facteurs locaux
-    - Spécificités du territoire
-  - Evaluation multicritères
-  - Collecte de données du territoire
-    - Liées au contexte du territoire
-    - Qualitatives et quantitatives
-
-<b style="color: rgb(128, 0, 0);">3. Développement des interfaces </b>
-  - Maqutte
-  - Scénatios
-
-<b style="color: rgb(128, 0, 0);">4. Test d'usage </b>
-
-  - Workshop
-  - Simulation
+{% include feature_row id="partners" %}
 
 
-## GID -- Route
+## Partenariats industriels
 
-Un outil répondant à de nombreux enjeux de durabilité des territoires:
-
-<figure style="width: 90%" class="align-center">
-    <img src="{{ site.baseurl | append:page.img-path | append:'enjeux.png'}}"
-    alt="enjeux noremat">
- <figcaption>  </figcaption>
-</figure>
+{% include feature_row id="Industrial" %}
 
 
-## Les routes en chiffres
+## Productions scientifiques associées
 
-- La France est traversée par 1.079.072 km de routes, 32.888 km de voies ferrées et 6 700 km des voies fluiviales. La surface totale des routes correspond à 1,2% du territoire français
-- La surface totale des accotements des routes nationales et départementales ajoutées à celle des voies communales, représente près de 5000 km2, soit plus aue l'étendue des sept parc nationaux français!
-- 1 000 000 km de routes en France
-- équivalent à 500 000 haa d'accotements
-- équivalent à 5 000 000 tonnes d'herbe valorisable
-- équivalent à 400 000 000 litres de fuel/an
+Rodriguez, S. C. B., Mauricio, C. P., Laure, M., & Christophe, B. (2018, June). Sustainable Management of Roadside: Towards a Research Agenda. In 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC) (pp. 1-9). IEEE.
 
 
-## Partenaires du projet
+## Sites Internet
+
+<i class="fas fa-link"></i> [NOREMAT](https://www.noremat.fr)  
+
+<i class="fas fa-link"></i> [Universidad Central](https://www.ucentral.edu.co)  
+
+##  Réseaux sociaux 
+
+<i class="fab fa-twitter-square"></i> [NOREMAT sur Twitter](https://twitter.com/noremat_?lang=fr)  
+
+<i class="fab fa-linkedin"></i> [NOREMAT sur Facebook](https://fr-fr.facebook.com/noremat)
 
 
-{% include gallery id="partners" layout="half" %}
 
 
-## Nous contacter
+## Contacts 
+* **Brunelle MARCHE**: brunelle.marche{at}univ-lorraine.fr
+* **Mauricio CAMARGO**: mauricio.camargo{at}univ-lorraine.fr
+* **Sandra BAUTISTA**: 
 
-- **Mauricio Camargo**: mauricio.camargo{at}univ-lorrainfe.fr
-- **Sandra Batista**: sandra.bautista-rodriguez{at}univ-lorrainfe.fr
+
+
+ *Les dates du projet : 01/09/2020 --- non arrêté*

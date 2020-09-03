@@ -1,26 +1,15 @@
 ---
-title: Tu YONGQIANG
+title: Tu Yongqiang
 permalink: /people/Tu-YONGQIANG/
 excerpt: "Évaluation et contrôle de la qualité pour l'écriture directe à l'encre bioink"
 last_modified_at: 2020-08-28
-author: Tu
+author: Tu Yongqiang
 header:
   teaser: /assets/images/people/PHD/Tu-YONGQIANG.jpg
 
 orden: YONGQIANG
 role: PHD
 ---
-
-## Expérience et contact 
-
-
-1. Conception et analyse de l'amortisseur à mécanisme parallèle
-2. Analyse de l'erreur de navigation dans le système de navigation inertielle à rotation à deux axes (RINS).
-
-[![Google Scholar](/assets/images/people/PHD/scholar.png){:height="70px" width="70px"}](https://scholar.google.com/citations?user=cELZ2BMAAAAJ&hl=fr) [![ResearchGate](/assets/images/people/PHD/researchgate.png){:height="70px" width="70px"}](https://www.researchgate.net/profile/Yongqiang_Tu)
- 
-[![LinkedIn](/assets/images/people/PHD/linkedin.png){:height="70px" width="70px"}](https://www.linkedin.com/in/勇强-涂-14a6671b5/) ![Email](/assets/images/people/PHD/mail.png){:height="70px" width="70px"} tuyq1992 {at} gmail.com
-
 
 
 ## Titre de la thèse 

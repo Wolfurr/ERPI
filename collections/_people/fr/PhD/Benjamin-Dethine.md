@@ -11,16 +11,6 @@ orden: Dethine
 role: PHD
 ---
 
-
-## Contact 
-
-[![ResearchGate](/assets/images/people/PHD/researchgate.png){:height="70px" width="70px"}](https://www.researchgate.net/profile/Benjamin_Dethine2)
-[![LinkedIn](/assets/images/people/PHD/linkedin.png){:height="70px" width="70px"}](www.linkedin.com/in/benjamin-dethine) 
-
-![Email](/assets/images/people/PHD/mail.png){:height="70px" width="70px"} benjamin.dethine {at} innovation-way.com
-
-
-
 ## Titre de la thèse
 
 **Vers un système de recommandations pour définir la stratégie numérique des PME industrielles.**

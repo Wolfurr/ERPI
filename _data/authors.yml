@@ -370,19 +370,17 @@ Jonathan Lacroix:
 
 Juan Fonseca:
   name: Juan Fonseca
-  email: ' '
+  email: juan-david.fonseca-gamboa@univ-lorraine.fr
   bio: "PhD"
   avatar: "/assets/images/people/PHD/Juan-Fonseca.jpg"
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
-        url: " " 
+        url: "https://scholar.google.com/citations?user=6BTWhaEAAAAJ&hl=en" 
       - label: "Researchgate"
-        icon: "ai ai-researchgate"
+        icon: "https://www.researchgate.net/profile/Juan_Fonseca_Gamboa"
         url: " "
-      - label: "LinkedIn"
-        icon: "fab fa-linkedin"
-        url: " "   
+      
 
 
 Linda Acosta:
@@ -478,12 +476,35 @@ Fedoua Kasmi:
 
 
 
+Benjamin Dethine: 
+  name: Benjamin Dethine 
+  email: benjamin.dethine@innovation-way.com
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Benjamin-Dethine.jpg"
+  links: 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Benjamin_Dethine2"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "www.linkedin.com/in/benjamin-dethine"   
 
 
-
-
-
-
+Tu Yongqiang: 
+  name: Tu Yongqiang
+  email: tuyq1992@gmail.com
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Tu-YONGQIANG.jpg"
+  links: 
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.com/citations?user=cELZ2BMAAAAJ&hl=fr" 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Yongqiang_Tu"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/勇强-涂-14a6671b5/"   
 
 
 
