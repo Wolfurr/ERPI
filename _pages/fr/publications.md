@@ -14,7 +14,7 @@ sidebar:
   nav: "publications"      
 
 feature_row:
-  - image_path: /assets/images/publications/articles.jpg
+  - image_path: /assets/images/publications/articles2.jpg
     alt: "Articles of ERPI"
     title: "Articles scientifiques"
     excerpt: ""
