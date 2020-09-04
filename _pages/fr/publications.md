@@ -7,7 +7,7 @@ excerpt: "Publications scientifiques du Laboratoire ERPI"
 classes: wide
 
 header:
-  overlay_image: /assets/images/publications/banner.jpg
+  overlay_image: /assets/images/banner/bannerpublication.jpg
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
 sidebar:
@@ -22,7 +22,7 @@ feature_row:
     btn_label: "Plus de détails"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/publications/conferences.jpg
+  - image_path: /assets/images/publications/conference2.jpg
     alt: "Conferences proceedings ERPI"
     title: "Conférences"
     excerpt: ""
@@ -30,7 +30,7 @@ feature_row:
     btn_label: "Plus de détails"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/publications/livres.jpg
+  - image_path: /assets/images/publications/livres3.jpg
     title: "Livres sur l'Innovation"
     excerpt: ""
     url: "/fr/publications/books/"
@@ -38,7 +38,7 @@ feature_row:
     btn_class: "btn--inverse"
 
 
-  - image_path: /assets/images/publications/theses.jpg
+  - image_path: /assets/images/publications/theses2.jpg
     title: "Thèses de Doctorat"
     excerpt: ""
     url: "/fr/publications/thesis/"

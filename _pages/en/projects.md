@@ -10,7 +10,7 @@ entries_layout: grid
 
 excerpt: "Some of the research projects at ERPI"
 header:
-  overlay_image: /assets/images/publications/articles.jpg
+  overlay_image: /assets/images/banner/bannerprojet2.jpg
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
 sidebar:

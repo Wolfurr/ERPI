@@ -4,7 +4,7 @@ permalink: /fr/contact/
 excerpt: "information"
 
 header:
-  overlay_image: /assets/images/contact/staticmap.png  
+  overlay_image: /assets/images/banner/bannercontact.jpg
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 last_modified_at: 2019-04-08
 ---

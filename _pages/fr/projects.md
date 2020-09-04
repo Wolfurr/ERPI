@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: "Projects ERPI"
+title: "Projets de l'ERPI"
 permalink: /fr/projects/
 layout: single
 class: wide
@@ -11,7 +11,7 @@ entries_layout: grid
 
 excerpt: "Projets du laboratoire"
 header:
-  overlay_image: /assets/images/publications/articles.jpg
+  overlay_image: /assets/images/banner/bannerprojet2.jpg
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
 sidebar:
@@ -31,7 +31,7 @@ gallery:
     alt: "ERPI Acceptability"        
     url: /fr/projects/#acceptability   
 
-last_modified_at: 2019-10-16
+last_modified_at: 2020-09-04
 ---
 
 

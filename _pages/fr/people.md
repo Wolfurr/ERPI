@@ -10,7 +10,7 @@ sort_by: orden
 
 excerpt: "Les membre de l'équipe"
 header:
-  overlay_image: /assets/images/about/erpi-travail.jpg
+  overlay_image: /assets/images/banner/bannerequipe.jpg
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
 last_modified_at: 2020-08-28
