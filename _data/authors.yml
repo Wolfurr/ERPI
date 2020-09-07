@@ -507,6 +507,21 @@ Tu Yongqiang:
         url: "https://www.linkedin.com/in/勇强-涂-14a6671b5/"   
 
 
+Jose Luis: 
+  name: Jose Luis
+  email: jose-luis.rivera-gil@univ-lorraine.fr
+  bio: "PhD"
+  avatar: "/assets/images/people/Man.jpg"
+  links: 
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.com/citations?user=VWgWxRIAAAAJ&hl=es" 
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Jose_Rivera102"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/jose-luis-rivera-gil-967059142/"   
 
 
 

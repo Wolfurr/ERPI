@@ -33,7 +33,7 @@ Pour l'évaluation de l'imprimabilité des bioinks, le but est de proposer une m
 Pour la sélection et l'optimisation des paramètres de processus ainsi que le contrôle de processus, nous commencerons ces deux contenus à partir de la deuxième année.
 
 
-## Directeurrs 
+## Directeurs 
 
 Dr. Alaa Hassan; Prof. Ali Siadat; Prof. Yang Gongliu
 
