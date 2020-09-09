@@ -524,6 +524,18 @@ Jose Luis:
         url: "https://www.linkedin.com/in/jose-luis-rivera-gil-967059142/"   
 
 
+Fangkai Xue: 
+  name: Fangkai Xue
+  email: xue1@univ-lorraine.fr
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Fangkai-XUE.jpg"
+  links: 
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "www.linkedin.com/in/fangkai-xue"   
+
+
+
 
 # Sandra Bautista:
 #   name: Sandra Bautista
