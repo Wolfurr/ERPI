@@ -8,7 +8,7 @@ header:
 last_modified_at: 2019-06-03
 
 partners:
-- image_path: "/assets/images/projects/innolabs/colciencias.png"
+- image_path: "/assets/images/projects/innolabs/minciencias.png"
   alt: CESI
   title: ''
   excerpt: "[Colciencias](https://www.colciencias.gov.co/)"
