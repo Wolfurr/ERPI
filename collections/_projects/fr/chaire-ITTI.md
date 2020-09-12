@@ -1,11 +1,31 @@
 ---
-title: Chaire collaborative ITTI (Intelligence Territoriale et Territoires en Intelligence)
+title: Chaire collaborative ITTI (Innovation Territoriale et Territoires en Intelligence)
 excerpt: "Répondre aux grands enjeux de transformation des territoires en développant des ingénieries collaboratives innovantes"
 header:
   teaser: /assets/images/projects/Itti/ITTIlogo.png
 last_modified_at: 2020-05-29
 Research-field:
   - Metrology
+
+
+partners:
+  - image_path: "/assets/images/projects/Itti/pompey.png"
+    url: 
+    title: ''
+    excerpt: "Bassin de Pompey"
+  - image_path: "/assets/images/projects/Itti/LogoMadMoselle.png"
+    title: ''
+    url: 
+    excerpt: "Communauté de communes Mad et Moselle"
+  - image_path: "/assets/images/projects/Itti/LogoAlzette.png"
+    url: 
+    title: ''
+    excerpt: "Communauté de communes Pays Haut Val d'Alzette"
+  - image_path: "/assets/images/projects/Itti/epinal.png"
+    url: 
+    title: ''
+    excerpt: "Pays d'Epinal"
+
 ---
 
 ## Présentation
@@ -22,14 +42,7 @@ La chaire collaborative ITTI est vue comme un espace collaboratif permettant d�
 
 ## Partenaire 
 
-![Bassin de Pompey](/assets/images/projects/Itti/pompey.png)
-
-![Communauté de communes Mad et Moselle](/assets/images/projects/Itti/LogoMadMoselle.png)
-
-![Communauté de communes Pays Haut Val d'Alzette](/assets/images/projects/Itti/LogoAlzette.png)
-
-![Pays d'Epinal](/assets/images/projects/Itti/epinal.png)
-
+{% include feature_row id="partners" %}
 
 ## Contacts 
 
