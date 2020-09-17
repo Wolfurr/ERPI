@@ -1,6 +1,6 @@
 ---
 title: Florence Kone 
-permalink: /people/Florence-Kone /
+permalink: /people/Florence-Kone/
 excerpt: ""
 last_modified_at: 2020-02-02
 author: Florence
