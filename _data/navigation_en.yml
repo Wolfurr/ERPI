@@ -4,7 +4,7 @@ main:
     url: /people/
 #  - title: "About ERPI"
 #    url: /about/
-  - title: "Articles"
+  - title: "Publications"
     url: /publications/articles/
 
   - title: "Projects"
