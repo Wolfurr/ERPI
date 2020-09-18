@@ -6,7 +6,7 @@ excerpt: "National and International ERPI Partners"
 header:
   overlay_image: /assets/images/banner/bannerpartner.jpg
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
-last_modified_at: 2020-02-02
+
 sidebar:
   nav: "partners"
 

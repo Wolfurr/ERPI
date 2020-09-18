@@ -61,7 +61,7 @@ Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d�
 Le **Lorraine Fab Living Lab® (LF2L®)** permet d’accompagner la création et l’obtention de résultats immédiats grâce à un processus établi basé sur le paradigme de l’usage. En réunissant en un même espace des outils de pointe complémentaires, le LF2L® facilite le travail de réflexion collaborative et de développement de l’innovation. L’originalité du LF2L® est de pouvoir accueillir, accompagner, associer différentes communautés (citoyens utilisateurs, entrepreneurs, chercheurs, etc.) via un dispositif scientifique et technique capable d’accélérer le passage de l’idée ou concept abstrait (2D) à leur matérialisation (3D virtuelle ou prototypée) en les évaluant (4D – scénarios d’évolution)
 
 
-## Partenaires académique
+## Partenaires académiques
 
 
 {% include gallery id="academic" %}

@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: "About ERPI"
+title: "A propos de l'ERPI"
 permalink: /fr/about/
 
 collection: people
@@ -8,7 +8,7 @@ entries_layout: grid
 teaser_class: staff
 sort_by: orden 
 
-excerpt: "About ERPI"
+excerpt: "A propos d'ERPI"
 header:
   overlay_image: /assets/images/banner/bannerapropos.jpg
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
@@ -16,7 +16,7 @@ header:
 intro:
   - excerpt: "**Equipe de recherche multi-disciplinaire sur les processus d'innovation**"
 
-last_modified_at: 2019-05-07
+
 ---
 
 
@@ -33,11 +33,11 @@ L’équipe ERPI a pour vocation de mener des recherches dans le domaine de la c
 Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d’innovation technologique** c’est-à-dire les phases allant de l’émergence des idées jusqu’aux phases préalables à la matérialisation (plans numériques ou formulation). La spécificité des approches de l'ERPI par rapport au paysage international de la recherche en innovation est de considérer le produit comme un système intégrant : les caractéristiques du produit lui-même ainsi que les éléments descriptifs de l’activité industrielle correspondante (fabrication, maintenance, distribution…).
 
 
-## Sujets de Recherche
+## Sujets de recherche
 --- 
- - Pilotage des processuss d'innovation
- - Analyse d'Usage
- - Evaluation de la capacité a innover
+ - Pilotage des processus d'innovation
+ - Analyse d'usage
+ - Evaluation de la capacité à innover
 
 
 ## L'Equipe
@@ -46,7 +46,7 @@ Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d�
 
 
 
-## Professors
+# Professeurs
 
 
 <div class="entries-{{ page.entries_layout }}">
@@ -62,7 +62,7 @@ Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d�
 <div style="width: 100%; clear: both; "></div>
 
 
-## Assistant Professors
+# Assistants Professeurs
 
 
 
@@ -79,7 +79,7 @@ Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d�
 <div style="width: 100%; clear: both;"></div>
 
 
-## Teaching and Research Assistants / Post Docs 
+# Enseignants et assistants de recherche / Post Docs 
 
 
 <div class="entries-{{ page.entries_layout }}">
@@ -96,7 +96,7 @@ Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d�
 <div style="width: 100%; clear: both;"></div>
 
 
-## PhD Students
+# Doctorants
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html  
@@ -111,7 +111,7 @@ Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d�
 <div style="width: 100%; clear: both;"></div>
 
 
-## Administrative and Technical Staff
+# Personnels administratif et technique
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html  
@@ -121,8 +121,9 @@ Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d�
     sort_by = 'orden' 
     role="Admin" 
 %}
+</div>
 
-
+<div style="width: 100%; clear: both;"></div>
 
 
 

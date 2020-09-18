@@ -13,7 +13,6 @@ header:
   overlay_image: /assets/images/banner/bannerequipe.jpg
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
-last_modified_at: 2020-08-28
 ---
 
 
@@ -86,6 +85,10 @@ last_modified_at: 2020-08-28
 ## Administrative and Technical Staff
 
 <div class = "entries-{{ page.entries_layout }}">
-{% include documents-collection.html  collection=page.collection  type=page.entries_layout  teaser_class = page.teaser_class  sort_by = "orden"  role= "Admin" %}
-
+{% include documents-collection.html  
+    collection=page.collection
+    type=page.entries_layout  
+    teaser_class = page.teaser_class  
+    sort_by = "orden"  
+    role= "Admin" %}
 

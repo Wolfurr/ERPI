@@ -6,15 +6,16 @@ excerpt: "Practical information"
 header:
   overlay_image: /assets/images/banner/bannercontact.jpg
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
-last_modified_at: 2019-04-08
+
 ---
 
-## Horaire
+## Opening time
 
-- **Monday - Friday**, 8:00am - 18:00pm 
+- **Monday to Friday**: 8:00am - 18:00pm 
 
-## Contact Information
+## Address 
 
-Laboratoire ERPI,
-8 rue Bastien Lepage,
-BP647, 54010 Nancy Cedex - France
+Laboratoire ERPI  
+8 rue Bastien Lepage  
+BP647, 54010 Nancy Cedex - France  
+

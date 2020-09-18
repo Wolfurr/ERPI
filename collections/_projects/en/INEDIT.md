@@ -1,12 +1,12 @@
 ---
 title: INEDIT
 classes: wide
-excerpt: "open **IN**novation **E**cosystems for **D**o **I**t **T**ogether process --- H2020"
+excerpt: "Open **IN**novation **E**cosystems for **D**o **I**t **T**ogether process --- H2020"
 header:
   teaser: "/assets/images/projects/inedit/teaser.png"  
   overlay_image: "/assets/images/projects/inedit/header.png"
 
-last_modified_at: 2020-01-13
+last_modified_at: 2020-09-18
 
 keywords: [Open innovation ecosystems, DIY, DIT approach, agile supply chains, Open Manufacturing demonstration Facility, co-creation, circular economy, makers, translation layer, gender, AR/ VR, platform]
 Research-field: [Design]

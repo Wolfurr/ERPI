@@ -16,7 +16,7 @@ main:
     url: /
 
 publications:
-  - title: "Publications du ERPI"
+  - title: "Publications de l'ERPI"
     children:
       - title: "Articles scientifiques"
         url: /fr/publications/articles/

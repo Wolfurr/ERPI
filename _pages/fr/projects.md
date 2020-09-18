@@ -31,7 +31,7 @@ gallery:
     alt: "ERPI Acceptability"        
     url: /fr/projects/#acceptability   
 
-last_modified_at: 2020-09-04
+
 ---
 
 

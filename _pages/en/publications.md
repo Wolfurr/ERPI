@@ -45,7 +45,7 @@ feature_row:
     btn_class: "btn--inverse"
 
 
-last_modified_at: 2018-09-07
+
 ---
 
 

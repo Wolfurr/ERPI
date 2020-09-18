@@ -260,8 +260,8 @@ Javier Arrieta:
 
 
 
-Fatima:
-  name: Fatima Ezzahra HAMDANI
+Fatima Ezzahra Hamdani:
+  name: Fatima Ezzahra Hamdani
   email: ''
   bio: "ATER"
   avatar: "/assets/images/people/Woman.jpg"
@@ -333,7 +333,7 @@ Carlos Moya:
   name: Carlos Moya
   email: ' '
   bio: "PhD"
-  avatar: "/assets/images/people/PHD/Alice.jpg"
+  avatar: "/assets/images/people/PHD/Carlos-Moya.jpg"
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
@@ -539,6 +539,44 @@ Valentine Labouheure:
   email: valentine.labouheure@univ-lorraine.fr
   bio: "PhD"
   avatar: "/assets/images/people/Woman.jpg"
+
+
+Mouna Hassani: 
+  name: Mouna Hassani 
+  email: mouna.hassani@univ-lorraine.fr
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Mouna-HASSANI.jpg"
+  links: 
+      - 
+
+
+Benjamin Ennesser-Serville:
+  name: Benjamin Ennesser-Serville
+  email: benjamin.ennesser-serville@univ-lorraine.fr
+  bio: "Admin"
+  avatar: "/assets/images/people/Benjamin.jpg"
+
+
+Frederick Fontaine:
+  name: Frederick Fontaine
+  email: frederick.fontaine@univ-lorraine.fr
+  bio: "Admin"
+  avatar: "/assets/images/people/fred.png"
+
+
+Cindy Neves:
+  name: Cindy Neves
+  email: cindy.neves@univ-lorraine.fr
+  bio: "Admin"
+  avatar: "/assets/images/people/Woman.jpg"
+
+
+Thomas Didier:
+  name: Thomas Didier
+  email: thomas.didier@univ-lorraine.fr
+  bio: "Admin"
+  avatar: "/assets/images/people/Thomas-Didier.jpg"
+
 
 
 # Sandra Bautista:

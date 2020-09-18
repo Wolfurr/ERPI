@@ -1,5 +1,5 @@
 ---
-title: Laure MOREL
+title: Laure Morel
 permalink: /people/Laure-Morel/
 excerpt: "Innovation management - Collective creativity - Decision-making support"
 author: Laure Morel
@@ -13,4 +13,8 @@ role: Prof
 tags: [Innovation management, Collective creativity, Decision-making support]
 ---
 
-Laure Morel 
++ Directeur de l'ENSGSI - Université de Lorraine  
+
++ Equipe de Recherche sur les Processus Innovatifs  
+
++ Professeur Honoraire de l'UNAL, Bogota  

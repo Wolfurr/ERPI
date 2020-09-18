@@ -30,7 +30,7 @@ gallery:
     alt: "ERPI Acceptability"        
     url: /projects/#acceptability     
 
-last_modified_at: 2019-10-16
+
 ---
 
 ## 2019

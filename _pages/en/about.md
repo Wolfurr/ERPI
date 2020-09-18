@@ -17,7 +17,7 @@ header:
 intro:
   - excerpt: "**A multidisciplinary research team on innovation processess research**"
 
-last_modified_at: 2019-04-08
+
 ---
 
 
