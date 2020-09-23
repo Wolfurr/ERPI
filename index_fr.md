@@ -6,7 +6,7 @@ permalink: /fr/
 excerpt: "Equipe de Recherche sur les Processus Innovatifs"
 
 header:
-  overlay_image: /assets/images/banner/bannerhome2.jpg
+  overlay_image: /assets/images/banner/bannerhome.jpg
 
 
 academic:
