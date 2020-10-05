@@ -1,7 +1,7 @@
 ---
 title: Maxence Arnould
 permalink: /fr/people/Maxence-Arnould/
-excerpt: "Research Action - Wood Resource - Living Lab"
+excerpt: "Living Lab - Ressource forestière"
 last_modified_at: 2019-04-08
 author: Maxence Arnould
 header:

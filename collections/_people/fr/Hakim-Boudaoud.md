@@ -1,7 +1,7 @@
 ---
 title: Hakim Boudaoud
 permalink: /fr/people/Hakim-Boudaoud/
-excerpt: "Maitre de Conference"
+excerpt: "Enseignant - Chercheur"
 last_modified_at: 2018-09-19
 author: Hakim Boudaoud
 header:

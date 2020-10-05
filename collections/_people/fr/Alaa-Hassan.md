@@ -1,7 +1,7 @@
 ---
 title: Alaa Hassan
 permalink: /fr/people/Alaa-Hassan/
-excerpt: "Maître de Conférences"
+excerpt: "Enseignant - Chercheur"
 
 author: Alaa Hassan
 

@@ -1,7 +1,7 @@
 ---
 title: Brunelle Marche
 permalink: /fr/people/Brunelle-Marche/
-excerpt: "ATER"
+excerpt: "Chercheur"
 last_modified_at: 2019-01-26
 author: Brunelle Marche
 header:

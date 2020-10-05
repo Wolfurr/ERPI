@@ -1,7 +1,7 @@
 ---
 title: Jose Luis Rivera Gil
 permalink: /fr/people/Jose-Luis/
-excerpt: "A system approach to support the design of formulated chemical products"
+excerpt: "Une approche système pour soutenir la conception de produits chimiques formulés"
 last_modified_at: 2020-08-28
 author: Jose Luis
 header:
@@ -23,7 +23,9 @@ Ce projet a pour objectif de proposer une méthodologie pour la conception de pr
 ## Directeurs 
 
 Université de Lorraine: Vincent BOLY, Veronique FALK
- Universidad Nacional de Colombia: Paulo Cesar NARVAEZ
+Universidad Nacional de Colombia: Paulo Cesar NARVAEZ  
+
+
 ## Financeurs
 
 Contrat doctoral 

@@ -1,7 +1,7 @@
 ---
 title: Mauricio Camargo
 permalink: /fr/people/Mauricio-Camargo/
-excerpt: "Directeur de l'ERPI / Professeur des Universités"
+excerpt: "Directeur de l'ERPI / Enseignant - Chercheur"
 last_modified_at: 2018-09-19
 author: Mauricio Camargo
 
@@ -13,6 +13,13 @@ role: Prof
 
 ---
 
-Professor Mauricio-Camargo
+Directeur de l'ERPI et professeur 
 
-Mauricio Camargo is full professor on Management of Technology and Innovation at the Ecole Nationale en Génie des Systèmes Industriels of Nancy (The Industrial Engineering School of the University of Lorraine -France), and researcher at the ERPI Laboratory (Research team on Innovative processes). BSc. On Chemical Engineering Universidad Nacional de Colombia. PhD on Automatics of Industrial and Human systems form the Université de Valenciennes et de Hainaut Cambresis in France. His main research interests are; New Product Development, decision making in innovation processes and technology strategy. Its most recent project concerns multidimensional approaches of hydrogen applications as energy vector on Eco-districts.
+Mauricio Camargo est professeur en Management de la Technologie et de l'Innovation à l'Ecole Nationale en Génie des Systèmes Industriels de Nancy (Ecole d'Ingénieurs Industriels de l'Université de Lorraine -France), et chercheur au Laboratoire ERPI (Equipe de Recherche sur les Procédés Innovants) dont il est également le Directeur.  
+
+Docteur en Automatique des Systèmes Industriels et Humains de l'Université de Valenciennes et de Hainaut Cambresis en France. Ses principaux intérêts de recherche sont :  
+
++ Le développement de nouveaux produits 
++ La prise de décision dans les processus d'innovation et stratégie technologique.  
+
+Son projet le plus récent concerne les approches multidimensionnelles des applications de l'hydrogène comme vecteur énergétique sur les écoquartiers.

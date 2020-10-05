@@ -1,7 +1,7 @@
 ---
 title: Alice de Bigault de Casanove
 permalink: /fr/people/Alice/
-excerpt: "Open Innovation - Startup - Large Corporation"
+excerpt: "Open Innovation - Startup - Coopération"
 last_modified_at: 2019-04-08
 author: Alice
 header:

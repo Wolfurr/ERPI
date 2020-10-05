@@ -1,7 +1,7 @@
 ---
 title: Eric Bonjour
 permalink: /fr/people/Eric-Bonjour/
-excerpt: "Professeur des Universités"
+excerpt: "Enseignant - Chercheur"
 
 author: Eric Bonjour
 header:

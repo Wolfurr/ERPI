@@ -1,7 +1,7 @@
 ---
 title: Raphaël Bary
 permalink: /people/Raphael-Bary/
-excerpt: "Savoir-être - Innovative - Learning"
+excerpt: "University lecturer and researcher"
 last_modified_at: 2018-09-19 
 author: Raphael Bary
 header:

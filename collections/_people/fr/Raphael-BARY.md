@@ -1,7 +1,7 @@
 ---
 title: Raphaël Bary
 permalink: /fr/people/Raphael-Bary/
-excerpt: " "
+excerpt: "Enseignant - Chercheur"
 last_modified_at: 2018-09-19  
 author: Raphael Bary
 header:

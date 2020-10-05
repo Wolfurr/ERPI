@@ -20,7 +20,7 @@ header:
 
 
 
-## Professors
+## Corps enseignant 
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html 
@@ -35,7 +35,7 @@ header:
 <div style="width: 100%; clear: both; "></div>
 
 
-## Assistant Professors
+## Assistants professeurs
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html 
@@ -50,7 +50,7 @@ header:
 <div style="width: 100%; clear: both;"></div>
 
 
-## Teaching and Research Assistants / Post Docs 
+## Assistants enseignants chercheurs / Post Docs 
 
 
 <div class="entries-{{ page.entries_layout }}">
@@ -67,7 +67,7 @@ header:
 <div style="width: 100%; clear: both;"></div>
 
 
-## PhD Students
+## Doctorants
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html  
@@ -82,7 +82,7 @@ header:
 
 <div style="width: 100%; clear: both;"></div>
 
-## Administrative and Technical Staff
+## Personnel administratif et technique
 
 <div class = "entries-{{ page.entries_layout }}">
 {% include documents-collection.html  

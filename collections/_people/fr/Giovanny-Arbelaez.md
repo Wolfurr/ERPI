@@ -1,7 +1,7 @@
 ---
 title: Giovanny Arbelaez
 permalink: /fr/people/Giovanny-Arbelaez/
-excerpt: "Post-Doc, Ingénieur de recherche"
+excerpt: "Ingénieur de Recherche / Enseignant - Chercheur"
 last_modified_at: 2018-09-19
 author: Giovanny Arbelaez
 header:

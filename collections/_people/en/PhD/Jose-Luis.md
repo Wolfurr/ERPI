@@ -5,7 +5,7 @@ excerpt: "A system approach to support the design of formulated chemical product
 last_modified_at: 2020-08-28
 author: Jose Luis
 header:
-  teaser: /assets/images/people/Man.jpg
+  teaser: /assets/images/people/PHD/Jose-Rivera.jpg
 
 orden: LUIS
 role: PHD

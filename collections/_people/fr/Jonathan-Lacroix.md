@@ -1,13 +1,13 @@
 ---
 title: Jonathan Lacroix
-permalink: /fr/people/Jonathan-Lacroix/
-excerpt: "Living Lab - Innovation Urbaine - Territoire"
+permalink: /people/Jonathan-Lacroix/
+excerpt: "Chercheur"
 last_modified_at: 2019-04-08
 author: Jonathan Lacroix
 header:
   teaser: /assets/images/people/PHD/Jonathan-Lacroix.jpeg
 
 orden: Lacroix
-role: PHD
+role: IR
 ---
 

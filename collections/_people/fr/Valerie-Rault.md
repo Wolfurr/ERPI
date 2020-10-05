@@ -1,7 +1,7 @@
 ---
 title: Valerie Rault
 permalink: /people/Valerie-Rault/
-excerpt: " "
+excerpt: "Enseignant - Chercheur"
 author: Valerie Rault
 
 header:

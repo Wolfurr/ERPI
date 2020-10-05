@@ -1,7 +1,7 @@
 ---
 title: Frédérique Mayer
 permalink: /fr/people/Frederique-Mayer/
-excerpt: Maître de Conférences
+excerpt: "Enseignant - Chercheur"
 last_modified_at: 2018-09-19
 author: Frederique Mayer
 header:
