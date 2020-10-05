@@ -314,19 +314,19 @@ Juan David:
 
 Alice:
   name: Alice de Bigault de Casanove
-  email: ' '
+  email: "alice.de-bigault-de-casanove@univ-lorraine.fr"
   bio: "PhD"
   avatar: "/assets/images/people/PHD/Alice.jpg"
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
-        url: " " 
+        url: "https://scholar.google.com/citations?user=6G1smyoAAAAJ&hl=en&oi=sra" 
       - label: "Researchgate"
         icon: "ai ai-researchgate"
-        url: " "
+        url: "https://www.researchgate.net/profile/Alice_De_Casanove"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: " "   
+        url: "https://www.linkedin.com/in/alice-de-casanove-a59b315/"   
 
 
 Carlos Moya:
