@@ -590,6 +590,21 @@ Guillaume Prosnot:
         icon: "fab fa-linkedin"
         url: "https://linkedin.com/in/guillaume-pronost-562a53137"   
 
+
+Tchoya-Florence Kone: 
+  name: Tchoya-Florence Kone 
+  email: tchoya-florence.kone@univ-lorraine.fr 
+  bio: "PhD"
+  avatar: "/assets/images/people/Woman.jpg"
+  links:
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Tchoya_Florence_Kone"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://fr.linkedin.com/in/tchoya-florence-kon%C3%A9-46b7b1ab" 
+
+
 # Sandra Bautista:
 #   name: Sandra Bautista
 #   email: ' '
