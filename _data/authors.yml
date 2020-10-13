@@ -403,26 +403,20 @@ Linda Acosta:
 
 Lorena Delgado:
   name: Lorena Delgado
-  email: ' '
+  email: lorena.delgado@univ-lorraine.fr
   bio: "PhD"
   avatar: "/assets/images/people/Woman.jpg"
   links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: " " 
-      - label: "Researchgate"
-        icon: "ai ai-researchgate"
-        url: " "
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: " "   
+        url: "https://www.linkedin.com/in/lorena-delgado-cadena-82537a1a9/"   
 
 
 
 
 Maxence Arnould:
   name: Maxence Arnould
-  email: ' '
+  email: maxence.arnould@agroparistech.fr
   bio: "PhD"
   avatar: "/assets/images/people/PHD/Maxence-Arnould.jpg"
   links:
@@ -603,6 +597,32 @@ Tchoya-Florence Kone:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
         url: "https://fr.linkedin.com/in/tchoya-florence-kon%C3%A9-46b7b1ab" 
+
+Anaelle Hily: 
+  name: Anaelle Hily 
+  email: anaelle.hily@univ-lorraine.fr 
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Anaelle-Hily.jpg"
+  links:
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Anaelle_Hily"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/ana%C3%ABlle-hily-031442153/" 
+
+Diana Cardenas: 
+  name: Diana Cardenas 
+  email: cardenas2@univ-lorraine.fr 
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Diana-Cardenas.jpg"
+  links:
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Diana_Cardenas6"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/dianamarcelacardenas/" 
 
 
 # Sandra Bautista:

@@ -42,7 +42,24 @@ The context of the project is the field of education and guidance. The research 
 - Université de Lorraine
 - Université de Technologie de Troyes
 
-![Partenaires](/assets/images/projects/Ailes/bandeaulogo.png){:height="600px" width="600px"}
+
+{:refdef: style="text-align: center;"}
+<a href="http://banquedesterritoires.fr">![Logo Banque des territoires]({{ site.baseimg }}/assets/images/logo/banqueterritoires1.png){:height="25%" width="25%"}</a>{: refdef}{:refdef: style="text-align: center;"}
+![white space]({{ site.baseimg }}/assets/images/logo/blanc.png){:height="5%" width="5%"}{: refdef}{:refdef: style="text-align: center;"}
+<a href="https://www.gouvernement.fr/un-programme-pour-investir-l-avenir">![Logo Inverstir l'avenir]({{ site.baseimg }}/assets/images/logo/investiravenir.png){:height="10%" width="10%"}</a>{: refdef}{:refdef: style="text-align: center;"}
+![white space]({{ site.baseimg }}/assets/images/logo/blanc.png){:height="5%" width="5%"}{: refdef}{:refdef: style="text-align: center;"}
+<a href="http://www.ac-reims.fr/cid105679/region-academique-grand-est.html">![Logo Region Academique]({{ site.baseimg }}/assets/images/logo/region1.png){:height="20%" width="20%"}</a>{: refdef}{:refdef: style="text-align: center;"}
+![white space]({{ site.baseimg }}/assets/images/logo/blanc.png){:height="5%" width="5%"}{: refdef}{:refdef: style="text-align: center;"}
+{: refdef}  
+
+
+{:refdef: style="text-align: center;"}
+<a href="https://www.univ-reims.fr">![Logo URCA]({{ site.baseimg }}/assets/images/logo/urca.jpg){:height="17%" width="17%"}</a>{: refdef}{:refdef: style="text-align: center;"}
+![white space]({{ site.baseimg }}/assets/images/logo/blanc.png){:height="5%" width="5%"}{: refdef}{:refdef: style="text-align: center;"}
+<a href="http://www.univ-lorraine.fr">![Logo UL]({{ site.baseimg }}/assets/images/logo/logoul.png){:height="25%" width="25%"}</a>{: refdef}{:refdef: style="text-align: center;"}
+![white space]({{ site.baseimg }}/assets/images/logo/blanc.png){:height="5%" width="5%"}{: refdef}{:refdef: style="text-align: center;"}
+<a href="https://www.utt.fr">![Logo UTT]({{ site.baseimg }}/assets/images/logo/utt.svg){:height="20%" width="20%"}</a>{: refdef}{:refdef: style="text-align: center;"}
+{: refdef} 
 
 
 
