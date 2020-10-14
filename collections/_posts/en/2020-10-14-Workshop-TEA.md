@@ -4,14 +4,14 @@ excerpt: "Save the date - 3 november 2020"
 ---
 
 
-## SAVE THE DATE !
+## SAVE THE DATE !  
 
-
+# As part of the activities of the ANR joint laboratory between the ERPI laboratory and the TEA company, we are organizing the workshop "Virtual reality and Ergonomics: performance levers"  
+  
+  
 # WORKSHOP T.E.A x TECHVIZ
 
 
-
-### Virtual reality and Ergonomics: performance levers for Industry 4.0
 
 ### November 3, 2020
 
@@ -30,5 +30,9 @@ This solution makes it possible to integrate CAD models into virtual scenes and 
 *For more information, please contact LF2L via the address: lf2l-contact {at} univ-lorraine.fr*
 
 
-<iframe src="https://www.youtube-nocookie.com/embed/xffUTIM-3HU" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/xffUTIM-3HU" frameborder="0" allowfullscreen=""></iframe>  
+
+
+------------  
+![Partenaires](/assets/images/post/partenaires.png)
 

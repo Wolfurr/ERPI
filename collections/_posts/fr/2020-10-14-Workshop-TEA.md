@@ -6,15 +6,16 @@ excerpt: "Save the date - 3 novembre 2020"
 
 ## SAVE THE DATE !
 
-
+# Dans les cadre des activités du laboratoire commun ANR entre le laboratoire ERPI et l’entreprise TEA nous nous organisons le workshop "Réalité virtuelle et Ergonomie : leviers de performance pour l'industrie 4.0"  
+  
+  
 # WORKSHOP T.E.A x TECHVIZ
 
-
-### Réalité virtuelle et Ergonomie : leviers de performance pour l'industrie 4.0
 
 ### November 3, 2020
 
 -------------------
+
 
 La **réalité virtuelle** permet de **réduire les coûts sur le long terme**, de faire **"Bon du Premier Coup"** (First Time Good) et d'**intégrer les acteurs** dès les premières phases de conception de solutions. 
 
@@ -29,5 +30,9 @@ Cette solution permet d'intégrer des modèles CAO dans des scènes virtuelles e
 *Pour plus d'information merci de contacter le LF2L via l'adresse : lf2l-contact {at} univ-lorraine.fr* 
 
 
-<iframe src="https://www.youtube-nocookie.com/embed/xffUTIM-3HU" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/xffUTIM-3HU" frameborder="0" allowfullscreen=""></iframe>  
 
+---------------   
+
+
+![Partenaires](/assets/images/post/partenaires.png)
