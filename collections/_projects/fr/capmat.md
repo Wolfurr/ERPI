@@ -40,6 +40,17 @@ Industrial:
 ---
 
 
+
+{:refdef: style="text-align: center;"}
+<a href="https://www.europe-en-france.gouv.fr/fr/fonds-europeens/fonds-europeen-de-developpement-regional-FEDER">![Logo Fonds Européen de Développement Régional]({{ site.baseimg }}/assets/images/projects/capmat/feder.jpg){:height="60%" width="60%"}</a>{: refdef}{:refdef: style="text-align: center;"}
+{: refdef}  
+
+{:refdef: style="text-align: center;"}
+Le projet CAP-MAT est cofinancé par l'Union Européenne avec le Fonds Européen de Développement Régional à hauteur de 69 850 €
+{: refdef}
+
+
+
 ## Contexte du projet
 
 Le projet CAP-MAT s’inscrit dans une dynamique régionale autour des matériaux et des capteurs. La Lorraine est reconnue pour sa recherche d’excellence en science et technologie des matériaux et de la métallurgie. Ainsi, dans le cadre de la réponse de l’Université de Lorraine à l’appel d’offre ISITE, Lorraine Université d’Excellence (LUE), l’un des dispositifs phares est un projet portant sur les nanomatériaux pour les capteurs : N4S (Nanomaterials for Sensors) regroupant 8 laboratoires lorrains fédérés au sein des 4 thématiques autour des capteurs.

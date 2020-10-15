@@ -1,7 +1,5 @@
 # Navigation Links in French
 main:
-  - title: "À propos"
-    url: /fr/about/
   - title: "Membres"
     url: /fr/people  
   - title: "Publications"

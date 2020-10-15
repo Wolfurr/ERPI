@@ -44,6 +44,13 @@ gallery:
 
 ---
 
+<tr>
+    <td> <img src="/assets/images/projects/capmat/feder.jpg" alt="Drawing" style="width: 250px;"/> </td>
+    <td> <img src="/assets/images/logo/europegrandest.png" alt="Drawing" style="width: 250px;"/> </td>
+</tr>
+
+-------------------
+ 
 
 **L’ERPI (Équipe de Recherche sur les Processus Innovatifs)** est un des laboratoires de [l'Université de Lorraine](http://univ-lorraine.fr), labellisé Équipe d’Accueil (EA n° 3767) par le Ministère de l’Enseignement Supérieur et de la Recherche.
 L'ERPI est membre de la **FR 2863 : Fédération de Recherche Jacques Villermaux pour la Mécanique, l'Energie, les Procédés (FR JV)** et est rattaché au pole scientifique EMPP - Énergie, Mécanique, Procédés, Produits.

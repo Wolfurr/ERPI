@@ -38,6 +38,13 @@ gallery:
 
 ---
 
+<tr>
+    <td> <img src="/assets/images/projects/capmat/feder.jpg" alt="Drawing" style="width: 250px;"/> </td>
+    <td> <img src="/assets/images/logo/europegrandest.png" alt="Drawing" style="width: 250px;"/> </td>
+</tr>
+
+
+
 
 
 {% include feature_row id="intro" type="center" %}

@@ -39,6 +39,14 @@ Industrial:
       excerpt: "[IS (Institut de Soudure)](https://www.isgroupe.com/)"
 ---
 
+{:refdef: style="text-align: center;"}
+<a href="https://www.europe-en-france.gouv.fr/en/european-funds/european-regional-development-fund-ERDF">![European Regional Development Fund Logo]({{ site.baseimg }}/assets/images/projects/capmat/feder.jpg){:height="60%" width="60%"}</a>{: refdef}{:refdef: style="text-align: center;"}
+{: refdef}  
+
+{:refdef: style="text-align: center;"}
+The CAP-MAT project is est co-financed by the European Union with European Regional Development Fund to the tune of 69 850 €
+{: refdef}
+
 
 ## Global context
 
