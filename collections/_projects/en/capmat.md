@@ -44,7 +44,7 @@ Industrial:
 {: refdef}  
 
 {:refdef: style="text-align: center;"}
-The CAP-MAT project is est co-financed by the European Union with European Regional Development Fund to the tune of 69 850 €
+The CAP-MAT project is est co-financed by the European Union with European Regional Development Fund to the tune of 68 850 €
 {: refdef}
 
 

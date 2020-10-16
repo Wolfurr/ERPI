@@ -46,7 +46,7 @@ Industrial:
 {: refdef}  
 
 {:refdef: style="text-align: center;"}
-Le projet CAP-MAT est cofinancé par l'Union Européenne avec le Fonds Européen de Développement Régional à hauteur de 69 850 €
+Le projet CAP-MAT est cofinancé par l'Union Européenne avec le Fonds Européen de Développement Régional à hauteur de 68 850 €
 {: refdef}
 
 
