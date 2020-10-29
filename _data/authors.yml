@@ -625,6 +625,19 @@ Diana Cardenas:
         url: "https://www.linkedin.com/in/dianamarcelacardenas/" 
 
 
+Halima Ramdami: 
+  name: Halima Ramdami
+  email: h.ramdani@myxtramile.com
+  bio: "PhD"
+  avatar: "/assets/images/people/Woman.jpg"
+  links:
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Halima_Ramdani2"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/halima-ramdani-2b3511114/" 
+
 # Sandra Bautista:
 #   name: Sandra Bautista
 #   email: ' '
