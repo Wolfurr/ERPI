@@ -31,7 +31,7 @@ Il est donc temps de rendre les stratégies de gestion des infrastructures plus 
 
 
 
-## Objéctifs de la recherche
+## Objectifs de la recherche
 
 Afin d’accompagner les acteurs du territoire dans la gestion des infrastructures de transport, ce projet cherche à développer un outil d’aide à la décision pour les acteurs du territoire. Cet outil basé sur une modélisation par dynamique des systèmes cherche à faciliter l’évaluation d’une stratégie de gestion des dépendances routières en amont. L’approche proposée sera testée sur des territoires cibles et sera partie intégrante d’un démonstrateur de gestion des dépendances routières.  
 

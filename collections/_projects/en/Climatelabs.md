@@ -68,6 +68,9 @@ Co-funded by the Erasmus+ Programme of the European Union
 
 <div style="width: 100%; clear: both;"></div>
 
+## Project's website
+
+<a href="http://climate-labs.org">![Logo Climate Labs]({{ site.baseimg }}/assets/images/projects/climatelabs/teaser.png){:height="35%" width="35%"}</a>
 
 ## Contact
 

@@ -1,6 +1,6 @@
 ---
 title: Climatelabs
-excerpt: "Strengthening applied research and innovation capacities in Latin-America through co- creation labs for mitigation and adaptation to Climate Change"
+excerpt: "Renforcement des capacités de recherche appliquées et d'innovation en Amérique latine grâce à des laboratoires de cocréation pour l'atténuation et l'adaptation au changement climatique"
 header:
   teaser: /assets/images/projects/climatelabs/teaser.png
   overlay_image: /assets/images/projects/climatelabs/teaser.png
@@ -66,8 +66,11 @@ Co-funded by the Erasmus+ Programme of the European Union
 
 <div style="width: 100%; clear: both;"></div>
 
+## Site Internet du projet
 
-## Contact
+<a href="http://climate-labs.org">![Logo Climate Labs]({{ site.baseimg }}/assets/images/projects/climatelabs/teaser.png){:height="35%" width="35%"}</a>
+
+## Contacts
 
 - [**Fabio Cruz**](/people/Fabio-Cruz/): (Project Manager for UL)
 - [Ferney Osorio](/people/Ferney-Osorio/)

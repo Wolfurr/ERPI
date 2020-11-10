@@ -1,6 +1,6 @@
 ---
-title: "Projects ERPI"
-permalink: /projects/funding/
+title: "Projets à l'ERPI"
+permalink: fr/projects/funding/
 layout: single
 class: wide
 #layout: collection
@@ -8,7 +8,7 @@ collection: projects
 entries_layout: grid
 
 
-excerpt: "Some of the research projects at ERPI"
+excerpt: "Projets de recherches à l'ERPI"
 header:
   overlay_image: /assets/images/banner/bannerprojet2.jpg
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
@@ -35,7 +35,7 @@ gallery:
 
 
 
-##  European  <img class="emoji" title=":EU:" alt=":EU:" src="/assets/images/projects/inedit/EU-logo.png" height="20" width="20">
+##  Européens  <img class="emoji" title=":EU:" alt=":EU:" src="/assets/images/projects/inedit/EU-logo.png" height="20" width="20">
 
 
 <div class="entries-{{ page.entries_layout }}">
@@ -49,7 +49,7 @@ gallery:
 
 
 
-## National :fr:
+## Nationaux :fr:
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html
@@ -60,7 +60,7 @@ gallery:
 </div>
 <div style="width: 100%; clear: both; "></div>
 
-## Regional 
+## Regionaux
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html
@@ -71,7 +71,7 @@ gallery:
 </div>
 <div style="width: 100%; clear: both; "></div>
 
-## University 
+## Universitaires
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html
     collection=page.collection
@@ -83,7 +83,7 @@ gallery:
 
 
 
-## City
+## Ville
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html
     collection=page.collection

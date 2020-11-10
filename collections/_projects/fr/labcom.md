@@ -19,6 +19,7 @@ partners:
 Research-field:
   - Acceptability
 published: true
+Funding: [FR]
 
 ---
 ## Le Laboratoire Commun: l’Homme au Cœur des Enjeux des Mondes Numériques

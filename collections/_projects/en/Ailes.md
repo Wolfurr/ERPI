@@ -61,6 +61,9 @@ The context of the project is the field of education and guidance. The research 
 <a href="https://www.utt.fr">![Logo UTT]({{ site.baseimg }}/assets/images/logo/utt.svg){:height="20%" width="20%"}</a>{: refdef}{:refdef: style="text-align: center;"}
 {: refdef} 
 
+## Project's website
+
+<a href="https://www.projetailes.com">![Logo Ailes]({{ site.baseimg }}/assets/images/projects/Ailes/logoailes.png){:height="35%" width="35%"}</a>
 
 
 ## Contact

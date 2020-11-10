@@ -60,7 +60,9 @@ Le contexte du projet est le domaine de l’éducation et l’orientation. Les t
 <a href="https://www.utt.fr">![Logo UTT]({{ site.baseimg }}/assets/images/logo/utt.svg){:height="20%" width="20%"}</a>{: refdef}{:refdef: style="text-align: center;"}
 {: refdef} 
 
+## Site Internet du projet
 
+<a href="https://www.projetailes.com">![Logo Ailes]({{ site.baseimg }}/assets/images/projects/Ailes/logoailes.png){:height="35%" width="35%"}</a>
 
 
 ## Contact

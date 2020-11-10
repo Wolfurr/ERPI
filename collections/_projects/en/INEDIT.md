@@ -113,7 +113,7 @@ addressing the needs of the single user in an industrial context.
 
 5. **Sustainable DIT Business Models**: It aims to create sustainable business models for the DIT approach. It addresses business scenarios, use involvement concept and sustainability-driven orchestrator to deliver at the end a roll-out strategy.
 
-6. **Use cases experiments demonstration and evaluation**: It deals with the instantiation of the INEDIT approach within four concrete use cases: manufacturing of wood furniture, 3D printing of wood, 3D printing of recycled plastic and smartification of furniture Main goal of WP6 is the complete validation of INEDIT framework It provides both validation and evaluation of the achieved results with a specific task on cultural analysis focusing on gender dimension.
+6. **Use cases experiments demonstration and evaluation**: It deals with the instantiation of the INEDIT approach within four concrete use cases: manufacturing of wood furniture, 3D printing of wood, 3D printing of recycled plastic and smartification of furniture. Main goal of WP6 is the complete validation of INEDIT framework. It provides both validation and evaluation of the achieved results with a specific task on cultural analysis focusing on gender dimension.
 
 7. **Dissemination, Communication and Exploitation**: It includes all the activities related to communication, dissemination of the results and exploitation strategy. It also comprises a specific task on community building and user involvement.
 

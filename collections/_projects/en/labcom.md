@@ -20,7 +20,6 @@ published: true
 
 Research-field:
   - Acceptability
-
 Funding: [FR]  
 ---
 

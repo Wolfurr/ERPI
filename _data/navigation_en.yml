@@ -8,7 +8,7 @@ main:
     url: /publications/articles/
 
   - title: "Projects"
-    url: /projects/
+    url: /projects/funding
 
   - title: "Partners"
     url: /partners/
@@ -43,10 +43,11 @@ publications:
 projects:
   - title: "ERPI Projects"
     children:
+      - title: "Funding"
+        url: /projects/funding/
       - title: "Thematic"
         url: /projects/
-      - title: "Scope"
-        url: /projects/funding/
+      
 #      - title: "Application field"
 #        url: /projects/innolabs/
 #      - title: "Past projects"
