@@ -8,7 +8,7 @@ excerpt: "Soutenances de thèse des doctorants"
 
 Le 18 décembre 2020 (heure à venir), Alice DE BIGAULT DE CASANOVE soutiendra sa thèse sur les **Relations grands groupes/start-ups dans une démarche d'innovation.**
 
-Pour suivre la soutenance de thèse: (lien à venir)
+Pour suivre la soutenance de thèse: [cliquez ici](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzk1Y2M4ZjgtMGMxNy00ODMzLWIzNDktNjUzZGE1OWM5MTRl%40thread.v2/0?context=%7b%22Tid%22%3a%22158716cf-46b9-48ca-8c49-c7bb67e575f3%22%2c%22Oid%22%3a%22ef775f99-31a0-4624-843e-c5f00d08f72f%22%7d)
 
 ![Illustration](/assets/images/post/Alice.png)
 
