@@ -3,6 +3,15 @@ title: "Thesis defenses"
 excerpt: "PhD Students thesis defenses"
 ---
 
+On January 15th 2021, at 2:00pm Carlos ABRAHAM MOYA will defend his thesis on **Ability to innovate and collaborate between purchasing departments and SME diggers.**
+
+To follow this thesis defense : [click here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRhMWNkOTgtYTIxMC00NzAxLTlmMTktMGQ5YjNmMzFlZTJm%40thread.v2/0?context=%7b%22Tid%22%3a%22158716cf-46b9-48ca-8c49-c7bb67e575f3%22%2c%22Oid%22%3a%22ef775f99-31a0-4624-843e-c5f00d08f72f%22%7d) 
+
+
+![Illustration](/assets/images/post/Carlos-Moya.png){:height="50%" width="50%"}
+
+
+----------
 
 On December 18th 2020, (time communicate soon) Alice DE BIGAULT DE CASANOVE will defend her thesis on **Value Creation within the relationships of large corporations and startups in open innovation approach in French ecosystem.**
 
