@@ -31,16 +31,17 @@ partners:
 
 ## Presentation
 
-Resulting from the collaboration of the agglomerations of Thionville, Metz, Épinal and the Metropolis of Greater Nancy, the Sillon lorrain is the first metropolitan pole to be established in France. Today the Sillon Lorrain federates associated Territories around the four founding agglomerations and their shared projects to create an original territorial space at the heart of the Grand Est Region.
+Resulting from the collaboration of the agglomerations of Thionville, Metz, Épinal and the Métropole du Grand Nancy, Sillon lorrain is the first metropolitan pole to be established in France. Today Sillon Lorrain federates associated Territories around the four founding agglomerations and their shared projects to create an original territorial space at the heart of Région Grand Est.  
 
-Bringing together research, training and development skills around the themes of collaborative and open innovation and the dynamics of territorial development, the University of Lorraine is associated with Sillon Lorrain in this collaborative ITTI chair around an operation of action-research and formative animation to structure a dynamic, practices, and a culture of collaborative innovation.
+Bringing together research, training and development skills around the themes of collaborative and open innovation and the dynamics of territorial development, Université de Lorraine has joined forces with the Sillon Lorrain in the ITTI collaborative chair for a research-action and formative animation operation to structure a territorial collaborative innovation dynamic, practices and culture. The main objective is the construction of new forms of interaction between territories, by mobilising the skills and engineering of the partners, around the themes of collaborative and open innovation and territorial development dynamics.  
+
+The ITTI chair currently welcomes various partners (Communauté de Communes du Bassin de Pompey, Groupement d’Intérêt Public Ingénierie Territoriale pour L’Emploi – Filière Forêt Bois Epinal) and is opening up to new partnerships with territories, public organizations and companies.
+
 
 
 ## Research objectives
 
-The ITTI collaborative chair is seen as a collaborative space making it possible to associate in an ad hoc manner the territories and companies that would like to offer demonstrative operations making it possible to design new methodological engineering, to initiate and capitalize on new practices, or even to experiment. new multi-scale governance practices.
-
-La chaire collaborative ITTI est vue comme un espace collaboratif permettant d’associer de manière ad hoc les territoires et entreprises qui voudraient proposer des opérations démonstratrices permettant de concevoir de nouvelles ingénierie méthodologiques, d’initier et de capitaliser de nouvelles pratiques, voire d’expérimenter des nouveaux pratiques de gouvernance multi échelles.
+The ITTI collaborative chair is seen as a collaborative space allowing territories and companies to be associated in an ad hoc manner in order to animate demonstrative operations: design of new methodological engineering, capitalisation of new practices, experimentation of new practices of multi-scale governance.  
 
 
 ## Partners
@@ -49,6 +50,7 @@ La chaire collaborative ITTI est vue comme un espace collaboratif permettant d�
 
 ## Contacts 
 
-Pr. Claudine GUIDAT : claudine.guidat [at] univ-lorraine.fr 
+Pr. Claudine GUIDAT (holder) : claudine.guidat [at] univ-lorraine.fr  
 
-Jonathan LACROIX : jonathan.lacroix [at] univ-lorraine.fr 
+Mathilde SCHWOB (project manager) : mathilde.schwob [at] univ-lorraine.fr
+

@@ -31,14 +31,16 @@ partners:
 
 ## Présentation
 
-Issu de la collaboration des agglomérations de Thionville, Metz, Épinal et de la Métropole du Grand Nancy, le Sillon lorrain est le premier pôle métropolitain constitué en France. Aujourd’hui le Sillon Lorrain fédère des Territoires associés autour des quatre agglomérations fondatrices et de leurs projets partagés pour créer un espace territorial original au cœur de la Région Grand Est. 
-
-Regroupant des compétences de recherche, de formation, et de valorisation autour des thématiques d’innovation collaborative et ouverte et de dynamique de développement territorial, l’Université de Lorraine s’associe au Sillon Lorrain dans cette chaire collaborative ITTI autour d’une opération de recherche-action et d’animation formative pour structurer une dynamique, des pratiques, et une culture d’innovation collaborative.
+L’Université de Lorraine s’associe au Sillon Lorrain dans la chaire collaborative ITTI autour d’une opération de recherche-action et d’animation formative pour structurer une dynamique, des pratiques, et une culture d’innovation collaborative territoriale. L’objectif principal est la construction de nouvelles formes d’interaction entre les territoires, par la mobilisation des compétences et des ingénieries des partenaires, autour des thématiques d’innovation collaborative et ouverte et de dynamique de développement territorial.  
 
 
-## Objéctifs de recherche
+La chaire ITTI accueille actuellement différents partenaires (Communauté de Communes du Bassin de Pompey, Groupement d’Intérêt Public Ingénierie Territoriale pour L’Emploi – Filière Forêt Bois Epinal) et s’ouvre à de nouveaux partenariats avec des territoires et des organismes publics et des entreprises.
 
-La chaire collaborative ITTI est vue comme un espace collaboratif permettant d’associer de manière ad hoc les territoires et entreprises qui voudraient proposer des opérations démonstratrices permettant de concevoir de nouvelles ingénierie méthodologiques, d’initier et de capitaliser de nouvelles pratiques, voire d’expérimenter des nouveaux pratiques de gouvernance multi échelles.
+
+
+## Objectifs de recherche
+
+La chaire collaborative ITTI est vue comme un espace collaboratif permettant d’associer de manière ad hoc les territoires et entreprises afin d’animer des opérations démonstratrices : conception de nouvelles ingénieries méthodologiques, capitalisation de nouvelles pratiques, expérimentation de nouvelles pratiques de gouvernance multi échelles.
 
 
 ## Partenaire 
@@ -47,6 +49,7 @@ La chaire collaborative ITTI est vue comme un espace collaboratif permettant d�
 
 ## Contacts 
 
-Pr. Claudine GUIDAT : claudine.guidat [at] univ-lorraine.fr 
+Pr. Claudine GUIDAT (titulaire de la chaire) : claudine.guidat [at] univ-lorraine.fr  
 
-Jonathan LACROIX : jonathan.lacroix [at] univ-lorraine.fr 
+Mathilde SCHWOB (cheffe de projet) : mathilde.schwob [at] univ-lorraine.fr
+
