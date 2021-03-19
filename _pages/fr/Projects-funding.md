@@ -2,7 +2,7 @@
 title: "Projets à l'ERPI"
 permalink: fr/projects/funding/
 layout: single
-class: wide
+classes: wide
 #layout: collection
 collection: projects
 entries_layout: grid

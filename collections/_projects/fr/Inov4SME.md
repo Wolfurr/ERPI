@@ -2,7 +2,7 @@
 title: Innov4SME
 excerpt: "Développer conjointement la capacité à innover et à exporter des PME"
 header:
-  teaser: "/assets/images/projects/inno4sme/teaser.jpg"
+  teaser: "/assets/images/projects/inno4sme/teaser.png"
   overlay_image: "/assets/images/projects/inno4sme/teaser.jpg"
 
 keywords: [Innovation, export, PME, synergies, outil d’aide à la décision, pratiques ] 

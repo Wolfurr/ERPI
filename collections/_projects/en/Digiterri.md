@@ -2,7 +2,7 @@
 title: DigiTeRRI 
 excerpt: "Responsible Research and Innovation Approach for transitioning the Traditional Industry Regions into Digitalized Industry Territories"
 header:
-  teaser: /assets/images/projects/digiterri/digiterri.png
+  teaser: /assets/images/projects/digiterri/teaser.png
   overlay_image: /assets/images/projects/digiterri/banner.png
 
 keywords: [Territory; Transition; Digitalization]

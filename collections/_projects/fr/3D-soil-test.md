@@ -2,7 +2,7 @@
 title: 3D Soil Test
 excerpt: "Des systèmes innovants pour suivre l'évolution de la matière organique dans les sols"
 header:
-  teaser: "/assets/images/projects/3D-soil-test/teaser.jpg"
+  teaser: "/assets/images/projects/3D-soil-test/teaser2.jpg"
   overlay_image: /assets/images/projects/3D-soil-test/banner1.jpg 
 Research-field:
   - Design

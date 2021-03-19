@@ -2,7 +2,7 @@
 title: Green Fablab
 excerpt: "Économie circulaire et impression 3D: Paradigme d'une recyclage local et distribué"
 header:
-  teaser: /assets/images/projects/green-fablab/teaser.jpg
+  teaser: /assets/images/projects/green-fablab/teaser.png
   overlay_image: /assets/images/projects/green-fablab/teaser-2.jpg  
 last_modified_at: 2018-11-21
 Research-field:

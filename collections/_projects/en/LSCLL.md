@@ -3,7 +3,7 @@ title: Lorraine Smart Cities Living Lab
 permalink: /projects/lorraine-smart-cities-living-lab/
 excerpt: "Living lab Lorrain"
 header:
-  teaser: /assets/images/projects/LSCLL/teaser.jpg
+  teaser: /assets/images/projects/LSCLL/teaser.png
   header: /assets/images/projects/LSCLL/teaser.jpg
 last_modified_at: 2019-04-12
 

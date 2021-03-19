@@ -2,8 +2,8 @@
 title: Green Fablab
 excerpt: "Circular economy and 3D printing: Towards a distributed recycling paradigm"
 header:
-  teaser: /assets/images/projects/green-fablab/teaser.jpg
-  overlay_image: /assets/images/projects/green-fablab/teaser-2.jpg  
+  teaser: /assets/images/projects/green-fablab/teaser.png
+  overlay_image: /assets/images/projects/green-fablab/teaser-2.jpg 
 last_modified_at: 2018-11-21
 
 Research-field:

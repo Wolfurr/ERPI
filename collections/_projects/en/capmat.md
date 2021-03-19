@@ -2,7 +2,7 @@
 title: CAP MAT
 excerpt: "Intelligent sensors for the transformation of materials"
 header:
-  teaser: "/assets/images/projects/capmat/teaser.png"
+  teaser: "/assets/images/projects/capmat/teaser.jpg"
   overlay_image: "/assets/images/projects/capmat/banner.png"
 
 last_modified_at: 2019-10-16

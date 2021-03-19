@@ -3,7 +3,7 @@ title: INEDIT
 classes: wide
 excerpt: "Open **IN**novation **E**cosystems for **D**o **I**t **T**ogether process --- H2020"
 header:
-  teaser: "/assets/images/projects/inedit/teaser.png"  
+  teaser: "/assets/images/projects/inedit/teaser2.jpg"  
   overlay_image: "/assets/images/projects/inedit/header.png"
 
 last_modified_at: 2020-09-18

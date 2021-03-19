@@ -2,7 +2,7 @@
 title: ITTI collaborative chair (Territorial Innovation and Territories in Intelligence)
 excerpt: "Respond to the major challenges of transforming territories by developing innovative collaborative engineering"
 header:
-  teaser: /assets/images/projects/Itti/ITTIlogo.png
+  teaser: /assets/images/projects/Itti/teaser.png
 last_modified_at: 2020-05-29
 Research-field:
   - Metrology

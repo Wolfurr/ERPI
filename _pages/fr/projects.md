@@ -3,7 +3,7 @@ lang: fr
 title: "Projets de l'ERPI"
 permalink: /fr/projects/
 layout: single
-class: wide
+classes: wide
 #layout: collection
 collection: projects
 entries_layout: grid

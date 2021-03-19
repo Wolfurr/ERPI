@@ -2,10 +2,10 @@
 lang: en
 title: ERPI
 permalink: "/"
-
+layout: splash
 excerpt: Equipe de Recherche sur les Processus Innovatifs
 header:
-  overlay_image: /assets/images/banner/bannerhome.jpg
+  overlay_image: /assets/images/banner/bannerhomelogoeurope.jpg
 
 
 academic:
@@ -38,15 +38,6 @@ gallery:
 
 ---
 
-<tr>
-    <td> <img src="/assets/images/projects/capmat/feder.jpg" alt="Drawing" style="width: 250px;"/> </td>
-    <td> <img src="/assets/images/logo/europegrandest.png" alt="Drawing" style="width: 250px;"/> </td>
-</tr>
-
-
-
-
-
 {% include feature_row id="intro" type="center" %}
 
 
@@ -58,6 +49,14 @@ ERPI has an historical link with the [ENSGSI](http://ensgsi.univ-lorraine.fr) ( 
 ERPI is a research team on Industrial Engineering specialized on the research of innovation processes management. Its activities concerns the methods, tools and knowledges allowing to optimise innovation projects management.
 
 The scientific project of the ERPI deals with the Fuzzy Front-End off innovation that is to say from idea generation to materialization (CAD, formulation ...). ERPI differs to other innovation research laboratories by considering the product as a "integrating system".
+
+
+## Latest News
+
+{% include /ERPI/Posts-EN.html %}  
+
+
+## Our research platform 
 
 
 <a href="http://lf2l.fr/">
@@ -83,7 +82,3 @@ The **Lorraine Fab Living Lab® (LF2L®)** is a research platform of the ERPI La
 
 {% include gallery %}
 
-## Latest News
-
-
-{% include /ERPI/Posts-EN.html %}

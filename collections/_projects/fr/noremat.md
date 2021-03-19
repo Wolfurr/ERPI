@@ -2,7 +2,7 @@
 title: Gestion Innovative des dépendances routières
 excerpt: "Conception d’un outil d’orientation stratégique et d’accompagnement à l’échelle d’un territoire pour la gestion raisonnée des bords de route"
 header:
-  teaser: /assets/images/projects/noremat/teaser2.png
+  teaser: /assets/images/projects/noremat/teaser3.png
   overlay_image: /assets/images/projects/noremat/banner.png
 
 keywords: [Outil d’aide à la décision ; démonstrateur territorial ; dépendances routières]

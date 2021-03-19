@@ -2,7 +2,7 @@
 title: SMAGRINET
 excerpt: "Powering smart grid expertise in Europe"
 header:
-  teaser: "/assets/images/projects/smagrinet/teaser.png"
+  teaser: "/assets/images/projects/smagrinet/teaser2.png"
   overlay_image: "/assets/images/projects/smagrinet/banner.png"
 
 keywords: [smartgrid, capacity building, digitalization]

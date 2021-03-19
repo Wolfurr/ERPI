@@ -2,7 +2,7 @@
 title: AILES
 excerpt: "Accompagnement à l'Intégration des Lycéens dans l'Enseignement Supérieur"
 header:
-  teaser: "/assets/images/projects/Ailes/logoailes.png"  
+  teaser: "/assets/images/projects/Ailes/teaser.jpg"  
 keywords:
   - Living Lab
   - Apprentissage Informatique

@@ -2,7 +2,7 @@
 title: DigiTeRRI 
 excerpt: "Une approche responsable de la recherche et de l'innovation pour transformer les régions industrielles traditionnelles en territoires industriels numérisés"
 header:
-  teaser: /assets/images/projects/digiterri/digiterri.png
+  teaser: /assets/images/projects/digiterri/teaser.png
   overlay_image: /assets/images/projects/digiterri/banner.png
 
 keywords: [Territoire; Transition; Digitalisation]

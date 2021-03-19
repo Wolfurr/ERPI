@@ -2,7 +2,7 @@
 title: SMAGRINET
 excerpt: "Alimenter l’expertise des smart grid en Europe"
 header:
-  teaser: "/assets/images/projects/smagrinet/teaser.png"
+  teaser: "/assets/images/projects/smagrinet/teaser2.png"
   overlay_image: "/assets/images/projects/smagrinet/banner.png"
 
 keywords: [smartgrid, développement des compétences, numérisation]

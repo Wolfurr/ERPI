@@ -2,7 +2,7 @@
 title: Innovative management of road dependencies
 excerpt: "Design of a strategic orientation and support tool at the regional level for the rational management of roadsides"
 header:
-  teaser: /assets/images/projects/noremat/teaser2.png
+  teaser: /assets/images/projects/noremat/teaser3.png
   overlay_image: /assets/images/projects/noremat/banner.png
 
 keywords: [Decision support tool ; territorial demonstrator ; road dependencies]

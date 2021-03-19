@@ -2,7 +2,7 @@
 title: AILES
 excerpt: "Living Lab approach to co-create innovative digital solutions with high schools"
 header:
-  teaser: "/assets/images/projects/Ailes/logoailes.png"  
+  teaser: "/assets/images/projects/Ailes/teaser.jpg"  
 last_modified_at: 2019-10-16  
 
 keywords:

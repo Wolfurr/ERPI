@@ -20,7 +20,7 @@ header:
 
 
 
-## Corps enseignant 
+## Professeurs des Universités 
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html 
@@ -35,7 +35,7 @@ header:
 <div style="width: 100%; clear: both; "></div>
 
 
-## Assistants professeurs
+## Maitres de conférences 
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html 

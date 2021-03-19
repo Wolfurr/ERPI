@@ -3,7 +3,7 @@ title: "Innovation Labs"
 permalink: "fr/projects/innolabs/"
 excerpt: "Renforcer les laboratoires d'innovation ouverte"
 header:
-  teaser: /assets/images/projects/innolabs/teaser.png
+  teaser: /assets/images/projects/innolabs/teaser.jpg
   overlay_image: /assets/images/projects/innolabs/header.png  
 last_modified_at: 2019-06-03
 

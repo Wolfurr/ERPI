@@ -2,7 +2,7 @@
 title: "Projects ERPI"
 permalink: /projects/funding/
 layout: single
-class: wide
+classes: wide
 #layout: collection
 collection: projects
 entries_layout: grid

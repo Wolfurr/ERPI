@@ -6,7 +6,7 @@ permalink: /fr/
 excerpt: "Equipe de Recherche sur les Processus Innovatifs"
 
 header:
-  overlay_image: /assets/images/banner/bannerhome.jpg
+  overlay_image: /assets/images/banner/bannerhomelogoeurope.jpg
 
 
 academic:
@@ -44,13 +44,6 @@ gallery:
 
 ---
 
-<tr>
-    <td> <img src="/assets/images/projects/capmat/feder.jpg" alt="Drawing" style="width: 250px;"/> </td>
-    <td> <img src="/assets/images/logo/europegrandest.png" alt="Drawing" style="width: 250px;"/> </td>
-</tr>
-
--------------------
- 
 **L’ERPI (Équipe de Recherche sur les Processus Innovatifs)** est un des laboratoires de [l'Université de Lorraine](http://univ-lorraine.fr), labellisé Équipe d’Accueil (EA n° 3767) par le Ministère de l’Enseignement Supérieur et de la Recherche.
 L'ERPI est membre de la **FR 2863 : Fédération de Recherche Jacques Villermaux pour la Mécanique, l'Energie, les Procédés (FR JV)** et est rattaché au pole scientifique EMPP - Énergie, Mécanique, Procédés, Produits.
 Par ailleurs, les relations qu’entretient [l’ENSGSI](http://ensgsi.univ-lorraine.fr) (Ecole de l'Innovation) avec ce laboratoire sont historiques.
@@ -60,6 +53,12 @@ L’ERPI est un laboratoire de **Génie Industriel** spécialisé dans l’étud
 
 Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d’innovation technologique** c’est-à-dire les phases allant de l’émergence des idées jusqu’aux phases préalables à la matérialisation (plans numériques ou formulation). La spécificité des approches de l'ERPI par rapport au paysage international de la recherche en innovation est de considérer le produit comme un système intégrant : les caractéristiques du produit lui-même ainsi que les éléments descriptifs de l’activité industrielle correspondante (fabrication, maintenance, distribution…).
 
+## Actualités
+
+{% include /ERPI/Posts-FR.html %}
+
+
+## Notre plateforme de recherche 
 
 <a href="http://lf2l.fr/">
 <img src="/assets/images/partners/LF2L-Vertical.jpg"  alt= "Lorraine fab living lab lf2l" width="30%" class="align-right">
@@ -78,9 +77,3 @@ Le **Lorraine Fab Living Lab® (LF2L®)** permet d’accompagner la création et
 
 {% include gallery %}
 
-
-
-## Actualités
-
-
-{% include /ERPI/Posts-FR.html %}

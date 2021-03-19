@@ -2,7 +2,7 @@
 title: Chaire collaborative ITTI (Innovation Territoriale et Territoires en Intelligence)
 excerpt: "Répondre aux grands enjeux de transformation des territoires en développant des ingénieries collaboratives innovantes"
 header:
-  teaser: /assets/images/projects/Itti/ITTIlogo.png
+  teaser: /assets/images/projects/Itti/teaser.png
 last_modified_at: 2020-05-29
 Research-field:
   - Metrology

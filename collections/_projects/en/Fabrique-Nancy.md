@@ -2,7 +2,7 @@
 title: La Fabrique Nancy Grand Coeur
 excerpt: "Un démonstrateur partagé avec le Grand Nancy"
 header:
-  teaser: /assets/images/projects/fabrique-nancy/teaser.png
+  teaser: /assets/images/projects/fabrique-nancy/teaser.jpg
 last_modified_at: 2019-04-12
 Funding: [Nancy]
 ---
