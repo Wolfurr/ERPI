@@ -1,7 +1,7 @@
 ---
 title: Pascal Lhoste
 permalink: "/fr/people/Pascal-Lhoste/"
-excerpt: "Enseignant - Chercheur"
+excerpt: "Enseignant - Chercheur HDR"
 author: Pascal Lhoste
 header:
   teaser: "/assets/images/people/PL.jpg"

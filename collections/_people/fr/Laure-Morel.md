@@ -1,7 +1,7 @@
 ---
 title: Laure MOREL
 permalink: /fr/people/Laure-Morel/
-excerpt: "Directeur de l'ENSGSI / Enseignant - Chercheur"
+excerpt: "Directeur de l'ENSGSI / Enseignant - Chercheur HDR"
 last_modified_at: 2018-09-19
 author: Laure Morel
 header:

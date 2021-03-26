@@ -1,7 +1,7 @@
 ---
 title: Lorena Delgado
 permalink: /people/Lorena-Delagado/
-excerpt: " "
+excerpt: "Impact of universities innovations spaces design on new product/services development"
 last_modified_at: 2020-02-02
 author: Lorena Delgado
 header:
@@ -14,7 +14,10 @@ role: PHD
 ## Title of the thesis 
 
 Impact of universities innovations spaces design on new product/services development.
-Abstract: Innovation spaces are becoming increasingly popular in both the private and public sectors. Companies and universities are two organizations that have bet on the development of this type of space in the different formats that can be found: Fab lab, maker space, co-work, living labs, etc.  
+
+## Abstract
+
+Innovation spaces are becoming increasingly popular in both the private and public sectors. Companies and universities are two organizations that have bet on the development of this type of space in the different formats that can be found: Fab lab, maker space, co-work, living labs, etc.  
 
 For companies, it presents an opportunity for the development of innovation projects by integrating the user early on in the creation and design of new products. For universities, this type of space becomes an environment to support teaching and research, but it also becomes an opportunity to generate relationships with the industrial world.  
 

@@ -1,7 +1,7 @@
 ---
 title: Eric Bonjour
 permalink: /fr/people/Eric-Bonjour/
-excerpt: "Enseignant - Chercheur"
+excerpt: "Enseignant - Chercheur HDR"
 
 author: Eric Bonjour
 header:

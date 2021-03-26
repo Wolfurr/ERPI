@@ -1,7 +1,7 @@
 ---
 title: Mauricio Camargo
 permalink: /fr/people/Mauricio-Camargo/
-excerpt: "Directeur de l'ERPI / Enseignant - Chercheur"
+excerpt: "Directeur de l'ERPI / Enseignant - Chercheur HDR"
 last_modified_at: 2018-09-19
 author: Mauricio Camargo
 

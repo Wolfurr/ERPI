@@ -7,8 +7,8 @@ author: Linda Acosta
 header:
   teaser: /assets/images/people/PHD/Linda-Acosta.jpeg
 
-orden: Acosta
-role: PHD
+orden: 
+role: 
 ---
 
 ## Background
@@ -35,8 +35,6 @@ The patient management of Elderly people is characterized by a global insufficie
 The comprehensive approach of these risks, the chances of success (acceptability), and the adoption of innovative organizations remain critical.  
 
 Based on our previous work on the acceptability of innovations in health sector and our collaborations with various organizations dealing with patient management, we propose, in practice, to contribute to the diagnosis, the co-design and the implementation of an innovative organization of patient management, i.e., a chain of activities that uses a network of actors and appropriate technologies, for the benefit of wellness of elderly people.
-
-
 
 
 

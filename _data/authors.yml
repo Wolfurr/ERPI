@@ -638,6 +638,21 @@ Halima Ramdami:
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/halima-ramdani-2b3511114/" 
 
+Marie Gribouval: 
+  name: Marie Gribouval
+  email: marie.gribouval@univ-lorraine.fr
+  bio: "PhD"
+  avatar: "/assets/images/people/Marie-Gribouval.jpg"
+  links:
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "http://www.researchgate.net/profile/Gribouval_Marie"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/marie-gribouval-7584151b8/" 
+
+
+
 # Sandra Bautista:
 #   name: Sandra Bautista
 #   email: ' '
