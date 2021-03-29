@@ -18,7 +18,7 @@ Before starting this thesis I did a bachelor in Mathematics (first at the Univer
 
 ## Title of the thesis
 
-**MConception of a predictive system to evaluate the impact of a numerical device for the orientation of high school students.**
+**Conception of a predictive system to evaluate the impact of a numerical device for the orientation of high school students.**
 
 ## Abstract
 

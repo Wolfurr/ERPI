@@ -5,7 +5,7 @@ excerpt: "Design the Digital Twin of a Living Lab Project"
 last_modified_at: 2020-09-21
 author: Guillaume Prosnot
 header:
-  teaser: /assets/images/people/PHD/Guillaume-Prosnot.jpg
+  teaser: /assets/images/people/PHD/Guillaume-Prosnot.png
 
 orden: Prosnot
 role: PHD

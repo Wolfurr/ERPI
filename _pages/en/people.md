@@ -21,7 +21,7 @@ header:
 
 
 
-## University lecturers
+## Full professors
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html 
@@ -36,7 +36,7 @@ header:
 <div style="width: 100%; clear: both; "></div>
 
 
-## Lecturers
+## Associated professors 
 
 <div class="entries-{{ page.entries_layout }}">
 {% include documents-collection.html 

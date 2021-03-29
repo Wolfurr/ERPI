@@ -3,7 +3,7 @@ title: N-HUM-INNO Labcom
 permalink: "/projects/labcom/"
 excerpt: LabCom ANR
 header:
-  teaser: "/assets/images/projects/labcom/taser.png"
+  teaser: "/assets/images/projects/labcom/teaser.png"
   overlay_image: "/assets/images/projects/labcom/header.jpg"
 last_modified_at: 2019-07-03
 partners:

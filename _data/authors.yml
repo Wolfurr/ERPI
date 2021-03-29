@@ -28,7 +28,6 @@ Eric Bonjour:
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.fr/citations?user=zv4U2zIAAAAJ&hl=fr"  
 
-
 Vincent Boly:
   name: Vincent Boly
   email: " "
@@ -55,7 +54,6 @@ Davy Monticolo:
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.fr/citations?user=ttiddZkAAAAJ&hl=fr"  
 
-
 Hakim Boudaoud:
   name: "Hakim Boudaoud"  
   bio: " "
@@ -65,7 +63,6 @@ Hakim Boudaoud:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.fr/citations?user=9PF0MWEAAAAJ&hl=fr"  
-
 
 Alaa Hassan:
   name: "Alaa Hassan"
@@ -77,13 +74,11 @@ Alaa Hassan:
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.fr/citations?hl=en&user=sD64smEAAAAJ"
 
-
 Raphael Bary:
   name: Raphael Bary
   bio: " "
   avatar: "/assets/images/people/Raphael-Bary.jpg"
   email: " "
-
 
 Frederique Mayer:  
   name: "Frédérique Mayer"
@@ -105,8 +100,6 @@ Laurent Muller:
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/laurent-muller-868398132/?ppe=1"      
 
-
-
 Olivier Chery:
   name: Olivier Chery
   bio: " "
@@ -116,8 +109,6 @@ Olivier Chery:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
         url: " "
-
-
 
 Laurent Dupont:
   name: "Laurent Dupont"
@@ -138,7 +129,6 @@ Laurent Dupont:
       icon: "fab fa-linkedin"
       url: "http://www.linkedin.com/in/dupontl"      
 
-
 Manon Enjolras:
   name: Manon Enjolras
   email: 'manon.enjolras@univ-lorraine.fr'
@@ -158,28 +148,20 @@ Manon Enjolras:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/manon-enjolras-86067849/"      
 
-
-
 Pascal Lhoste:
   name: "Pascal Lhoste"
   bio: " "
   avatar: "/assets/images/people/PL.jpg"
-
-
 
 Valerie Rault:
   name: "Valérie Rault"
   bio: " "
   avatar: "/assets/images/people/Woman.jpg"
 
-
 Marie Reine Boudarel:
   name: "Marie Reine Boudarel"
   bio: " "
   avatar: "/assets/images/people/MRB.jpeg"
-
-
-
 
 Fabio Cruz:
   name: "Fabio Cruz"
@@ -205,7 +187,6 @@ Fabio Cruz:
         icon: "fab fa-twitter-square"
         url: "https://twitter.com/fabbiocrux"  
 
-
 Giovanny Arbelaez:
   name: "Giovanny Arbelaez"
   bio: "Research associate on acceptability assessment"
@@ -223,7 +204,6 @@ Giovanny Arbelaez:
       - label: "Twitter"
         icon: "fab fa-twitter-square"
         url: "https://twitter.com/gaarbelaez"  
-
 
 Brunelle Marche:
   name: Brunelle Marche
@@ -257,9 +237,6 @@ Javier Arrieta:
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/javier-arrieta-escobar-phd-59871722/?locale=en_US"   
 
-
-
-
 Fatima Ezzahra Hamdani:
   name: Fatima Ezzahra Hamdani
   email: ''
@@ -275,8 +252,6 @@ Fatima Ezzahra Hamdani:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
         url: " "      
-
-
 
 Ferney Osorio:
   name: Ferney Osorio
@@ -294,7 +269,6 @@ Ferney Osorio:
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/ferneyob/"   
 
-
 Juan David:
   name: Juan David
   email: ' '
@@ -310,7 +284,6 @@ Juan David:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/brunelle-marche-66a93b58/"   
-
 
 Alice:
   name: Alice de Bigault de Casanove
@@ -328,7 +301,6 @@ Alice:
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/alice-de-casanove-a59b315/"   
 
-
 Carlos Moya:
   name: Carlos Moya
   email: ' '
@@ -344,12 +316,6 @@ Carlos Moya:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
         url: " "   
-
-
-
-
-
-
 
 Jonathan Lacroix:
   name: Jonathan Lacroix
@@ -367,7 +333,6 @@ Jonathan Lacroix:
         icon: "fab fa-linkedin"
         url: " "   
 
-
 Juan Fonseca:
   name: Juan Fonseca
   email: juan-david.fonseca-gamboa@univ-lorraine.fr
@@ -381,8 +346,6 @@ Juan Fonseca:
         icon: "https://www.researchgate.net/profile/Juan_Fonseca_Gamboa"
         url: " "
       
-
-
 Linda Acosta:
   name: Linda Acosta
   email: ' '
@@ -399,8 +362,6 @@ Linda Acosta:
         icon: "fab fa-linkedin"
         url: " "   
 
-
-
 Lorena Delgado:
   name: Lorena Delgado
   email: lorena.delgado@univ-lorraine.fr
@@ -410,9 +371,6 @@ Lorena Delgado:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/lorena-delgado-cadena-82537a1a9/"   
-
-
-
 
 Maxence Arnould:
   name: Maxence Arnould
@@ -430,9 +388,6 @@ Maxence Arnould:
         icon: "fab fa-linkedin"
         url: " "   
 
-
-
-
 Pavlo Santander:
   name: Pavlo Santander
   email: ' '
@@ -448,9 +403,6 @@ Pavlo Santander:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
         url: " "   
-
-
-
 
 Fedoua Kasmi:
   name: Fedoua Kasmi
@@ -468,8 +420,6 @@ Fedoua Kasmi:
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/fedoua-kasmi-183094116/"   
 
-
-
 Benjamin Dethine: 
   name: Benjamin Dethine 
   email: benjamin.dethine@innovation-way.com
@@ -482,7 +432,6 @@ Benjamin Dethine:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/benjamin-dethine"   
-
 
 Tu Yongqiang: 
   name: Tu Yongqiang
@@ -500,7 +449,6 @@ Tu Yongqiang:
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/勇强-涂-14a6671b5/"   
 
-
 Jose Luis: 
   name: Jose Luis
   email: jose-luis.rivera-gil@univ-lorraine.fr
@@ -516,7 +464,6 @@ Jose Luis:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/jose-luis-rivera-gil-967059142/"   
-
 
 Fangkai Xue: 
   name: Fangkai Xue
@@ -534,15 +481,12 @@ Valentine Labouheure:
   bio: "PhD"
   avatar: "/assets/images/people/Woman.jpg"
 
-
 Mouna Hassani: 
   name: Mouna Hassani 
   email: mouna.hassani@univ-lorraine.fr
   bio: "PhD"
   avatar: "/assets/images/people/PHD/Mouna-HASSANI.jpg"
   links: 
-      - 
-
 
 Benjamin Ennesser-Serville:
   name: Benjamin Ennesser-Serville
@@ -550,20 +494,17 @@ Benjamin Ennesser-Serville:
   bio: "Admin"
   avatar: "/assets/images/people/Benjamin.jpg"
 
-
 Frederick Fontaine:
   name: Frederick Fontaine
   email: frederick.fontaine@univ-lorraine.fr
   bio: "Admin"
-  avatar: "/assets/images/people/fred.png"
-
+  avatar: "/assets/images/people/Fred.jpg"
 
 Cindy Neves:
   name: Cindy Neves
   email: cindy.neves@univ-lorraine.fr
   bio: "Admin"
   avatar: "/assets/images/people/Woman.jpg"
-
 
 Thomas Didier:
   name: Thomas Didier
@@ -575,7 +516,7 @@ Guillaume Prosnot:
   name: Guillaume Prosnot
   email: guillaume.prosnot@univ-lorraine.fr
   bio: "PhD"
-  avatar: "/assets/images/people/PHD/Guillaume-Prosnot.jpg"
+  avatar: "/assets/images/people/PHD/Guillaume-Prosnot.png"
   links: 
       - label: "Researchgate"
         icon: "ai ai-researchgate"
@@ -583,7 +524,6 @@ Guillaume Prosnot:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
         url: "https://linkedin.com/in/guillaume-pronost-562a53137"   
-
 
 Tchoya-Florence Kone: 
   name: Tchoya-Florence Kone 
@@ -624,7 +564,6 @@ Diana Cardenas:
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/dianamarcelacardenas/" 
 
-
 Halima Ramdami: 
   name: Halima Ramdami
   email: h.ramdani@myxtramile.com
@@ -650,6 +589,29 @@ Marie Gribouval:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/marie-gribouval-7584151b8/" 
+
+Neal Widmer: 
+  name: Neal Widmer
+  email: neal.widmer@univ-lorraine.fr
+  bio: "PhD"
+  avatar: "/assets/images/people/Neal-Widner.jpg"
+  links:
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/neal-widmer-35a367122/" 
+
+Chedhli Masmoudi:
+  name: Chedhli Masmoudi
+  email: chedhli.masmoudi@gmail.com
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Chedli-Masmoudi2.png"
+  links:
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "www.researchgate.net/profile/Chedhli-Masmoudi"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "www.linkedin.com/in/chedhli-masmoudi/" 
 
 
 
