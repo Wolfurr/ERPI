@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: "ERPI"
-layout: single
+layout: splash
 permalink: /fr/
 excerpt: "Equipe de Recherche sur les Processus Innovatifs"
 
