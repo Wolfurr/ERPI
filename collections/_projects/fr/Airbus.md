@@ -3,7 +3,7 @@ title: Chaire Airbus-Université de Lorraine
 excerpt: "Ingénierie de systèmes basée sur des modèles supportant la décision et la collaboration, dignes de confiance et exécutables"
 header:
   teaser: /assets/images/projects/Airbus/apercu.png
-  overlay_image: /assets/images/projects/Airbus/banner2.png
+  overlay_image: /assets/images/projects/Airbus/banner4.jpg
 
 keywords: [Ingénierie système; verification et validation au plus tôt; adoption d’innovations méthodologiques]
 
@@ -36,32 +36,47 @@ last_modified_at: 2021-03-31
 Funding : [FR]
 ---
 
+![Logo acteurs de la chaire](/assets/images/projects/Airbus/logos.jpg)
+
 ## Contexte du projet 
 
-La chaire Airbus-Université de Lorraine est un projet de recherche et d’enseignement, engagé pour 5 ans, de 2021 à 2025. Elle entend contribuer au programme ambitieux d’Airbus, de transformation digitale de sa R&D, qui a débuté il y a deux ans (DDMS : Digital Design Manufacturing & Services). Airbus est un leader reconnu dans le domaine de l’ingénierie des systèmes complexes (ex : avion, hélicoptère, satellite, lanceur…). Pour répondre à de nouveaux challenges industriels et écologiques, Airbus doit encore progresser dans ce domaine, en augmentant, par un facteur 10, le nombre d’experts et d’ingénieurs expérimentés en ingénierie système.
+La chaire Airbus-Université de Lorraine est un projet de recherche et d’enseignement, engagé pour 5 ans, de 2021 à 2025.  
+
+**Elle entend contribuer au programme ambitieux d’Airbus, de transformation digitale de sa R&D, qui a débuté il y a deux ans** (DDMS : Digital Design Manufacturing & Services).  
+ 
+Airbus est un leader reconnu dans le domaine de l’ingénierie des systèmes complexes (ex : avion, hélicoptère, satellite, lanceur…). 
+Pour répondre à de nouveaux challenges industriels et écologiques, Airbus doit encore progresser dans ce domaine, en augmentant, par un facteur 10, le nombre d’experts et d’ingénieurs expérimentés en ingénierie système.
 
 ## Objectifs de la recherche
 
-Cette chaire vise à élaborer une méthodologie d’Ingénierie Système (IS), basée sur des modèles (ou MBSE – Model-Based Systems Engineering) exécutables, généralisable sur les ingénieries des systèmes avion, de production et de soutien et à en préparer la diffusion. 
-Le titulaire et le co-titulaire de la chaire sont Eric Bonjour (laboratoire ERPI) et Eric Levrat (laboratoire CRAN, UMR CNRS 7039), professeurs à l’Université de Lorraine. Ils ont réuni autour d’eux une équipe composée de deux membres du laboratoire ERPI (Frédérique Mayer et Alaa Hassan) et trois membres du laboratoire CRAN (David Gouyon, Pascale Marangé, Alexis Aubry). Ces enseignants-chercheurs partagent des expertises complémentaires sur la chaire, en MBSE, en soutien logistique intégré, en industrie 4.0 et en adoption d’innovations. Ils ont su gagner la confiance d’Airbus de par leur rayonnement national et international en ingénierie système, tant en recherche qu’en enseignement, depuis maintenant 15 ans et de par de nombreuses collaborations passées avec des ingénieurs de cette grande entreprise. Trois thèses seront lancées au cours de cette chaire sur les thèmes suivants :
+**Cette chaire vise à élaborer une méthodologie d’Ingénierie Système** (IS), **basée sur des modèles** (ou MBSE – Model-Based Systems Engineering) **exécutables, généralisable sur les ingénieries des systèmes avion, de production et de soutien et à en préparer la diffusion**.  
+
+Le titulaire et le co-titulaire de la chaire sont Eric Bonjour (laboratoire ERPI) et Eric Levrat (laboratoire CRAN, UMR CNRS 7039), professeurs à l’Université de Lorraine.  
+Ils ont réuni autour d’eux une équipe composée de deux membres du laboratoire ERPI (Frédérique Mayer et Alaa Hassan) et trois membres du laboratoire CRAN (David Gouyon, Pascale Marangé, Alexis Aubry). 
+Ces enseignants-chercheurs partagent des expertises complémentaires sur la chaire, en MBSE, en soutien logistique intégré, en industrie 4.0 et en adoption d’innovations. 
+Ils ont su gagner la confiance d’Airbus de par leur rayonnement national et international en ingénierie système, tant en recherche qu’en enseignement, depuis maintenant 15 ans et de par de nombreuses collaborations passées avec des ingénieurs de cette grande entreprise.  
+
+Trois thèses seront lancées au cours de cette chaire sur les thèmes suivants :
 
 - Thèse 1. Comment garantir une confiance précoce dans la définition, Vérification & Validation des exigences ?
 - Thèse 2. Comment co-concevoir, avec une approche MBSE, le système principal et son système de production, pour favoriser des analyses d’impacts mutuels  et améliorer les performances de production ?
 - Thèse 3. Comment favoriser l’adoption des innovations méthodologiques induites en MBSE par les départements de R&D ?
 
-En permettant le renforcement de l’expertise en MBSE au sein de l’UL, cette chaire aura aussi des retombées favorables sur des formations de l’Université de Lorraine, qui dispensent déjà des enseignements de haut niveau dans le domaine du MBSE, comme l’ENSGSI et le Master Ingénierie des Systèmes Complexes. Ainsi, cette chaire offre une plateforme d’échanges et d’accumulation d’expertises sur une thématique de rupture, en lien avec de grands défis industriels et sociétaux comme la transformation digitale de la R&D (nouveaux types de métiers) et l’amélioration de la compétitivité de nos entreprises (nouveaux emplois).
+En permettant le renforcement de l’expertise en MBSE au sein de l’UL, cette chaire aura aussi des retombées favorables sur des formations de l’Université de Lorraine, qui dispensent déjà des enseignements de haut niveau dans le domaine du MBSE, comme l’ENSGSI et le Master Ingénierie des Systèmes Complexes.  
+
+Ainsi, cette chaire offre une plateforme d’échanges et d’accumulation d’expertises sur une thématique de rupture, en lien avec de grands défis industriels et sociétaux comme la transformation digitale de la R&D (nouveaux types de métiers) et l’amélioration de la compétitivité de nos entreprises (nouveaux emplois).
 
 
 ![L'équipe de la chaire](/assets/images/projects/Airbus/Equipe.png)
 
 
-## Academical partners  
+## Partenaires universitaires  
 
 <a href="http://www.cran.univ-lorraine.fr">![CRAN logo]({{ site.baseimg }}/assets/images/projects/Airbus/logocran.png){:height="25%" width="25%"}</a>
 
 <a href="http://www.cran.univ-lorraine.fr">![CNRS logo]({{ site.baseimg }}/assets/images/projects/Airbus/logocnrs.jpg){:height="25%" width="25%"}</a>
 
-## Indutrial partners 
+## Partenaires industriels 
 
 <a href="https://www.airbus.com">![Airbus logo]({{ site.baseimg }}/assets/images/projects/Airbus/logoairbus.png){:height="25%" width="25%"}</a>
 

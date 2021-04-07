@@ -3,7 +3,7 @@ title: Airbus-Université de Lorraine research chair
 excerpt: "ACTE MBSE - Actionable Collaborative Trustworthy Executable Model-Based Systems Engineering"
 header:
   teaser: /assets/images/projects/Airbus/apercu.png
-  overlay_image: /assets/images/projects/Airbus/banner2.png
+  overlay_image: /assets/images/projects/Airbus/banner1.jpg
 
 keywords: [MBSE; early verification and validation; adoption of methodological innovations]
 
@@ -14,26 +14,41 @@ Field of application:
 Research-field: Acceptability
 
 
-
-
-
 Funding : [FR]
 ---
 
+![Logo acteurs de la chaire](/assets/images/projects/Airbus/logos.jpg)
+
+
 ## Global context
 
-The Airbus-Université de Lorraine Chair is a research and educational project, contracted for five years, from 2021 to 2025. It aims to contribute to Airbus' ambitious program of digital transformation of its R&D, which began two years ago (DDMS: Digital Design Manufacturing & Services). Airbus is a recognized leader in the area of complex systems engineering (e.g. aircraft, helicopters, satellites, launchers, etc.). To meet new industrial and environmental challenges, Airbus must continue to make progress in this area, increasing the number of experts and experienced engineers in systems engineering by a factor of 10.
+The Airbus-Université de Lorraine Chair is a research and educational project, contracted for five years, from 2021 to 2025.  
+
+**It aims to contribute to Airbus' ambitious program of digital transformation of its R&D, which began two years ago** (DDMS: Digital Design Manufacturing & Services).  
+
+Airbus is a recognized leader in the area of complex systems engineering (e.g. aircraft, helicopters, satellites, launchers, etc.).  
+To meet new industrial and environmental challenges, Airbus must continue to make progress in this area, increasing the number of experts and experienced engineers in systems engineering by a factor of 10.
 
 ## Research goals
 
-This chair aims at developing an executable Model-Based Systems Engineering (MBSE) methodology, applicable to the engineering of aircraft, production and support systems, and at preparing its diffusion. 
-The holder and co-holder of the chair are Eric Bonjour (ERPI laboratory) and Eric Levrat (CRAN laboratory, UMR CNRS), professors at the Université de Lorraine. They have gathered around them a team composed of two members of the ERPI laboratory (Frédérique Mayer and Alaa Hassan) and three members of the CRAN laboratory (Eric Levrat, David Gouyon, Pascale Marangé, Alexis Aubry). These professors and researchers share complementary expertise in MBSE, integrated logistics support, industry 4.0 and innovation adoption.  They have earned the trust of Airbus through their national and international reputation in systems engineering, in research and training, over the past 15 years and through numerous past collaborations with engineers from this major company. Three theses will be launched during this chair on the following themes
+**This chair aims at developing an executable Model-Based Systems Engineering** (MBSE) **methodology, applicable to the engineering of aircraft, production and support systems, and at preparing its diffusion**.  
+
+The holder and co-holder of the chair are Eric Bonjour (ERPI laboratory) and Eric Levrat (CRAN laboratory, UMR CNRS), professors at the Université de Lorraine.  
+
+They have gathered around them a team composed of two members of the ERPI laboratory (Frédérique Mayer and Alaa Hassan) and three members of the CRAN laboratory (Eric Levrat, David Gouyon, Pascale Marangé, Alexis Aubry).    
+
+These professors and researchers share complementary expertise in MBSE, integrated logistics support, industry 4.0 and innovation adoption.  
+They have earned the trust of Airbus through their national and international reputation in systems engineering, in research and training, over the past 15 years and through numerous past collaborations with engineers from this major company.   
+
+Three theses will be launched during this chair on the following themes
 
 - Thesis 1. How to ensure early trust in the definition, verification & validation of requirements?
 - Thesis 2. How to co-design, with an MBSE approach, the main system and its production system, to evaluate the mutual impacts of the modifications?
 - Thesis 3. How to promote the adoption of methodological innovations induced in MBSE?
 
-By allowing the reinforcement of the expertise in MBSE within the UL, this chair will also have positive effects on the training courses of the Université de Lorraine, which already provide courses in the field of MBSE, such as ENSGSI and the master's degree in Complex Systems Engineering (master ISC). Thus, it provides a platform for exchanges and the accumulation of expertise on a disruptive theme, linked to major societal and industrial challenges such as the digital transformation of R&D (new types of professions) and the improvement of the competitiveness of our companies (new jobs).
+By allowing the reinforcement of the expertise in MBSE within the UL, this chair will also have positive effects on the training courses of the Université de Lorraine, which already provide courses in the field of MBSE, such as ENSGSI and the master's degree in Complex Systems Engineering (master ISC).  
+
+Thus, it provides a platform for exchanges and the accumulation of expertise on a disruptive theme, linked to major societal and industrial challenges such as the digital transformation of R&D (new types of professions) and the improvement of the competitiveness of our companies (new jobs).
 
 
 
