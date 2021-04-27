@@ -10,4 +10,4 @@ Airbus est un leader reconnu dans le domaine de l’ingénierie des systèmes co
 
 
 
-![](/assets/images/projects/Airbus/Equipe.png)
+![](/assets/images/projects/Airbus/apercu.png)

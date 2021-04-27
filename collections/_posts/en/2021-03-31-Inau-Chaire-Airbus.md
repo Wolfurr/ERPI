@@ -7,4 +7,4 @@ The Airbus-Université de Lorraine research chair is a research and teaching pro
 
 Airbus is a recognized leader in the field of engineering of complex systems (eg: airplane, helicopter, satellite, launcher, etc.). To meet new industrial and ecological challenges, Airbus must make further progress in this area, increasing by a factor of 10 the number of experts and engineers experienced in systems engineering.
 
-![](/assets/images/projects/Airbus/Equipe.png)
+![](/assets/images/projects/Airbus/apercu.png)

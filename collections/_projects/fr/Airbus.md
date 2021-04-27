@@ -36,7 +36,7 @@ last_modified_at: 2021-03-31
 Funding : [FR]
 ---
 
-![Logo acteurs de la chaire](/assets/images/projects/Airbus/logos.jpg)
+![Logo acteurs de la chaire](/assets/images/projects/Airbus/Logos.jpg)
 
 ## Contexte du projet 
 

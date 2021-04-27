@@ -17,7 +17,7 @@ Research-field: Acceptability
 Funding : [FR]
 ---
 
-![Logo acteurs de la chaire](/assets/images/projects/Airbus/logos.jpg)
+![Logo acteurs de la chaire](/assets/images/projects/Airbus/Logos.jpg) 
 
 
 ## Global context
