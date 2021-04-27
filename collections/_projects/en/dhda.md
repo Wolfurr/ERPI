@@ -19,14 +19,14 @@ Industrial:
 
 ---
 
-**"DHDA”** (Humans & Trees) project involves more than 100 regional partners, the Living lab approach supports the network
-of “DHDA” relay structures and places with the public (e.g. LF2L, Forest Inn Lab, Citique, etc.).
+[**"DHDA”** (Humans & Trees) project](https://www.deshommesetdesarbres.org/) involves more than 100 regional partners, the Living lab approach supports the network
+of “DHDA” relay structures and places with the public (e.g. [LF2L](http://lf2l.fr/), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.). 
 
 DHDA is one of the 24 national winners of the French [PIA3 - Investment in the Future Programme](https://www.prefectures-regions.gouv.fr/occitanie/Grands-dossiers/Le-programme-des-investissements-d-avenir-PIA) action **“Territoires d’innovation”**
 (Territories of Innovation).    
 
 
-![Graphique 1](/assets/images/projects/dhda/graph1.png)
+![Graphique 1](/assets/images/projects/dhda/graph1.jpg)
 
 
 
