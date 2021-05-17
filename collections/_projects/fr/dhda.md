@@ -20,7 +20,7 @@ Industrial:
 [Le projet **«DHDA»**](https://www.deshommesetdesarbres.org/) (Des Hommes et Des Arbres) implique plus de 100 partenaires régionaux, l'approche Living lab soutient le réseau
 des structures relais «DHDA» et des lieux avec le public (par exemple [LF2L](http://lf2l.fr/), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.). 
 
-DHDA est l'un des 24 lauréats nationaux du programme français [PIA3 - Investissement dans le futur](https://www.prefectures-regions.gouv.fr/occitanie/Grands-dossiers/Le-programme-des-investissements-d-avenir-PIA) action **«Territoires d'innovation»**.  
+DHDA est l'un des 24 lauréats nationaux du programme français [PIA3 - Programme d'Investissement d'Avenir](https://www.prefectures-regions.gouv.fr/occitanie/Grands-dossiers/Le-programme-des-investissements-d-avenir-PIA) action **«Territoires d'innovation»**.  
 
 ![Graphique 1](/assets/images/projects/dhda/graph1.jpg)  
 

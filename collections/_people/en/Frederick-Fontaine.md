@@ -1,5 +1,5 @@
 ---
-title: Frederick Fontaine
+title: Frédérick Fontaine
 permalink: "/people/Frederick-Fontaine/"
 excerpt: "Multiskilled operator at LF2L"
 last_modified_at: 2020-02-02
