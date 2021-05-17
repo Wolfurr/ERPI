@@ -1,5 +1,5 @@
 ---
-title: Marie GRIBOUVAL
+title: Marie Gribouval
 permalink: /people/Marie-GRIBOUVAL/
 excerpt: "Conception of a predictive system to evaluate the impact of a numerical device for the orientation of high school students"
 last_modified_at: 2021-03-26
