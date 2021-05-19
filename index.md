@@ -41,14 +41,15 @@ gallery:
 {% include feature_row id="intro" type="center" %}
 
 
-The **ERPI (Research team on innovation process)** is one of the [University of Lorraine](http://univ-lorraine.fr) research labs.
+<p style="text-align:justify;">The <b>ERPI (Research team on innovation process)</b> is one of the <a href="http://univ-lorraine.fr">Université de Lorraine</a> research labs.
 It is labeled as such by the French Ministry of Higher Education, Research and Innovation.
-ERPI is a founding member of the Jacques Villermaux Federation and linked to the EMPP scientific axis.
-ERPI has an historical link with the [ENSGSI](http://ensgsi.univ-lorraine.fr) ( Engineering School on Innovation).
+ERPI is a founding member of the Jacques Villermaux Federation and linked to the EMPP scientific axis.</p>
 
-ERPI is a research team on Industrial Engineering specialized on the research of innovation processes management. Its activities concerns the methods, tools and knowledges allowing to optimise innovation projects management.
+<p style="text-align:justify;">ERPI has an historical link with the <a href="http://ensgsi.univ-lorraine.fr">ENSGSI</a>(Engineering School on Innovation).</p>
 
-The scientific project of the ERPI deals with the Fuzzy Front-End off innovation that is to say from idea generation to materialization (CAD, formulation ...). ERPI differs to other innovation research laboratories by considering the product as a "integrating system".
+<p style="text-align:justify;">ERPI is a research team on Industrial Engineering specialized on the research of innovation processes management. Its activities concerns the methods, tools and knowledges allowing to optimise innovation projects management.</p>
+
+<p style="text-align:justify;">The scientific project of the ERPI deals with the Fuzzy Front-End off innovation that is to say from idea generation to materialization (CAD, formulation ...). ERPI differs to other innovation research laboratories by considering the product as a "integrating system".</p>
 
 
 ## Latest News
@@ -60,9 +61,10 @@ The scientific project of the ERPI deals with the Fuzzy Front-End off innovation
 
 
 <a href="http://lf2l.fr/">
-<img src="/assets/images/partners/LF2L-Vertical.jpg"  alt= "Lorraine fab living lab lf2l" width="30%" class="align-right">
+<img src="/assets/images/partners/LF2L-Vertical.jpg"  alt= "Lorraine fab living lab lf2l" width="22%" class="align-right">
 </a>
-The **Lorraine Fab Living Lab® (LF2L®)** is a research platform of the ERPI Laboratory dedicated to the prospective assessment of innovative usages. It supports the creation and achievement of results through an established process based on the usage paradigm bringing together in the same space complementary advanced tools. The originality of the LF2L® is to be able to welcome, support and associate different communities (citizen users, entrepreneurs, researchers, etc.) using a conceptual framework of LF2L taking into consideration the 2D (concept), 3D (object), 4D (evolution scenarios) approaches involving the different type of stakeholders in order to have a foresight usage evaluation of a new concept, technology or project. This approach is useful to accelerate the deployment of industrial or urban demonstrators.
+
+<p style="text-align:justify;">The <b>Lorraine Fab Living Lab® (LF2L®)</b> is a research platform of the ERPI Laboratory dedicated to the prospective assessment of innovative usages. It supports the creation and achievement of results through an established process based on the usage paradigm bringing together in the same space complementary advanced tools. The originality of the LF2L® is to be able to welcome, support and associate different communities (citizen users, entrepreneurs, researchers, etc.) using a conceptual framework of LF2L taking into consideration the 2D (concept), 3D (object), 4D (evolution scenarios) approaches involving the different type of stakeholders in order to have a foresight usage evaluation of a new concept, technology or project. This approach is useful to accelerate the deployment of industrial or urban demonstrators.</p>
 
 
 ## Research subjects

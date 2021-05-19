@@ -1,5 +1,6 @@
 ---
 title: Des Hommes et Des Arbres
+classes: wide
 excerpt: "Territoire d'innovation"
 header:
   teaser: "/assets/images/projects/dhda/teaser1.png"

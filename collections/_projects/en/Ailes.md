@@ -1,5 +1,6 @@
 ---
 title: AILES
+classes: wide
 excerpt: "Living Lab approach to co-create innovative digital solutions with high schools"
 header:
   teaser: "/assets/images/projects/Ailes/teaser.jpg"  
@@ -21,17 +22,17 @@ Funding: [Lorraine]
 
 ---
 
-> The aim of this project is to apply a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. The project also includes a follow-up phase for cohorts of high school students from the second to the second year of high school, for the establishment of an observatory that will use data analysis and learning approaches to submit the best recommendations to high school students when they choose their orientation.
+<p style="text-align:justify;">The aim of this project is to apply a Living Lab approach to co-create innovative digital solutions with high schools, guidance services and universities to improve high school guidance. The project also includes a follow-up phase for cohorts of high school students from the second to the second year of high school, for the establishment of an observatory that will use data analysis and learning approaches to submit the best recommendations to high school students when they choose their orientation.</p> 
 
 
 
 ## Global context
-The context of the project is the field of education and guidance. The research themes are Living Lab approaches, Artificial Intelligence for education (learning systems and recommendation systems)
+<p style="text-align:justify;">The context of the project is the field of education and guidance. The research themes are Living Lab approaches, Artificial Intelligence for education (learning systems and recommendation systems)</p> 
 
 
-## Research Goal:
+## Research Goal
 
-**•	Develop the Living Lab approach in the field of education guidance. Develop Artificial Intelligence approaches to assist high school students in their orientation processes.**
+<p style="text-align:justify;"><b>Develop the Living Lab approach in the field of education guidance. Develop Artificial Intelligence approaches to assist high school students in their orientation processes </b></p>
 
 
 ## Academical partnerships

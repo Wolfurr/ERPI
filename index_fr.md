@@ -44,14 +44,15 @@ gallery:
 
 ---
 
-**L’ERPI (Équipe de Recherche sur les Processus Innovatifs)** est un des laboratoires de [l'Université de Lorraine](http://univ-lorraine.fr), labellisé Équipe d’Accueil (EA n° 3767) par le Ministère de l’Enseignement Supérieur et de la Recherche.
-L'ERPI est membre de la **FR 2863 : Fédération de Recherche Jacques Villermaux pour la Mécanique, l'Energie, les Procédés (FR JV)** et est rattaché au pole scientifique EMPP - Énergie, Mécanique, Procédés, Produits.
-Par ailleurs, les relations qu’entretient [l’ENSGSI](http://ensgsi.univ-lorraine.fr) (Ecole de l'Innovation) avec ce laboratoire sont historiques.
+<p style="text-align:justify;"><b>L’ERPI (Équipe de Recherche sur les Processus Innovatifs)</b> est un des laboratoires de <a href="http://univ-lorraine.fr">l'Université de Lorraine</a>, labellisé Équipe d’Accueil (EA n° 3767) par le Ministère de l’Enseignement Supérieur et de la Recherche.
+L'ERPI est membre de la <b>FR 2863 : Fédération de Recherche Jacques Villermaux pour la Mécanique, l'Energie, les Procédés (FR JV)</b> et est rattaché au pole scientifique EMPP - Énergie, Mécanique, Procédés, Produits.</p>
 
-L’équipe ERPI a pour vocation de mener des recherches dans le domaine de la conduite et du pilotage des processus innovatifs.
-L’ERPI est un laboratoire de **Génie Industriel** spécialisé dans l’étude des processus d’innovation. Ses activités concernent les méthodes, les outils et les compétences permettant l’optimisation du pilotage des projets innovants.
+<p style="text-align:justify;">Par ailleurs, les relations qu’entretient <a href="http://ensgsi.univ-lorraine.fr">ENSGSI</a> Ecole de l'Innovation avec ce laboratoire sont historiques.</p>
 
-Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d’innovation technologique** c’est-à-dire les phases allant de l’émergence des idées jusqu’aux phases préalables à la matérialisation (plans numériques ou formulation). La spécificité des approches de l'ERPI par rapport au paysage international de la recherche en innovation est de considérer le produit comme un système intégrant : les caractéristiques du produit lui-même ainsi que les éléments descriptifs de l’activité industrielle correspondante (fabrication, maintenance, distribution…).
+<p style="text-align:justify;">L’équipe ERPI a pour vocation de mener des recherches dans le domaine de la conduite et du pilotage des processus innovatifs.
+L’ERPI est un laboratoire de <b>Génie Industriel</b> spécialisé dans l’étude des processus d’innovation. Ses activités concernent les méthodes, les outils et les compétences permettant l’optimisation du pilotage des projets innovants.</p>
+
+<p style="text-align:justify;">Le projet scientifique de l’ERPI porte sur <b>les étapes amont du processus d’innovation technologique</b> c’est-à-dire les phases allant de l’émergence des idées jusqu’aux phases préalables à la matérialisation (plans numériques ou formulation). La spécificité des approches de l'ERPI par rapport au paysage international de la recherche en innovation est de considérer le produit comme un système intégrant : les caractéristiques du produit lui-même ainsi que les éléments descriptifs de l’activité industrielle correspondante (fabrication, maintenance, distribution…).</p>
 
 ## Actualités
 
@@ -61,9 +62,10 @@ Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d�
 ## Notre plateforme de recherche 
 
 <a href="http://lf2l.fr/">
-<img src="/assets/images/partners/LF2L-Vertical.jpg"  alt= "Lorraine fab living lab lf2l" width="30%" class="align-right">
+<img src="/assets/images/partners/LF2L-Vertical.jpg"  alt= "Lorraine fab living lab lf2l" width="22%" class="align-right">
 </a>
-Le **Lorraine Fab Living Lab® (LF2L®)** permet d’accompagner la création et l’obtention de résultats immédiats grâce à un processus établi basé sur le paradigme de l’usage. En réunissant en un même espace des outils de pointe complémentaires, le LF2L® facilite le travail de réflexion collaborative et de développement de l’innovation. L’originalité du LF2L® est de pouvoir accueillir, accompagner, associer différentes communautés (citoyens utilisateurs, entrepreneurs, chercheurs, etc.) via un dispositif scientifique et technique capable d’accélérer le passage de l’idée ou concept abstrait (2D) à leur matérialisation (3D virtuelle ou prototypée) en les évaluant (4D – scénarios d’évolution)
+
+<p style="text-align:justify;">Le <b>Lorraine Fab Living Lab® (LF2L®)</b> permet d’accompagner la création et l’obtention de résultats immédiats grâce à un processus établi basé sur le paradigme de l’usage. En réunissant en un même espace des outils de pointe complémentaires, le LF2L® facilite le travail de réflexion collaborative et de développement de l’innovation. L’originalité du LF2L® est de pouvoir accueillir, accompagner, associer différentes communautés (citoyens utilisateurs, entrepreneurs, chercheurs, etc.) via un dispositif scientifique et technique capable d’accélérer le passage de l’idée ou concept abstrait (2D) à leur matérialisation (3D virtuelle ou prototypée) en les évaluant (4D – scénarios d’évolution).</p>
 
 
 ## Partenaires académiques

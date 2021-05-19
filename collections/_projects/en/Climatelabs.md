@@ -40,11 +40,11 @@ Funding: [EU]
 
 ## Context
 
-Climate Labs seeks to strengthen the applied research and innovation capacities of ten partner universities from Mexico, Brazil and Colombia through the design and implementation of Social Innovation Labs for mitigation and adaptation to Climate Change. In a network with Universities from Spain, France, and Italy, plus Ashoka as a non-academic expert partner, the project seeks to build interdisciplinary and multi-stakeholder labs that will institutionalize the applied research and innovation for climate change in the territories the partners are inserted. 
+<p style="text-align:justify;">Climate Labs seeks to strengthen the applied research and innovation capacities of ten partner universities from Mexico, Brazil and Colombia through the design and implementation of Social Innovation Labs for mitigation and adaptation to Climate Change. In a network with Universities from Spain, France, and Italy, plus Ashoka as a non-academic expert partner, the project seeks to build interdisciplinary and multi-stakeholder labs that will institutionalize the applied research and innovation for climate change in the territories the partners are inserted. 
 
 In a term of three years, the project expects to train scholars, students and staff members in Latin America, who will form changemaker leader teams, design and implement labs according to the needs, strengths, challenges and characteristics of the institutions and territories they serve. In this period, each university will also implement a pilot project, get connected with international relevant networks as well as other national institutions, build the physical and virtual infrastructure of the lab, and develop strategies for the sustainability and scalability of the project. 
 
-The project seeks, ultimately, to build strong and connected areas of innovation and applied research  within universities impacting in the overall capacities and strategies of the partner countries to mitigate and adapt to climate change. 
+The project seeks, ultimately, to build strong and connected areas of innovation and applied research  within universities impacting in the overall capacities and strategies of the partner countries to mitigate and adapt to climate change.</p>
 
 
 ## Goals
@@ -62,9 +62,10 @@ The project seeks, ultimately, to build strong and connected areas of innovation
 
 ## Acknowledgements
 
+Co-funded by the Erasmus+ Programme of the European Union
+
 <img src="/assets/images/projects/climatelabs/logos-climatelabs-eu.png"  alt= "H2020" width="500px" class="align-right">
 
-Co-funded by the Erasmus+ Programme of the European Union
 
 <div style="width: 100%; clear: both;"></div>
 

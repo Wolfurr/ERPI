@@ -1,5 +1,6 @@
 ---
 title: AILES
+classes: wide
 excerpt: "Accompagnement à l'Intégration des Lycéens dans l'Enseignement Supérieur"
 header:
   teaser: "/assets/images/projects/Ailes/teaser.jpg"  
@@ -21,16 +22,16 @@ Funding: [Lorraine]
 last_modified_at: 2019-10-16  
 ---
 
-> Le but de ce projet est d’appliquer une demarche Living Lab pour co-créer avec les lycées, les services d’orientation et les universities des solutions numériques innovantes pour améliorer l’orientation des lycées. Le projet comporte également une phase de suivi de cohortes de Lycéens de la seconde à bac+2, pour la mise en place d’un observatoire qui utilisera des approches d’analyses des données et d’apprentissage en vue de soumettre les meilleures recommandations aux lycéens lors de leurs choix d’orientation.
+<p style="text-align:justify;">Le but de ce projet est d’appliquer une demarche Living Lab pour co-créer avec les lycées, les services d’orientation et les universities des solutions numériques innovantes pour améliorer l’orientation des lycées. Le projet comporte également une phase de suivi de cohortes de Lycéens de la seconde à bac+2, pour la mise en place d’un observatoire qui utilisera des approches d’analyses des données et d’apprentissage en vue de soumettre les meilleures recommandations aux lycéens lors de leurs choix d’orientation.</p>
 
 
 
 ## Contexte du projet
-Le contexte du projet est le domaine de l’éducation et l’orientation. Les thématiques de recherche sont les approaches Living Lab, l’Intelligence Artificielle pour l’éducation (systèmes d’apprentissage et systèmes de recommendation)
+<p style="text-align:justify;">Le contexte du projet est le domaine de l’éducation et l’orientation. Les thématiques de recherche sont les approaches Living Lab, l’Intelligence Artificielle pour l’éducation (systèmes d’apprentissage et systèmes de recommendation).</p>
 
 ## Finalités du projet 
 
-- **Développer l’approche Living Lab dans le domaine de l’orientation. Développer des approches  d’Intelligence Artificielle pour assister les lycéens dans leurs processus d’orientation. .**
+<p style="text-align:justify;"><b>Développer l’approche Living Lab dans le domaine de l’orientation. Développer des approches  d’Intelligence Artificielle pour assister les lycéens dans leurs processus d’orientation.</b></p>
 
 
 ## Partenariats universitaires

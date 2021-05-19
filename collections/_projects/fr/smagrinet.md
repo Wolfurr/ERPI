@@ -1,5 +1,6 @@
 ---
 title: SMAGRINET
+classes: wide
 excerpt: "Alimenter l’expertise des smart grid en Europe"
 header:
   teaser: "/assets/images/projects/smagrinet/teaser2.png"
@@ -75,17 +76,17 @@ last_modified_at: 2019-11-21
 
 ## Contexte du projet 
 
-L’Union Européenne a pour objectif de réduire sa production de gaz à effet de sert de 20% d’ici 2020 and significativement plus dans les décennies à venir. Cela nécessite l’augmentation de la part des énergies renouvelables dans la production des états membres de l’UE bien que le réseau ne soit pas suffisamment flexible pour le permettre. Le postulat de l’UE est de considérer les smart grids comme une solution pour réduire les émissions de gaz à effet de serre par l’amélioration de l’efficacité du réseau, permettre l’utilisation de plus d’énergie renouvelable et faciliter la gestion de la demande. Cela nécessite de sensibiliser et de former les acteurs impliqués et la société concernant les enjeux et les moyens technologiques.  
+<p style="text-align:justify;">L’Union Européenne a pour objectif de réduire sa production de gaz à effet de sert de 20% d’ici 2020 and significativement plus dans les décennies à venir. Cela nécessite l’augmentation de la part des énergies renouvelables dans la production des états membres de l’UE bien que le réseau ne soit pas suffisamment flexible pour le permettre. Le postulat de l’UE est de considérer les smart grids comme une solution pour réduire les émissions de gaz à effet de serre par l’amélioration de l’efficacité du réseau, permettre l’utilisation de plus d’énergie renouvelable et faciliter la gestion de la demande. Cela nécessite de sensibiliser et de former les acteurs impliqués et la société concernant les enjeux et les moyens technologiques.</p>  
 
-Le projet SMAGRINET créé un hub de compétence dans le domaine des systèmes d’énergies flexibles et intelligents. Les ambitions sont d’améliorer les capacités de recherche et d’innovation des universités Européennes dans le domaine de l’énergie mais aussi d’impliquer les industriels et les acteurs territoriaux à répondre aux challenges de la transition énergétique.
+<p style="text-align:justify;">Le projet SMAGRINET créé un hub de compétence dans le domaine des systèmes d’énergies flexibles et intelligents. Les ambitions sont d’améliorer les capacités de recherche et d’innovation des universités Européennes dans le domaine de l’énergie mais aussi d’impliquer les industriels et les acteurs territoriaux à répondre aux challenges de la transition énergétique.</p>
 
 
 
 ## Objéctifs de la recherche
 
-Dans la perspective de former des acteurs avec des profils diversifié sur des notions complexes – multi-acteurs, multi-domaines, multi-échelles – tel que les smart grid, la contribution du laboratoire ERPI est d’apporter une approche inclusive permettant la co-conception et l’innovation.  
+<p style="text-align:justify;">Dans la perspective de former des acteurs avec des profils diversifié sur des notions complexes – multi-acteurs, multi-domaines, multi-échelles – tel que les smart grid, la contribution du laboratoire ERPI est d’apporter une approche inclusive permettant la co-conception et l’innovation.</p>
 
-La méthode appliquée est celle des « living lab » afin d’impliquer des acteurs représentatifs des cibles visées par la future formation pour définir les notions à aborder au travers de la résolution de cas concrets avec des industriels ou des acteurs locaux. L’objectif de la démarche est double : 1) concevoir une approche pédagogique basée sur les principes de l’enseignement mixte qui soit reproductible dans les universités partenaires, 2) identifier les contenus nécessaires à aborder. 
+<p style="text-align:justify;">La méthode appliquée est celle des « living lab » afin d’impliquer des acteurs représentatifs des cibles visées par la future formation pour définir les notions à aborder au travers de la résolution de cas concrets avec des industriels ou des acteurs locaux. L’objectif de la démarche est double : 1) concevoir une approche pédagogique basée sur les principes de l’enseignement mixte qui soit reproductible dans les universités partenaires, 2) identifier les contenus nécessaires à aborder.</p> 
 
 ## Partenariats universitaires
 

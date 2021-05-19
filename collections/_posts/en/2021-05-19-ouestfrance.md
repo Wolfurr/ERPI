@@ -1,6 +1,6 @@
 ---
 title: "What if your furniture were 3D printed using recycled plastic ?" 
-excerpt: "Projet européen INEDIT"
+excerpt: "European INEDIT project"
 ---
 
 ![](/assets/images/post/ouestfrance.png)

@@ -1,6 +1,7 @@
 ---
 title: PRINCIP -Pôle de Recherche sur l'INnovation et la Capacité à Innover des Pmi
 excerpt: "Pole de recherche sur l'innovation"
+classes: wide
 header:
   teaser: /assets/images/projects/chaire-princip/teaser.png
 last_modified_at: 2019-04-12
@@ -13,10 +14,10 @@ Funding: [UL]
 
 ## Presentation
 
-The PRINCIP Chair is a research project whose main objective is to identify and characterize the elementary skills from which it should be possible to model a capacity or capacities to innovate specific to SMEs.
+<p style="text-align:justify;">The PRINCIP Chair is a research project whose main objective is to identify and characterize the elementary skills from which it should be possible to model a capacity or capacities to innovate specific to SMEs.
 We associate this with two secondary questions:
 What are the skills and associated conditions to enable outsourcing or pooling?
-What are the levers, obstacles, conditions and specificities of co-innovation development in SMEs?
+What are the levers, obstacles, conditions and specificities of co-innovation development in SMEs?</p>
 
 AXIS 1: Development of one or more models defining the ability to innovate of an SME and the conditions for progression through learning:
 
@@ -32,7 +33,7 @@ The specific positioning of Lorraine near Germany, Luxembourg and Belgium, and t
 
 AXIS 4: Development of an "expert" digital platform Innovation on the web
 
-It will make it possible to enrich the initial model based on a case database in order to adapt it to the typologies of companies, types of innovation and organizational mechanisms and to have a quantitative approach to the practices mobilized by SMIs. This application is the core of the PMI observation, consolidation and monitoring system for the Chair and partners at the national level.
+<p style="text-align:justify;">It will make it possible to enrich the initial model based on a case database in order to adapt it to the typologies of companies, types of innovation and organizational mechanisms and to have a quantitative approach to the practices mobilized by SMIs. This application is the core of the PMI observation, consolidation and monitoring system for the Chair and partners at the national level.</p>
 
 ## Associated scientific production
 

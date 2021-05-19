@@ -1,5 +1,6 @@
 ---
 title: N-HUM-INNO Labcom
+classes: wide
 permalink: "/projects/labcom/"
 excerpt: LabCom ANR
 header:
@@ -24,26 +25,26 @@ Funding: [FR]
 ---
 ## Le Laboratoire Commun: l’Homme au Cœur des Enjeux des Mondes Numériques
 
-S’intéresse à l’étude des interactions Homme-Homme et Homme-Machine supportées par le numérique, avec la vision de : la technologie au service des hommes.
+<p style="text-align:justify;">S’intéresse à l’étude des interactions Homme-Homme et Homme-Machine supportées par le numérique, avec la vision de : la technologie au service des hommes.</p>
 
-La technologie numérique est utilisée pour aider et amplifier les capacités de prise de décision dans des environnements des plus en plus complexes (augmentation des informations à traiter, des interactions entre parties prenantes plus fréquentes, interfaces réel vs. Virtuel, etc.).
+<p style="text-align:justify;">La technologie numérique est utilisée pour aider et amplifier les capacités de prise de décision dans des environnements des plus en plus complexes (augmentation des informations à traiter, des interactions entre parties prenantes plus fréquentes, interfaces réel vs. Virtuel, etc.).</p>
 
 - Intégrer des indicateurs d’évaluation d’acceptabilité dans la conception des produits
 
 ## Objectifs
 
-L'objectif de ce programme de recherche est de développer et d'intégrer des indicateurs d'évaluation de l'acceptabilité en utilisant des capteurs psychophysiologiques (développés par TEA) dans des solutions pour l'analyse de l'activité humaine (logiciel par TEA).
+<p style="text-align:justify;">L'objectif de ce programme de recherche est de développer et d'intégrer des indicateurs d'évaluation de l'acceptabilité en utilisant des capteurs psychophysiologiques (développés par TEA) dans des solutions pour l'analyse de l'activité humaine (logiciel par TEA).</p>
 
 
 ## Des compétences, expertises et de ressources partagés
 
-Le LabCom est un programme de recherche financé par l'ANR qu’associe deux partenaires complémentaires le laboratoire ERPI et la PME TEA.
+<p style="text-align:justify;">Le LabCom est un programme de recherche financé par l'ANR qu’associe deux partenaires complémentaires le laboratoire ERPI et la PME TEA.<p style="text-align:justify;">
 
-**TEA** est une PME française leader dans la mesure de l'activité de l'homme dans des environnements réel complexes. Avec plus de 30 d'expériences dans la R&D et avec des liens forts avec des experts scientifiques. TEA développe et commercialise plusieurs produits permettant la mesure de l'activité humaine dans des environnements réels ou virtuels.
+<p style="text-align:justify;"><b>TEA</b> est une PME française leader dans la mesure de l'activité de l'homme dans des environnements réel complexes. Avec plus de 30 d'expériences dans la R&D et avec des liens forts avec des experts scientifiques. TEA développe et commercialise plusieurs produits permettant la mesure de l'activité humaine dans des environnements réels ou virtuels.</p>
 
-**ERPI** l'expertise scientifique et les connaissances dans les processus d'innovation collaborative ainsi que de l'évaluation de l'expérience en environnement immersif collaboratifs seront mis en œuvre pour le développement des démonstrateurs partagés.
+<p style="text-align:justify;"><b>ERPI</b> l'expertise scientifique et les connaissances dans les processus d'innovation collaborative ainsi que de l'évaluation de l'expérience en environnement immersif collaboratifs seront mis en œuvre pour le développement des démonstrateurs partagés.</p>
 
-Ce programme va permettre le développement des produits et solutions a TEA pour accéder à des nouveaux marches de croissance (industrie 4.0, Neuro-Marketing, smart-city …) ainsi que le développement des démonstrateurs partagés des solutions sur des marchés d'application spécifiques.
+<p style="text-align:justify;">Ce programme va permettre le développement des produits et solutions a TEA pour accéder à des nouveaux marches de croissance (industrie 4.0, Neuro-Marketing, smart-city …) ainsi que le développement des démonstrateurs partagés des solutions sur des marchés d'application spécifiques.</p>
 
 <!-- ## Associated Scientific Production -->
 

@@ -1,5 +1,6 @@
 ---
 title: 3D Soil Test
+classes: wide
 excerpt: "Des systèmes innovants pour suivre l'évolution de la matière organique dans les sols"
 header:
   teaser: "/assets/images/projects/3D-soil-test/teaser2.jpg"
@@ -14,7 +15,7 @@ last_modified_at: 2018-11-21
 
 ## Contexte du projet
 
-Le sol est un système complexe en termes de géométrie et de matériaux, ce qui entraîne des variations spatiales importantes de la structure et de la composition du sol, de l'échelle microscopique à l'échelle du terrain, de la région et du monde. Cette diversité et cette variabilité spatiales dépendent de l'utilisation des terres, de la gestion des sols, des pratiques agricoles, ainsi que des types de sol et du climat. La diversité des sols est un facteur clé qui influence les processus écologiques et le fonctionnement des sols. En raison de cette grande variabilité, il est difficile de comprendre le fonctionnement de chaque type de sol et de comparer les fonctions et les services offerts par les différents sols. Pour relever ces défis, les pédologues doivent s'ouvrir à d'autres disciplines scientifiques, en recherchant des approches et des solutions innovantes. En ce sens, l'impression 3D est un outil prometteur dans le domaine de la science des sols en raison de sa capacité à produire rapidement des structures géométriques complexes, indéfiniment reproductibles et personnalisables, dans un large éventail de matériaux contrôlés.
+<p style="text-align:justify;">Le sol est un système complexe en termes de géométrie et de matériaux, ce qui entraîne des variations spatiales importantes de la structure et de la composition du sol, de l'échelle microscopique à l'échelle du terrain, de la région et du monde. Cette diversité et cette variabilité spatiales dépendent de l'utilisation des terres, de la gestion des sols, des pratiques agricoles, ainsi que des types de sol et du climat. La diversité des sols est un facteur clé qui influence les processus écologiques et le fonctionnement des sols. En raison de cette grande variabilité, il est difficile de comprendre le fonctionnement de chaque type de sol et de comparer les fonctions et les services offerts par les différents sols. Pour relever ces défis, les pédologues doivent s'ouvrir à d'autres disciplines scientifiques, en recherchant des approches et des solutions innovantes. En ce sens, l'impression 3D est un outil prometteur dans le domaine de la science des sols en raison de sa capacité à produire rapidement des structures géométriques complexes, indéfiniment reproductibles et personnalisables, dans un large éventail de matériaux contrôlés.</p>
 
 ## Finalités du projet
 

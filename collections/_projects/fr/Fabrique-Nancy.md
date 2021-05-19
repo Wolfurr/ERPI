@@ -1,5 +1,6 @@
 ---
 title: La Fabrique Nancy Grand Coeur
+classes: wide
 excerpt: "Un démonstrateur partagé avec le Grand Nancy"
 header:
   teaser: /assets/images/projects/fabrique-nancy/teaser.jpg

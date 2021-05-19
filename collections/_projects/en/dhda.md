@@ -19,11 +19,10 @@ Industrial:
 
 ---
 
-[**"DHDA”** (Humans & Trees) project](https://www.deshommesetdesarbres.org/) involves more than 100 regional partners, the Living lab approach supports the network
-of “DHDA” relay structures and places with the public (e.g. [LF2L](http://lf2l.fr/), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.). 
+[**"DHDA"** (Humans & Trees) project](https://www.deshommesetdesarbres.org/) involves more than 100 regional partners, the Living lab approach supports the network
+of "DHDA" relay structures and places with the public (e.g. [LF2L](http://lf2l.fr/), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.).
 
-DHDA is one of the 24 national winners of the French [PIA3 - Programme d'Investissement d'Avenir](https://www.prefectures-regions.gouv.fr/occitanie/Grands-dossiers/Le-programme-des-investissements-d-avenir-PIA) action **“Territoires d’innovation”**
-(Territories of Innovation).    
+DHDA is one of the 24 national winners of the French [PIA3 - Programme d'Investissement d'Avenir](https://www.prefectures-regions.gouv.fr/occitanie/Grands-dossiers/Le-programme-des-investissements-d-avenir-PIA) action “Territoires d’innovation” (Territories of Innovation). 
 
 
 ![Graphique 1](/assets/images/projects/dhda/graph1.jpg)
@@ -35,7 +34,7 @@ DHDA is one of the 24 national winners of the French [PIA3 - Programme d'Investi
 
 The [Lorraine Smart Cities Living Lab](https://lf2l.fr/projects/lorraine-smart-cities-living-lab/) brings together several teams from the **University of Lorraine**.  
 
-In 2018, **INRAE Grand Est and AgroParisTech centre de Nancy** joined the governance of the LSCLL as part of the national **“Territories of Innovation”** challenge with the **“Des Hommes et des Arbres” project**.
+In 2018, <b>INRAE Grand Est and AgroParisTech centre de Nancy</b> joined the governance of the LSCLL as part of the national <b>“Territories of Innovation”</b> challenge with the <b>“Des Hommes et des Arbres” project</b>.
 
 It experiments, develops and capitalizes on a dynamic of universality based on:
 

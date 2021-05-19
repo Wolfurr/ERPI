@@ -1,5 +1,6 @@
 ---
 title: CAP MAT
+classes: wide
 excerpt: "CAPteurs intelligents pour la transformation des MATériaux"
 header:
   teaser: "/assets/images/projects/capmat/teaser.jpg"
@@ -53,22 +54,22 @@ Le projet CAP-MAT est cofinancé par l'Union Européenne avec le Fonds Européen
 
 ## Contexte du projet
 
-Le projet CAP-MAT s’inscrit dans une dynamique régionale autour des matériaux et des capteurs. La Lorraine est reconnue pour sa recherche d’excellence en science et technologie des matériaux et de la métallurgie. Ainsi, dans le cadre de la réponse de l’Université de Lorraine à l’appel d’offre ISITE, Lorraine Université d’Excellence (LUE), l’un des dispositifs phares est un projet portant sur les nanomatériaux pour les capteurs : N4S (Nanomaterials for Sensors) regroupant 8 laboratoires lorrains fédérés au sein des 4 thématiques autour des capteurs.
+<p style="text-align:justify;">Le projet CAP-MAT s’inscrit dans une dynamique régionale autour des matériaux et des capteurs. La Lorraine est reconnue pour sa recherche d’excellence en science et technologie des matériaux et de la métallurgie. Ainsi, dans le cadre de la réponse de l’Université de Lorraine à l’appel d’offre ISITE, Lorraine Université d’Excellence (LUE), l’un des dispositifs phares est un projet portant sur les nanomatériaux pour les capteurs : N4S (Nanomaterials for Sensors) regroupant 8 laboratoires lorrains fédérés au sein des 4 thématiques autour des capteurs.</p>
 
 
-La région accueille aussi tous les ans le World Materials Forum et sa cohorte de spécialistes mondiaux dans les domaines de matériaux.
+<p style="text-align:justify;">La région accueille aussi tous les ans le World Materials Forum et sa cohorte de spécialistes mondiaux dans les domaines de matériaux.</p>
 
-Le projet CAP-MAT se positionne dans la thématique « usine du futur » : il s’agit de développer des capteurs intelligents pour la transformation des matériaux et ce, en intégrant toute la chaine allant des ressources au produits finis. La création d’une équipe de responsables, le « bureau », permettra de centraliser les différents besoins en capteurs, mais aussi les compétences existant dans ce domaine au sein des différents acteurs de recherche et de développement de la Lorraine.
-En partant des connaissances de l’équipe pluridisciplinaire, une première sélection de capteurs sera faite pour démarrer l’étude.
+<p style="text-align:justify;">Le projet CAP-MAT se positionne dans la thématique « usine du futur » : il s’agit de développer des capteurs intelligents pour la transformation des matériaux et ce, en intégrant toute la chaine allant des ressources au produits finis. La création d’une équipe de responsables, le « bureau », permettra de centraliser les différents besoins en capteurs, mais aussi les compétences existant dans ce domaine au sein des différents acteurs de recherche et de développement de la Lorraine.
+En partant des connaissances de l’équipe pluridisciplinaire, une première sélection de capteurs sera faite pour démarrer l’étude.</p>
 
 
 
 ## Objectifs
 
-- **•	Le développement d’une « plateforme de collecte des besoins en capteurs ». Ce dispositif vise à proposer un espace pour déposer les demandes mais aussi une « boite à idées » de capteurs alimentée par la recherche au sein de l’Université de Lorraine.**
+- Le développement d’une « plateforme de collecte des besoins en capteurs ». Ce dispositif vise à proposer un espace pour déposer les demandes mais aussi une « boite à idées » de capteurs alimentée par la recherche au sein de l’Université de Lorraine.
 
-- **Le développement de 2 premiers capteurs (capteur magnétique et capteur de gaz). Ce dernier permettra de tester la suite du processus c’est-à-dire le lancement de projets de conception de nouveaux capteurs à partir d’idées émergeant dans la communauté scientifique.
-**
+- Le développement de 2 premiers capteurs (capteur magnétique et capteur de gaz). Ce dernier permettra de tester la suite du processus c’est-à-dire le lancement de projets de conception de nouveaux capteurs à partir d’idées émergeant dans la communauté scientifique.
+
 
 
 

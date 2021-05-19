@@ -1,5 +1,6 @@
 ---
 title: Orthosis 4D 
+classes: wide
 excerpt: "The Orthosis 4D project targets the manufacture of thin objects by 3D printing"
 header:
   teaser: "/assets/images/projects/orthosis/teaser.png"  
@@ -23,15 +24,15 @@ Funding: [UL]
 
 ## Global context  
 
-The advantages offered by additive processes make them particularly promising in the health sector, sport and body comfort. Each patient is unique, and it becomes possible to produce prostheses, orthoses and implants perfectly adapted to a morphology or pathology, directly from patient data, as long as they respect the mechanical requirements and the medical criteria. This project is particularly interested in the design of orthotics, soles, and external comfort elements.
+<p style="text-align:justify;">The advantages offered by additive processes make them particularly promising in the health sector, sport and body comfort. Each patient is unique, and it becomes possible to produce prostheses, orthoses and implants perfectly adapted to a morphology or pathology, directly from patient data, as long as they respect the mechanical requirements and the medical criteria. This project is particularly interested in the design of orthotics, soles, and external comfort elements.
 Parts intended to interact with the human body have precise objectives and strict requirements in terms of their mechanical behaviour and physical properties. Such parts are typically designed to partially or totally immobilize a joint while perfectly fitting morphology. Additive manufacturing opens up unique perspectives in this field: the possibility of producing complex shapes and combining several materials makes it possible to produce property gradients within the parts themselves, and to modify e.g. rigidity, damping or porosity along a shape.
-However, pathologies and morphologies change over time, and expectations regarding the properties of the same object can vary. It may also be necessary to monitor and measure the interaction between an orthosis and the treated body part. To this end, the so-called programmable materials are particularly promising. 
+However, pathologies and morphologies change over time, and expectations regarding the properties of the same object can vary. It may also be necessary to monitor and measure the interaction between an orthosis and the treated body part. To this end, the so-called programmable materials are particularly promising.</p> 
 
 
 
 ## Research Goal:  
 
-The Orthosis 4D project targets the 3D printing of thin objects (<5cm), in the fields of health, sport and body comfort: orthotics, insoles, protections, and any "plate" type element with a low relief that is required to deform in a target manner and/or to guide a deformation. The aim is both to extend the fields of application of passive structures (classic 3D printing) but also to explore, in the same application context, the manufacture of active devices (magnetism), giving objects the ability to react to their environment.  The design of articulatory prostheses and implants is excluded from the project: in this exploratory phase we wish to concentrate on cases where the stakes in terms of bio-compatibility of materials are relatively limited, and where the desired effects are essentially produced by the deformation of thin plates. 
+<p style="text-align:justify;">The Orthosis 4D project targets the 3D printing of thin objects (<5cm), in the fields of health, sport and body comfort: orthotics, insoles, protections, and any "plate" type element with a low relief that is required to deform in a target manner and/or to guide a deformation. The aim is both to extend the fields of application of passive structures (classic 3D printing) but also to explore, in the same application context, the manufacture of active devices (magnetism), giving objects the ability to react to their environment.  The design of articulatory prostheses and implants is excluded from the project: in this exploratory phase we wish to concentrate on cases where the stakes in terms of bio-compatibility of materials are relatively limited, and where the desired effects are essentially produced by the deformation of thin plates.</p> 
 
 
 ## Partnerships  
