@@ -1,6 +1,5 @@
 ---
 title: Innov4SME
-classes: wide
 excerpt: "Développer conjointement la capacité à innover et à exporter des PME"
 header:
   teaser: "/assets/images/projects/inno4sme/teaser.png"
@@ -34,13 +33,13 @@ last_modified_at: 2019-11-21
 
 ## Contexte du projet
 
-<p style="text-align:justify;">Le programme INNOV4SME fait suite à une thèse interdisciplinaire réalisée par le laboratoire ERPI (Equipe de Recherche sur les Processus Innovatifs) et le laboratoire CEREFIGE (Centre Européen de Recherche en Économie Financière et Gestion des Entreprises) de l’Université de Lorraine. Ces premières recherches exploratoires ont montré que de façon traditionnelle, l’innovation et l’export sont considérés de façon séparée tant au sein de la recherche scientifique, qu’au sein des institutions de soutien aux entreprises. Pourtant, lier innovation et export est un levier majeur pour permettre aux PME/TPE de se projeter, voire de se développer à l’international.</p> 
+Le programme INNOV4SME fait suite à une thèse interdisciplinaire réalisée par le laboratoire ERPI (Equipe de Recherche sur les Processus Innovatifs) et le laboratoire CEREFIGE (Centre Européen de Recherche en Économie Financière et Gestion des Entreprises) de l’Université de Lorraine. Ces premières recherches exploratoires ont montré que de façon traditionnelle, l’innovation et l’export sont considérés de façon séparée tant au sein de la recherche scientifique, qu’au sein des institutions de soutien aux entreprises. Pourtant, lier innovation et export est un levier majeur pour permettre aux PME/TPE de se projeter, voire de se développer à l’international. 
 
 ## Objectifs
 
-<p style="text-align:justify;">Le programme INNOV4SME, qui bénéficie du soutien financier de l’ICIT Lorraine Université d’Excellence (Plan d’Investissements d’Avenir 2 de l’ANR), vise à concevoir un outil de diagnostic capable d’évaluer les capacités qu’une PME doit développer en priorité pour améliorer simultanément ses performances en matière d’innovation et d’export. Nous envisageons à termes de pouvoir diffuser cet outil dans les structures d’accompagnement à l’innovation et à l’export.</p> 
+Le programme INNOV4SME, qui bénéficie du soutien financier de l’ICIT Lorraine Université d’Excellence (Plan d’Investissements d’Avenir 2 de l’ANR), vise à concevoir un outil de diagnostic capable d’évaluer les capacités qu’une PME doit développer en priorité pour améliorer simultanément ses performances en matière d’innovation et d’export. Nous envisageons à termes de pouvoir diffuser cet outil dans les structures d’accompagnement à l’innovation et à l’export. 
 
-<p style="text-align:justify;">Pour garantir la qualité opérationnelle de cet outil, il est nécessaire que le travail de recherche scientifique s’appuie sur des cas réels d’entreprises. Pour cela nous menons une étude comparative des PME vitivinicoles de trois pays producteurs de vin; la France, le Chili et l’Argentine. Cette étude comparative nous permettra d’identifier les synergies entre innovation et export, ainsi que l'impact du contexte de chaque pays sur la capacité d'innovation et d'exportation des PME de ce secteur particulier. L’objectif à long terme étant d’étendre cette étude à différents secteurs d’activités pour en analyser les convergences et divergences.</p> 
+Pour garantir la qualité opérationnelle de cet outil, il est nécessaire que le travail de recherche scientifique s’appuie sur des cas réels d’entreprises. Pour cela nous menons une étude comparative des PME vitivinicoles de trois pays producteurs de vin; la France, le Chili et l’Argentine. Cette étude comparative nous permettra d’identifier les synergies entre innovation et export, ainsi que l'impact du contexte de chaque pays sur la capacité d'innovation et d'exportation des PME de ce secteur particulier. L’objectif à long terme étant d’étendre cette étude à différents secteurs d’activités pour en analyser les convergences et divergences. 
 
 ## Partenariats universitaires
 

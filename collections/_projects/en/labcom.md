@@ -1,6 +1,5 @@
 ---
 title: N-HUM-INNO Labcom
-classes: wide
 permalink: "/projects/labcom/"
 excerpt: LabCom ANR
 header:
@@ -27,24 +26,24 @@ Funding: [FR]
 
 ## The Joint Research Lab: Humans at the heart of the challenges of the digital world
 
-<p style="text-align:justify;">The LabCom is centered in the study of digitally supported human-to-human and human-machine interactions, with a vision of: technology at the service of mankind.
+The LabCom is centered in the study of digitally supported human-to-human and human-machine interactions, with a vision of: technology at the service of mankind.
 
-Digital technology is used to help and amplify people's decision-making and management skills in increasingly complex environments (increasing number of data to be processed, more frequent interactions between stakeholders, Virtual vs. Real interface, etc.).</p>
+Digital technology is used to help and amplify people's decision-making and management skills in increasingly complex environments (increasing number of data to be processed, more frequent interactions between stakeholders, Virtual vs. Real interface, etc.).
 
 ## Aims
 
-<p style="text-align:justify;">The aim of this research program is to develop and further integrate Acceptability assessment indicators using psychophysiological sensors (developed by TEA) on the human activity analysis solutions (software by TEA)</p>
+The aim of this research program is to develop and further integrate Acceptability assessment indicators using psychophysiological sensors (developed by TEA) on the human activity analysis solutions (software by TEA)
 
 
 ## A gathering of skils, expertises and ressources
 
-<p style="text-align:justify;">The LabCom is a Research program financed by the ANR between the ERPI research team and the SME TEA.
+The LabCom is a Research program financed by the ANR between the ERPI research team and the SME TEA.
 
-<b>TEA</b> is a French SME leader in the market of measure of human activity in real complex environements. With more than 30 years of R&D and a stong link with scientifique expertise. TEA develops and sells several products that allow to assess human activity in real or virtual environements.
+**TEA** is a French SME leader in the market of measure of human activity in real complex environements. With more than 30 years of R&D and a stong link with scientifique expertise. TEA develops and sells several products that allow to assess human activity in real or virtual environements.
 
-<b>ERPI</b> scientific skills and knowledge on collaborative innovation processes and its expertise on user-centered innovation practices will be used to develop shared demonstrators on specific market applications.
+**ERPI** scientific skills and knowledge on collaborative innovation processes and its expertise on user-centered innovation practices will be used to develop shared demonstrators on specific market applications.
 
-This program will allow the development of products and solutions to TEA to access new growth markets (industry 4.0, Neuro-Marketing, smart-city...) as well as the development of shared demonstrators of solutions on specific application markets.</p>
+This program will allow the development of products and solutions to TEA to access new growth markets (industry 4.0, Neuro-Marketing, smart-city...) as well as the development of shared demonstrators of solutions on specific application markets.
 
 <!-- ## Associated Scientific Production -->
 

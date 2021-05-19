@@ -1,6 +1,5 @@
 ---
 title: Lorraine Smart Cities Living Lab
-classes: wide
 excerpt: "Living lab Lorrain"
 header:
   teaser: /assets/images/projects/LSCLL/teaser.png

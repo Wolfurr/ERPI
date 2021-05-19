@@ -1,6 +1,5 @@
 ---
 title: Chaire Airbus-Université de Lorraine 
-classes: wide
 excerpt: "Ingénierie de systèmes basée sur des modèles supportant la décision et la collaboration, dignes de confiance et exécutables"
 header:
   teaser: /assets/images/projects/Airbus/apercu.png
@@ -41,21 +40,21 @@ Funding : [FR]
 
 ## Contexte du projet 
 
-<p style="text-align:justify;">La chaire Airbus-Université de Lorraine est un projet de recherche et d’enseignement, engagé pour 5 ans, de 2021 à 2025.</p>  
+La chaire Airbus-Université de Lorraine est un projet de recherche et d’enseignement, engagé pour 5 ans, de 2021 à 2025.  
 
-<p style="text-align:justify;"><b>Elle entend contribuer au programme ambitieux d’Airbus, de transformation digitale de sa R&D, qui a débuté il y a deux ans** (DDMS : Digital Design Manufacturing & Services).</b></p>  
+**Elle entend contribuer au programme ambitieux d’Airbus, de transformation digitale de sa R&D, qui a débuté il y a deux ans** (DDMS : Digital Design Manufacturing & Services).  
  
-<p style="text-align:justify;">Airbus est un leader reconnu dans le domaine de l’ingénierie des systèmes complexes (ex : avion, hélicoptère, satellite, lanceur…). 
-Pour répondre à de nouveaux challenges industriels et écologiques, Airbus doit encore progresser dans ce domaine, en augmentant, par un facteur 10, le nombre d’experts et d’ingénieurs expérimentés en ingénierie système.</p>
+Airbus est un leader reconnu dans le domaine de l’ingénierie des systèmes complexes (ex : avion, hélicoptère, satellite, lanceur…). 
+Pour répondre à de nouveaux challenges industriels et écologiques, Airbus doit encore progresser dans ce domaine, en augmentant, par un facteur 10, le nombre d’experts et d’ingénieurs expérimentés en ingénierie système.
 
 ## Objectifs de la recherche
 
-<p style="text-align:justify;"><b>Cette chaire vise à élaborer une méthodologie d’Ingénierie Système</b> (IS), <b>basée sur des modèles</b> (ou MBSE – Model-Based Systems Engineering) <b>exécutables, généralisable sur les ingénieries des systèmes avion, de production et de soutien et à en préparer la diffusion</b>.</p>  
+**Cette chaire vise à élaborer une méthodologie d’Ingénierie Système** (IS), **basée sur des modèles** (ou MBSE – Model-Based Systems Engineering) **exécutables, généralisable sur les ingénieries des systèmes avion, de production et de soutien et à en préparer la diffusion**.  
 
-<p style="text-align:justify;">Le titulaire et le co-titulaire de la chaire sont Eric Bonjour (laboratoire ERPI) et Eric Levrat (laboratoire CRAN, UMR CNRS 7039), professeurs à l’Université de Lorraine.  
+Le titulaire et le co-titulaire de la chaire sont Eric Bonjour (laboratoire ERPI) et Eric Levrat (laboratoire CRAN, UMR CNRS 7039), professeurs à l’Université de Lorraine.  
 Ils ont réuni autour d’eux une équipe composée de deux membres du laboratoire ERPI (Frédérique Mayer et Alaa Hassan) et trois membres du laboratoire CRAN (David Gouyon, Pascale Marangé, Alexis Aubry). 
 Ces enseignants-chercheurs partagent des expertises complémentaires sur la chaire, en MBSE, en soutien logistique intégré, en industrie 4.0 et en adoption d’innovations. 
-Ils ont su gagner la confiance d’Airbus de par leur rayonnement national et international en ingénierie système, tant en recherche qu’en enseignement, depuis maintenant 15 ans et de par de nombreuses collaborations passées avec des ingénieurs de cette grande entreprise.</p>  
+Ils ont su gagner la confiance d’Airbus de par leur rayonnement national et international en ingénierie système, tant en recherche qu’en enseignement, depuis maintenant 15 ans et de par de nombreuses collaborations passées avec des ingénieurs de cette grande entreprise.  
 
 Trois thèses seront lancées au cours de cette chaire sur les thèmes suivants :
 
@@ -63,9 +62,9 @@ Trois thèses seront lancées au cours de cette chaire sur les thèmes suivants 
 - Thèse 2. Comment co-concevoir, avec une approche MBSE, le système principal et son système de production, pour favoriser des analyses d’impacts mutuels  et améliorer les performances de production ?
 - Thèse 3. Comment favoriser l’adoption des innovations méthodologiques induites en MBSE par les départements de R&D ?
 
-<p style="text-align:justify;">En permettant le renforcement de l’expertise en MBSE au sein de l’UL, cette chaire aura aussi des retombées favorables sur des formations de l’Université de Lorraine, qui dispensent déjà des enseignements de haut niveau dans le domaine du MBSE, comme l’ENSGSI et le Master Ingénierie des Systèmes Complexes.</p>  
+En permettant le renforcement de l’expertise en MBSE au sein de l’UL, cette chaire aura aussi des retombées favorables sur des formations de l’Université de Lorraine, qui dispensent déjà des enseignements de haut niveau dans le domaine du MBSE, comme l’ENSGSI et le Master Ingénierie des Systèmes Complexes.  
 
-<p style="text-align:justify;">Ainsi, cette chaire offre une plateforme d’échanges et d’accumulation d’expertises sur une thématique de rupture, en lien avec de grands défis industriels et sociétaux comme la transformation digitale de la R&D (nouveaux types de métiers) et l’amélioration de la compétitivité de nos entreprises (nouveaux emplois).</p>
+Ainsi, cette chaire offre une plateforme d’échanges et d’accumulation d’expertises sur une thématique de rupture, en lien avec de grands défis industriels et sociétaux comme la transformation digitale de la R&D (nouveaux types de métiers) et l’amélioration de la compétitivité de nos entreprises (nouveaux emplois).
 
 
 ![L'équipe de la chaire](/assets/images/projects/Airbus/Equipe.png)

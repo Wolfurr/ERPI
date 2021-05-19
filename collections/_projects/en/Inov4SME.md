@@ -1,6 +1,5 @@
 ---
 title: Innov4SME
-classes: wide
 excerpt: "Formalizing Innovation – export linkages for SMEs competitiveness"
 header:
   teaser: "/assets/images/projects/inno4sme/teaser.jpg"
@@ -34,13 +33,13 @@ last_modified_at: 2019-11-21
 
 ## Global context
 
-<p style="text-align:justify;">The INNOV4SME program is a continuation of an interdisciplinary thesis carried out by the ERPI laboratory (Research Team on Innovative Processes) and the CEREFIGE laboratory (European Centre for Research in Financial Economics and Business Management) of the University of Lorraine. These initial exploratory studies have shown that innovation and export are traditionally considered separately both within scientific research and within business support institutions. However, linking innovation and export is a major lever to enable SMEs to develop internationally.</p>
+The INNOV4SME program is a continuation of an interdisciplinary thesis carried out by the ERPI laboratory (Research Team on Innovative Processes) and the CEREFIGE laboratory (European Centre for Research in Financial Economics and Business Management) of the University of Lorraine. These initial exploratory studies have shown that innovation and export are traditionally considered separately both within scientific research and within business support institutions. However, linking innovation and export is a major lever to enable SMEs to develop internationally.
 
 ## Research goal
 
-<p style="text-align:justify;">The INNOV4SME project, which receives financial support from ICIT Lorraine Université d'Excellence (ANR's Plan d'Investissements d'Avenir 2), aims <b>to design a diagnostic tool capable of assessing the capacities that an SME must develop as a priority to simultaneously improve its innovation and export performance</b>. We consider to distribute this tool in innovation and export support structures in the future.</p> 
+The INNOV4SME project, which receives financial support from ICIT Lorraine Université d'Excellence (ANR's Plan d'Investissements d'Avenir 2), aims **to design a diagnostic tool capable of assessing the capacities that an SME must develop as a priority to simultaneously improve its innovation and export performance**. We consider to distribute this tool in innovation and export support structures in the future. 
 
-<p style="text-align:justify;">To guarantee the operational quality of this tool, it is necessary that scientific research work is based on real cases of companies. Then, we are conducting a comparative study of wine SMEs in three wine-producing countries: France, Chile and Argentina. This comparative study will allow us to identify the synergies between innovation and export, as well as the impact of each country's context on the innovation and export capability of SMEs in this particular sector. The long-term objective is to extend this study to different business sectors I order to analyze their convergences and divergences.</p>
+To guarantee the operational quality of this tool, it is necessary that scientific research work is based on real cases of companies. Then, we are conducting a comparative study of wine SMEs in three wine-producing countries: France, Chile and Argentina. This comparative study will allow us to identify the synergies between innovation and export, as well as the impact of each country's context on the innovation and export capability of SMEs in this particular sector. The long-term objective is to extend this study to different business sectors I order to analyze their convergences and divergences.
 
 ## Academical partnerships
 

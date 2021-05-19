@@ -1,6 +1,5 @@
 ---
 title: SMAGRINET
-classes: wide
 excerpt: "Powering smart grid expertise in Europe"
 header:
   teaser: "/assets/images/projects/smagrinet/teaser2.png"
@@ -76,16 +75,16 @@ last_modified_at: 2020-08-26
 
 ## Global context
 
-<p style="text-align:justify;">The EU aims to reduce its greenhouse gas emissions by 20% by the year 2020 and significantly more in the coming decades. This would require increasing the share of renewable energy in the electricity consumption of the EU countries however actual electricity grid is not flexible. The assumption of EU is that smart grid is the solution to reductions in emissions through improving grid efficiency, permitting further renewable energy usages and allowing further demand-side management. It requires to sensitized and train concerned actors and society concerning challenges and technologies.</p>  
+The EU aims to reduce its greenhouse gas emissions by 20% by the year 2020 and significantly more in the coming decades. This would require increasing the share of renewable energy in the electricity consumption of the EU countries however actual electricity grid is not flexible. The assumption of EU is that smart grid is the solution to reductions in emissions through improving grid efficiency, permitting further renewable energy usages and allowing further demand-side management. It requires to sensitized and train concerned actors and society concerning challenges and technologies.  
 
-<p style="text-align:justify;">The SMAGRINET project is creating a smart grid competence hub in the area of smart and flexible energy systems aiming to enhance the capacity of the European universities in energy research and innovation and to engage with industry and key societal actors to respond to the challenges of the energy transition.</p>
+The SMAGRINET project is creating a smart grid competence hub in the area of smart and flexible energy systems aiming to enhance the capacity of the European universities in energy research and innovation and to engage with industry and key societal actors to respond to the challenges of the energy transition.
 
 
 ## Research goal
 
-<p style="text-align:justify;">Given the outlook of training actors with various profils on complex concept of smart grid – muli-scale, multi-field, multi-actors, ERPI laboratory contribution is to bring an inclusive approach permitting co-design and innovation.  
+Given the outlook of training actors with various profils on complex concept of smart grid – muli-scale, multi-field, multi-actors, ERPI laboratory contribution is to bring an inclusive approach permitting co-design and innovation.  
 
-The method applied is those of “living lab” in order to involve representative actors of profiles targeted by the future training. It aims to define with them relevant concepts to tackle in the training through solving real problem with companies or local actors. The objective of the approach is to conceive a generic pedagogical approach based on blended learning principle that would be reproductible in partners university and identify concepts to tackle.</p>
+The method applied is those of “living lab” in order to involve representative actors of profiles targeted by the future training. It aims to define with them relevant concepts to tackle in the training through solving real problem with companies or local actors. The objective of the approach is to conceive a generic pedagogical approach based on blended learning principle that would be reproductible in partners university and identify concepts to tackle.
 
 ## Academical partnerships
 

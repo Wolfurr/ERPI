@@ -1,6 +1,5 @@
 ---
 title: PRINCIP -Pôle de Recherche sur l'INnovation et la Capacité à Innover des Pmi
-classes: wide
 excerpt: "Pole de recherche sur l'innovation"
 header:
   teaser: /assets/images/projects/chaire-princip/teaser.png
@@ -13,11 +12,10 @@ Funding: [UL]
 
 ## Présentation
 
-<p style="text-align:justify;">La Chaire PRINCIP est un projet de recherche ayant comme objectif principal l’identification et la caractérisation des compétences élémentaires à partir desquelles il devrait être possible de modéliser une capacité ou des capacités à innover spécifiques à des PMI.</p> 
-
+La Chaire PRINCIP est un projet de recherche ayant comme objectif principal l’identification et la caractérisation des compétences élémentaires à partir desquelles il devrait être possible de modéliser une capacité ou des capacités à innover spécifiques à des PMI.
 Nous associons à cela deux questions secondaires :
-- Quelles sont les compétences et conditions associées pour en permettre l’externalisation ou la mutualisation.
-- Quels sont les leviers, les freins, les conditions et les spécificités du développement de co-innovation dans les PMI.
+Quelles sont les compétences et conditions associées pour en permettre l’externalisation ou la mutualisation.
+Quels sont les leviers, les freins, les conditions et les spécificités du développement de co-innovation dans les PMI.
 
 ## AXE 1 : Elaboration d’un ou plusieurs modèles définissant la capacité à innover d’une PMI et les conditions de progression par apprentissage :
 
@@ -26,14 +24,14 @@ Nous associons à cela deux questions secondaires :
 - Identification et caractérisation des compétences « réseaux » - Elaboration d’un modèle réseaux de « Capacité à Innover »
 
 ## AXE 2 : Identification des processus clés et des bonnes pratiques
-<p style="text-align:justify;">Pour l’externalisation et la mutualisation des compétences, notamment dans le cas de la co-innovation.</p>
+Pour l’externalisation et la mutualisation des compétences, notamment dans le cas de la co-innovation.
 
 ## AXE 3 : Analyse comparative des pratiques innovantes
-<p style="text-align:justify;">Le positionnement spécifique de la Lorraine à proximité de l’Allemagne, le Luxembourg et la Belgique, et les relations partenariales des universités dans le cadre de l’Université de la Grande Région SAR-LOR-LUX nous permettront de mener des études comparatives, car elles sont elles-mêmes impliquées dans des projets similaires. Par ailleurs, les laboratoires ERPI et CEREFIGE sont eux-mêmes mobilisés scientifiquement et administrativement dans des réseaux internationaux (IAMOT, AIREPME).</p>
+Le positionnement spécifique de la Lorraine à proximité de l’Allemagne, le Luxembourg et la Belgique, et les relations partenariales des universités dans le cadre de l’Université de la Grande Région SAR-LOR-LUX nous permettront de mener des études comparatives, car elles sont elles-mêmes impliquées dans des projets similaires. Par ailleurs, les laboratoires ERPI et CEREFIGE sont eux-mêmes mobilisés scientifiquement et administrativement dans des réseaux internationaux (IAMOT, AIREPME).
 
 ## AXE 4 : Elaboration d’une plate-forme numérique « experte » Innovation on the web
 
-<p style="text-align:justify;">Elle permettra d’enrichir le modèle initial à partir d’une base de cas afin de l’adapter en fonction des typologies d’entreprises, des types d’innovation et des dispositifs organisationnels et d’avoir une approche quantitative des pratiques mobilisées par les PMI. Cette application est le noyau du système d’observation, de consolidation et de suivi des PMI pour la chaire et les partenaires à l’échelle nationale.</p>
+Elle permettra d’enrichir le modèle initial à partir d’une base de cas afin de l’adapter en fonction des typologies d’entreprises, des types d’innovation et des dispositifs organisationnels et d’avoir une approche quantitative des pratiques mobilisées par les PMI. Cette application est le noyau du système d’observation, de consolidation et de suivi des PMI pour la chaire et les partenaires à l’échelle nationale.
 
 
 

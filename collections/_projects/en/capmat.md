@@ -1,6 +1,5 @@
 ---
 title: CAP MAT
-classes: wide
 excerpt: "Intelligent sensors for the transformation of materials"
 header:
   teaser: "/assets/images/projects/capmat/teaser.jpg"
@@ -51,17 +50,15 @@ The CAP-MAT project is est co-financed by the European Union with European Regio
 
 ## Global context
 
-<p style="text-align:justify;">The CAP-MAT project is part of a regional dynamic around materials and sensors. Lorraine is known for its quest for excellence in materials and metallurgy science and technology. Thus, as part of the University of Lorraine's response to the ISITE call for tenders, Lorraine Université d'Excellence (LUE), one of the flagship projects is a project on nanomaterials for sensors: N4S (Nanomaterials for Sensors) bringing together 8 Lorraine laboratories federated within the 4 themes around sensors.
+The CAP-MAT project is part of a regional dynamic around materials and sensors. Lorraine is known for its quest for excellence in materials and metallurgy science and technology. Thus, as part of the University of Lorraine's response to the ISITE call for tenders, Lorraine Université d'Excellence (LUE), one of the flagship projects is a project on nanomaterials for sensors: N4S (Nanomaterials for Sensors) bringing together 8 Lorraine laboratories federated within the 4 themes around sensors.
 
 The region also hosts the annual World Materials Forum and its cohort of global materials specialists.
 The CAP-MAT project is positioned in the "Smart Factory" theme: it involves developing intelligent sensors for the transformation of materials, integrating the entire chain from resources to finished products. The creation of a team of managers, the "office", will make it possible to centralize the various sensor needs, but also the existing skills in this field within the various actors of research and development in Lorraine.
 
-Based on the knowledge of the multidisciplinary team, a first selection of sensors will be made to start the study.</p>
-
+Based on the knowledge of the multidisciplinary team, a first selection of sensors will be made to start the study.
 
 
 ## Research Goal:
-
 
 - **The development of a "sensor needs collection platform". This system aims to provide a space for submitting requests and demands but also a "suggestion box" of sensors powered by research at the University of Lorraine.**
 

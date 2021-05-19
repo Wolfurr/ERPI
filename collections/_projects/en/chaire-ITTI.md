@@ -1,6 +1,5 @@
 ---
 title: ITTI collaborative chair (Territorial Innovation and Territories in Intelligence)
-classes: wide
 excerpt: "Respond to the major challenges of transforming territories by developing innovative collaborative engineering"
 header:
   teaser: /assets/images/projects/Itti/teaser.png
@@ -32,17 +31,17 @@ partners:
 
 ## Presentation
 
-<p style="text-align:justify;">Resulting from the collaboration of the agglomerations of Thionville, Metz, Épinal and the Métropole du Grand Nancy, Sillon lorrain is the first metropolitan pole to be established in France. Today Sillon Lorrain federates associated Territories around the four founding agglomerations and their shared projects to create an original territorial space at the heart of Région Grand Est.  
+Resulting from the collaboration of the agglomerations of Thionville, Metz, Épinal and the Métropole du Grand Nancy, Sillon lorrain is the first metropolitan pole to be established in France. Today Sillon Lorrain federates associated Territories around the four founding agglomerations and their shared projects to create an original territorial space at the heart of Région Grand Est.  
 
 Bringing together research, training and development skills around the themes of collaborative and open innovation and the dynamics of territorial development, Université de Lorraine has joined forces with the Sillon Lorrain in the ITTI collaborative chair for a research-action and formative animation operation to structure a territorial collaborative innovation dynamic, practices and culture. The main objective is the construction of new forms of interaction between territories, by mobilising the skills and engineering of the partners, around the themes of collaborative and open innovation and territorial development dynamics.  
 
-The ITTI chair currently welcomes various partners (Communauté de Communes du Bassin de Pompey, Groupement d’Intérêt Public Ingénierie Territoriale pour L’Emploi – Filière Forêt Bois Epinal) and is opening up to new partnerships with territories, public organizations and companies.</p>
+The ITTI chair currently welcomes various partners (Communauté de Communes du Bassin de Pompey, Groupement d’Intérêt Public Ingénierie Territoriale pour L’Emploi – Filière Forêt Bois Epinal) and is opening up to new partnerships with territories, public organizations and companies.
 
 
 
 ## Research objectives
 
-<p style="text-align:justify;">The ITTI collaborative chair is seen as a collaborative space allowing territories and companies to be associated in an ad hoc manner in order to animate demonstrative operations: design of new methodological engineering, capitalisation of new practices, experimentation of new practices of multi-scale governance.</p>  
+The ITTI collaborative chair is seen as a collaborative space allowing territories and companies to be associated in an ad hoc manner in order to animate demonstrative operations: design of new methodological engineering, capitalisation of new practices, experimentation of new practices of multi-scale governance.  
 
 
 ## Partners
