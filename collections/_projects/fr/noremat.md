@@ -13,11 +13,14 @@ Industrial:
   alt: "Noremat Logo"
 
 partners:
-- url: "https://www.ucentral.edu.co"
-  image_path: "/assets/images/projects/noremat/univpartner.png"
+- url: "https://erpi.univ-lorraine.fr"
+  image_path: "/assets/images/projects/noremat/logoerpi.jpg"
+- url: "https://www.univ-lorraine.fr/"
+  image_path: "/assets/images/logo/logoul.png"
+- url: "https://www.ensgsi.univ-lorraine.fr"
+  image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Logos/ENSGSI/ENSGSI.jpg
 
-img-path: "/assets/images/projects/noremat/"  
-last_modified_at: 2018-11-14  
+last_modified_at: 2021-05-21 
 
 Research-field:
   - Design
@@ -54,14 +57,19 @@ La deuxième phase du projet se concentre sur le développement d’un outil d�
 
 ## Productions scientifiques associées
 
-Rodriguez, S. C. B., Mauricio, C. P., Laure, M., & Christophe, B. (2018, June). Sustainable Management of Roadside: Towards a Research Agenda. In 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC) (pp. 1-9). IEEE.
+- Rodriguez, S. C. B., Mauricio, C. P., Laure, M., & Christophe, B. (2018, June). Sustainable Management of Roadside: Towards a Research Agenda. In 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC) (pp. 1-9). IEEE.
 
+- [Bautista Rodriguez S., Marche B., Hamdani F., Camargo M., Mayer F., Bachmann C., Monticolo D.  (2020). Towards Smart and Suitable Management of Roadsides: System Dynamics in the Era of Industry 4.0. Sustainable Operations and Computers.](https://doi.org/10.1016/j.susoc.2020.12.001; hal-03119204)
+
+- [Bautista S., Camargo M., Morel L., Bachmann C. (2018). Sustainable Management of Roadside: Towards a Research Agenda. In 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC) (pp. 1-9). Stuttgart, GE.](https://doi.org/10.1109/ICE.2018.8436326)  
+
+- [Bautista, S., Camargo, M., & Bachmann, C. (2020, June). Sustainable roadside management from an innovative approach to ecosystem services and bioenergy generation. In 2020 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC) (pp. 1-6). IEEE.](https://www.researchgate.net/publication/345085926_Sustainable_roadside_management_from_an_innovative_approach_to_ecosystem_services_and_bioenergy_generation)
 
 ## Sites Internet
 
 <i class="fas fa-link"></i> [NOREMAT](https://www.noremat.fr)  
 
-<i class="fas fa-link"></i> [Universidad Central](https://www.ucentral.edu.co)  
+
 
 ##  Réseaux sociaux 
 
