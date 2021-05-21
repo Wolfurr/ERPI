@@ -39,7 +39,6 @@ Industrial:
     - image_path: "/assets/images/projects/inedit/partners/SEZ.png"    
       title: ''
       excerpt: "[Steinbeis Innovation gGmbH](https://www.steinbeis.de)"
-
     - image_path: "/assets/images/projects/inedit/partners/CRIT.png"    
       title: ''
       excerpt: "[Centro di Ricerca e Innovazione tecnologica](https://www.crit-research.it/it/)"

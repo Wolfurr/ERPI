@@ -1,5 +1,6 @@
 ---
 title: Lorraine Smart Cities Living Lab
+classes: wide
 permalink: /projects/lorraine-smart-cities-living-lab/
 excerpt: "Living lab Lorrain"
 header:

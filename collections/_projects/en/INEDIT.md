@@ -19,11 +19,9 @@ partners:
   - image_path: "/assets/images/projects/inedit/partners/ENSAM.png"
     title: ''
     excerpt: "[École nationale supérieure d'arts et métiers](https://artsetmetiers.fr/)"
-  
   - image_path: "/assets/images/projects/inedit/partners/FIR.jpg"
     title: ''
     excerpt: "[FIR - Forschungsinstitut für Rationalisierung ](https://www.fir.rwth-aachen.de/)"
-  
   - image_path: "/assets/images/projects/inedit/partners/SUPSI.png"    
     title: ''
     excerpt: "[SUPSI - Scuola universitaria professionale della Svizzera Italiana](http://www.supsi.ch/home.html)"
@@ -39,7 +37,6 @@ Industrial:
     - image_path: "/assets/images/projects/inedit/partners/SEZ.png"    
       title: ''
       excerpt: "[Steinbeis Innovation gGmbH](https://www.steinbeis.de)"
-
     - image_path: "/assets/images/projects/inedit/partners/CRIT.png"    
       title: ''
       excerpt: "[Centro di Ricerca e Innovazione tecnologica](https://www.crit-research.it/it/)"
