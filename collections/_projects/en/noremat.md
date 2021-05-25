@@ -1,5 +1,5 @@
 ---
-title: Innovative management of road dependencies
+title: SAGID
 classes: wide
 excerpt: "Design of a strategic orientation and support tool at the regional level for the rational management of roadsides"
 header:
@@ -30,6 +30,7 @@ Research-field:
 Funding: [FR]
 ---
 
+# SAGID - Innovative roadside management
 
 ## Global context
 

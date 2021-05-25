@@ -1,5 +1,5 @@
 ---
-title: Gestion Innovative des dépendances routières
+title: SAGID
 excerpt: "Conception d’un outil d’orientation stratégique et d’accompagnement à l’échelle d’un territoire pour la gestion raisonnée des bords de route"
 header:
   teaser: /assets/images/projects/noremat/teaser3.png
@@ -27,6 +27,8 @@ Research-field:
 
 Funding: [FR]
 ---
+
+# SAGID - Gestion innovante des bords de route 
 
 ## Contexte du projet 
 
