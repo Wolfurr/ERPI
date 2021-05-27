@@ -9,19 +9,17 @@ header:
 keywords: [Outil d’aide à la décision ; démonstrateur territorial ; dépendances routières]
 
 Industrial:
-- url: "http://www.noremat.com/"
-  image_path: "/assets/images/projects/noremat/industrialpartner.png"
-  alt: "Noremat Logo"
-- url: "https://www.univ-lorraine.fr/"
-  image_path: "/assets/images/logo/logoul.png"
-
-- url: "https://www.ensgsi.univ-lorraine.fr"
-  image_path: "/assets/images/logo/logogsi.png"
-
+  - url: "http://www.noremat.com/"
+    image_path: "/assets/images/projects/noremat/industrialpartner.png"
+    alt: "Noremat Logo"
+  - url: "https://www.univ-lorraine.fr/"
+    image_path: "/assets/images/logo/logoul.png"
+  - url: "https://www.ensgsi.univ-lorraine.fr"
+    image_path: "/assets/images/logo/logogsi.png"
 
 partners:
-- url: "https://www.ucentral.edu.co"
-  image_path: "/assets/images/projects/noremat/univpartner.png"
+  - url: "https://www.ucentral.edu.co"
+    image_path: "/assets/images/projects/noremat/univpartner.png"
 
 img-path: "/assets/images/projects/noremat/"  
 last_modified_at: 2018-11-14  
