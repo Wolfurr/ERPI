@@ -1,12 +1,12 @@
 ---
-title: Aurélia Geinsen
+title: Aurélia Geisen
 permalink: fr/people/Aurelia-Geisen/
 excerpt: "Responsable administrative"
 last_modified_at: 2021-05-14
-author: Aurélia-Geinsen
+author: Aurelia-Geisen
 header:
   teaser: /assets/images/people/Woman.jpg
 
-orden: Geinsen
+orden: Geisen
 role: Admin
 ---
