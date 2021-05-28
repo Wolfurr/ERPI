@@ -1,5 +1,5 @@
 ---
-title: Innovative management of road dependencies
+title: SAGID
 classes: wide
 excerpt: "Design of a strategic orientation and support tool at the regional level for the rational management of roadsides"
 header:
@@ -14,23 +14,23 @@ Industrial:
   alt: "Noremat Logo"
 
 partners:
-- url: "https://www.ucentral.edu.co"
-  image_path: "/assets/images/projects/noremat/univpartner.png"
-  - url: "https://www.univ-lorraine.fr/"
-    image_path: "/assets/images/logo/logoul.png"
+- url: "https://erpi.univ-lorraine.fr"
+  image_path: "/assets/images/projects/noremat/logoerpi.jpg"
+- url: "https://www.univ-lorraine.fr/"
+  image_path: "/assets/images/logo/logoul.png"
+- url: "https://www.ensgsi.univ-lorraine.fr"
+  image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Logos/ENSGSI/ENSGSI.jpg
 
-  - url: "https://www.ensgsi.univ-lorraine.fr"
-    image_path: "/assets/images/logo/logogsi.png"
 
-img-path: "/assets/images/projects/noremat/"  
-last_modified_at: 2018-11-14  
+last_modified_at: 2021-05-21  
 
 Research-field:
   - Design
 
 Funding: [FR]
-
 ---
+
+# SAGID - Innovative roadside management
 
 ## Global context
 
