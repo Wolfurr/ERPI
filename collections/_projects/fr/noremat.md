@@ -8,9 +8,13 @@ header:
 keywords: [Outil d’aide à la décision ; démonstrateur territorial ; dépendances routières]
 
 Industrial:
-- url: "http://www.noremat.com/"
-  image_path: "/assets/images/projects/noremat/industrialpartner.png"
-  alt: "Noremat Logo"
+  - url: "http://www.noremat.com/"
+    image_path: "/assets/images/projects/noremat/industrialpartner.png"
+    alt: "Noremat Logo"
+  - url: "https://www.univ-lorraine.fr/"
+    image_path: "/assets/images/logo/logoul.png"
+  - url: "https://www.ensgsi.univ-lorraine.fr"
+    image_path: "/assets/images/logo/logogsi.png"
 
 partners:
 - url: "https://erpi.univ-lorraine.fr"
@@ -20,7 +24,7 @@ partners:
 - url: "https://www.ensgsi.univ-lorraine.fr"
   image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Logos/ENSGSI/ENSGSI.jpg
 
-last_modified_at: 2021-05-21 
+last_modified_at: 2021-05-21
 
 Research-field:
   - Design
@@ -28,13 +32,13 @@ Research-field:
 Funding: [FR]
 ---
 
-# SAGID - Gestion innovante des bords de route 
+# SAGID - Gestion innovante des bords de route
 
-## Contexte du projet 
+## Contexte du projet
 
 Dans un contexte où les infrastructures de transport sont confrontées à des évolutions d’ordres sociétales, territoriales, politiques, techniques et technologiques, il devient primordial de revoir leur place au sein de la société. La construction et l’entretien des infrastructures de transport impliquent des éléments d’appréciations liés au rôle économique des transports, à la sécurité publique et au cadre de vie ainsi qu’à la préservation de l’environnement. Les conséquences des choix effectués, notamment en termes d’aménagement de l’espace, se répercutent sur le long terme.   
 
-Il est donc temps de rendre les stratégies de gestion des infrastructures plus résilientes et adaptées aux nouvelles conditions imposées par la planète. Force est de constater que si dans la théorie, cela paraît simple et une évidence, en pratique, la difficulté de déployer une stratégie respectueuse de l’environnement reste. Afin de faciliter la mise en place de nouvelles stratégies de gestion des dépendances routières, il est nécessaire de développer des outils d’aide à la décision permettant d’évaluer les externalités d’ordres économiques, environnementales et sociétales et donc l’impact de ces stratégies de gestion sur l’environnement et la société. 
+Il est donc temps de rendre les stratégies de gestion des infrastructures plus résilientes et adaptées aux nouvelles conditions imposées par la planète. Force est de constater que si dans la théorie, cela paraît simple et une évidence, en pratique, la difficulté de déployer une stratégie respectueuse de l’environnement reste. Afin de faciliter la mise en place de nouvelles stratégies de gestion des dépendances routières, il est nécessaire de développer des outils d’aide à la décision permettant d’évaluer les externalités d’ordres économiques, environnementales et sociétales et donc l’impact de ces stratégies de gestion sur l’environnement et la société.
 
 
 
@@ -73,7 +77,7 @@ La deuxième phase du projet se concentre sur le développement d’un outil d�
 
 
 
-##  Réseaux sociaux 
+##  Réseaux sociaux
 
 <i class="fab fa-twitter-square"></i> [NOREMAT sur Twitter](https://twitter.com/noremat_?lang=fr)  
 
@@ -82,10 +86,10 @@ La deuxième phase du projet se concentre sur le développement d’un outil d�
 
 
 
-## Contacts 
+## Contacts
 * **Brunelle MARCHE**: brunelle.marche{at}univ-lorraine.fr
 * **Mauricio CAMARGO**: mauricio.camargo{at}univ-lorraine.fr
-* **Sandra BAUTISTA**: 
+* **Sandra BAUTISTA**:
 
 
 
