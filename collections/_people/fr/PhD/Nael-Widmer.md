@@ -3,7 +3,7 @@ title: Neal Widmer
 permalink: /fr/people/Neal-Widmer/
 excerpt: "Évaluation de la maturité des processus industriels et système de recommandation pour aider aux choix technologiques et aux étapes de transformation en vue d'améliorer la performance industrielle des entreprises"
 last_modified_at: 2021-03-28
-author: Nael Widmer
+author: Neal Widmer
 header:
   teaser: /assets/images/people/PHD/Neal-Widmer.jpg
 
