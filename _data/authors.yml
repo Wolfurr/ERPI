@@ -345,22 +345,6 @@ Juan Fonseca:
       - label: "Researchgate"
         icon: "https://www.researchgate.net/profile/Juan_Fonseca_Gamboa"
         url: " "
-      
-Linda Acosta:
-  name: Linda Acosta
-  email: ' '
-  bio: "PhD"
-  avatar: "/assets/images/people/PHD/Linda-Acosta.jpeg"
-  links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: " " 
-      - label: "Researchgate"
-        icon: "ai ai-researchgate"
-        url: " "
-      - label: "LinkedIn"
-        icon: "fab fa-linkedin"
-        url: " "   
 
 Lorena Delgado:
   name: Lorena Delgado
@@ -481,30 +465,11 @@ Valentine Labouheure:
   bio: "PhD"
   avatar: "/assets/images/people/Woman.jpg"
 
-Mouna Hassani: 
-  name: Mouna Hassani 
-  email: mouna.hassani@univ-lorraine.fr
-  bio: "PhD"
-  avatar: "/assets/images/people/PHD/Mouna-HASSANI.jpg"
-  links: 
-
 Benjamin Ennesser-Serville:
   name: Benjamin Ennesser-Serville
   email: benjamin.ennesser-serville@univ-lorraine.fr
   bio: "Admin"
   avatar: "/assets/images/people/Benjamin.jpg"
-
-Frederick Fontaine:
-  name: Frederick Fontaine
-  email: frederick.fontaine@univ-lorraine.fr
-  bio: "Admin"
-  avatar: "/assets/images/people/Man.jpg"
-
-Cindy Neves:
-  name: Cindy Neves
-  email: cindy.neves@univ-lorraine.fr
-  bio: "Admin"
-  avatar: "/assets/images/people/Woman.jpg"
 
 Thomas Didier:
   name: Thomas Didier
