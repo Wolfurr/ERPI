@@ -4,7 +4,7 @@ permalink: /people/maksym-proskurin/
 excerpt: "Proposal of a Digital Innovation approach based on indicators and user experiences to improve the digital product development process"
 author: Maksym Proskurin
 header:
-  teaser: /assets/images/people/maksym.png
+  teaser: /assets/images/people/PHD/maksym.png
 
 orden: Proskurin
 role: PHD
