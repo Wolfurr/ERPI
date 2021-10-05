@@ -1,3 +1,17 @@
+Alex Gabriel:
+  name: "Alex Gabriel"
+  bio: " "
+  avatar: "/assets/images/people/Alex-Gabriel.jpg"
+  email: alex.gabriel@univ-lorraine.fr
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.fr/citations?user=6htoUl4AAAAJ&hl=en&oi=ao"
+    - label: "Researchgate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Alex-Gabriel-2"
+
+
 Laure Morel:
   name: "Laure Morel"
   email: " "
@@ -9,14 +23,14 @@ Laure Morel:
         url: "https://scholar.google.fr/citations?user=H5y9cUwAAAAJ&hl=fr"
 
 Mauricio Camargo:
-  name: Mauricio Camargo  
+  name: Mauricio Camargo
   email: " "
   bio: " "
   avatar: "/assets/images/people/Mauricio-Camargo.jpg"
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.fr/citations?user=2o5hAtIAAAAJ&hl=fr"  
+        url: "https://scholar.google.fr/citations?user=2o5hAtIAAAAJ&hl=fr"
 
 Eric Bonjour:
   name: Eric Bonjour
@@ -26,7 +40,7 @@ Eric Bonjour:
   links:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.fr/citations?user=zv4U2zIAAAAJ&hl=fr"  
+      url: "https://scholar.google.fr/citations?user=zv4U2zIAAAAJ&hl=fr"
 
 Vincent Boly:
   name: Vincent Boly
@@ -36,13 +50,13 @@ Vincent Boly:
   links:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.fr/citations?user=Md6f_7kAAAAJ&hl=fr"  
+      url: "https://scholar.google.fr/citations?user=Md6f_7kAAAAJ&hl=fr"
 
 Claudine Guidat:
   name: "Claudine Guidat"
   bio: " "
   avatar: "/assets/images/people/Claudine-Guidat.jpg"
-  email: " "  
+  email: " "
 
 Davy Monticolo:
   name: "Davy Monticolo"
@@ -52,17 +66,17 @@ Davy Monticolo:
   links:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.fr/citations?user=ttiddZkAAAAJ&hl=fr"  
+      url: "https://scholar.google.fr/citations?user=ttiddZkAAAAJ&hl=fr"
 
 Hakim Boudaoud:
-  name: "Hakim Boudaoud"  
+  name: "Hakim Boudaoud"
   bio: " "
   avatar: "/assets/images/people/Hakim-Boudaoud.jpg"
   email: " "
   links:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.fr/citations?user=9PF0MWEAAAAJ&hl=fr"  
+      url: "https://scholar.google.fr/citations?user=9PF0MWEAAAAJ&hl=fr"
 
 Alaa Hassan:
   name: "Alaa Hassan"
@@ -80,7 +94,7 @@ Raphael Bary:
   avatar: "/assets/images/people/Raphael-Bary.jpg"
   email: " "
 
-Frederique Mayer:  
+Frederique Mayer:
   name: "Frédérique Mayer"
   bio: " "
   avatar: "/assets/images/people/Frederique-Mayer.jpg"
@@ -98,7 +112,7 @@ Laurent Muller:
   links:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/laurent-muller-868398132/?ppe=1"      
+        url: "https://www.linkedin.com/in/laurent-muller-868398132/?ppe=1"
 
 Olivier Chery:
   name: Olivier Chery
@@ -127,7 +141,7 @@ Laurent Dupont:
       url: "https://www.mendeley.com/profiles/laurent-dupont2/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "http://www.linkedin.com/in/dupontl"      
+      url: "http://www.linkedin.com/in/dupontl"
 
 Manon Enjolras:
   name: Manon Enjolras
@@ -137,16 +151,16 @@ Manon Enjolras:
   links:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.fr/citations?user=yU9Xjt4AAAAJ&hl=fr&oi=ao"  
+      url: "https://scholar.google.fr/citations?user=yU9Xjt4AAAAJ&hl=fr&oi=ao"
     - label: "Researchgate"
       icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Manon_Enjolras"
     - label: "Twitter"
       icon: "fab fa-twitter-square"
-      url: "https://twitter.com/ManonEnjolras?lang=fr"  
+      url: "https://twitter.com/ManonEnjolras?lang=fr"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/manon-enjolras-86067849/"      
+      url: "https://www.linkedin.com/in/manon-enjolras-86067849/"
 
 Pascal Lhoste:
   name: "Pascal Lhoste"
@@ -158,10 +172,6 @@ Valerie Rault:
   bio: " "
   avatar: "/assets/images/people/Woman.jpg"
 
-Marie Reine Boudarel:
-  name: "Marie Reine Boudarel"
-  bio: " "
-  avatar: "/assets/images/people/MRB.jpeg"
 
 Fabio Cruz:
   name: "Fabio Cruz"
@@ -182,10 +192,10 @@ Fabio Cruz:
         url: "https://univ-lorraine.academia.edu/FabioACruzS"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/fabio-cruz/"      
+        url: "https://www.linkedin.com/in/fabio-cruz/"
       - label: "Twitter"
         icon: "fab fa-twitter-square"
-        url: "https://twitter.com/fabbiocrux"  
+        url: "https://twitter.com/fabbiocrux"
 
 Giovanny Arbelaez:
   name: "Giovanny Arbelaez"
@@ -200,10 +210,10 @@ Giovanny Arbelaez:
         url: "https://www.mendeley.com/profiles/gaarbelaez/"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/gaarbelaez"      
+        url: "https://www.linkedin.com/in/gaarbelaez"
       - label: "Twitter"
         icon: "fab fa-twitter-square"
-        url: "https://twitter.com/gaarbelaez"  
+        url: "https://twitter.com/gaarbelaez"
 
 Brunelle Marche:
   name: Brunelle Marche
@@ -213,29 +223,15 @@ Brunelle Marche:
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.fr/citations?user=O7nk8f0AAAAJ&hl=fr&oi=ao" 
+        url: "https://scholar.google.fr/citations?user=O7nk8f0AAAAJ&hl=fr&oi=ao"
       - label: "Researchgate"
         icon: "ai ai-researchgate"
         url: "https://www.researchgate.net/profile/Brunelle_Marche"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/brunelle-marche-66a93b58/"      
+        url: "https://www.linkedin.com/in/brunelle-marche-66a93b58/"
 
-Javier Arrieta:
-  name: Javier Arrieta-Escobar
-  email: ' '
-  bio: 'Postdoctoral Researcher'
-  avatar: "/assets/images/people/Javier-Arrieta.jpg"
-  links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.fr/citations?user=rL-jx-kAAAAJ&hl=fr" 
-      - label: "Researchgate"
-        icon: "ai ai-researchgate"
-        url: "https://www.researchgate.net/profile/Javier_Arrieta-Escobar"
-      - label: "LinkedIn"
-        icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/javier-arrieta-escobar-phd-59871722/?locale=en_US"   
+
 
 Fatima Ezzahra Hamdani:
   name: Fatima Ezzahra Hamdani
@@ -245,13 +241,13 @@ Fatima Ezzahra Hamdani:
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
-        url: " " 
+        url: " "
       - label: "Researchgate"
         icon: "ai ai-researchgate"
         url: " "
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: " "      
+        url: " "
 
 Ferney Osorio:
   name: Ferney Osorio
@@ -261,90 +257,15 @@ Ferney Osorio:
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.fr/citations?user=uMjJC5cAAAAJ&hl=fr&authuser=1" 
+        url: "https://scholar.google.fr/citations?user=uMjJC5cAAAAJ&hl=fr&authuser=1"
       - label: "Researchgate"
         icon: "ai ai-researchgate"
         url: "https://www.researchgate.net/profile/Ferney_Osorio"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/ferneyob/"   
+        url: "https://www.linkedin.com/in/ferneyob/"
 
-Juan David:
-  name: Juan David
-  email: ' '
-  bio: ' '
-  avatar: "/assets/images/people/ .jpg"
-  links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.fr/citations?user=O7nk8f0AAAAJ&hl=fr&oi=ao" 
-      - label: "Researchgate"
-        icon: "ai ai-researchgate"
-        url: "https://www.researchgate.net/profile/Elnaz_Asadollahiyazdi"
-      - label: "LinkedIn"
-        icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/brunelle-marche-66a93b58/"   
 
-Alice:
-  name: Alice de Bigault de Casanove
-  email: "alice.de-bigault-de-casanove@univ-lorraine.fr"
-  bio: "PhD"
-  avatar: "/assets/images/people/PHD/Alice.jpg"
-  links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.com/citations?user=6G1smyoAAAAJ&hl=en&oi=sra" 
-      - label: "Researchgate"
-        icon: "ai ai-researchgate"
-        url: "https://www.researchgate.net/profile/Alice_De_Casanove"
-      - label: "LinkedIn"
-        icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/alice-de-casanove-a59b315/"   
-
-Carlos Moya:
-  name: Carlos Moya
-  email: ' '
-  bio: "PhD"
-  avatar: "/assets/images/people/PHD/Carlos-Moya.jpg"
-  links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: " " 
-      - label: "Researchgate"
-        icon: "ai ai-researchgate"
-        url: " "
-      - label: "LinkedIn"
-        icon: "fab fa-linkedin"
-        url: " "   
-
-Jonathan Lacroix:
-  name: Jonathan Lacroix
-  email: ' '
-  bio: "PhD"
-  avatar: "/assets/images/people/PHD/Jonathan-Lacroix.jpeg"
-  links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: " " 
-      - label: "Researchgate"
-        icon: "ai ai-researchgate"
-        url: " "
-      - label: "LinkedIn"
-        icon: "fab fa-linkedin"
-        url: " "   
-
-Juan Fonseca:
-  name: Juan Fonseca
-  email: juan-david.fonseca-gamboa@univ-lorraine.fr
-  bio: "PhD"
-  avatar: "/assets/images/people/PHD/Juan-Fonseca.jpg"
-  links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.com/citations?user=6BTWhaEAAAAJ&hl=en" 
-      - label: "Researchgate"
-        icon: "https://www.researchgate.net/profile/Juan_Fonseca_Gamboa"
-        url: " "
 
 Lorena Delgado:
   name: Lorena Delgado
@@ -354,7 +275,7 @@ Lorena Delgado:
   links:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/lorena-delgado-cadena-82537a1a9/"   
+        url: "https://www.linkedin.com/in/lorena-delgado-cadena-82537a1a9/"
 
 Maxence Arnould:
   name: Maxence Arnould
@@ -364,13 +285,13 @@ Maxence Arnould:
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
-        url: " " 
+        url: " "
       - label: "Researchgate"
         icon: "ai ai-researchgate"
         url: " "
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: " "   
+        url: " "
 
 Pavlo Santander:
   name: Pavlo Santander
@@ -380,13 +301,13 @@ Pavlo Santander:
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
-        url: " " 
+        url: " "
       - label: "Researchgate"
         icon: "ai ai-researchgate"
         url: " "
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: " "   
+        url: " "
 
 Fedoua Kasmi:
   name: Fedoua Kasmi
@@ -396,68 +317,68 @@ Fedoua Kasmi:
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.com/citations?user=GDkVnwwAAAAJ&hl=fr" 
+        url: "https://scholar.google.com/citations?user=GDkVnwwAAAAJ&hl=fr"
       - label: "Researchgate"
         icon: "ai ai-researchgate"
         url: "https://www.researchgate.net/profile/Fedoua_Kasmi"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/fedoua-kasmi-183094116/"   
+        url: "https://www.linkedin.com/in/fedoua-kasmi-183094116/"
 
-Benjamin Dethine: 
-  name: Benjamin Dethine 
+Benjamin Dethine:
+  name: Benjamin Dethine
   email: benjamin.dethine@innovation-way.com
   bio: "PhD"
   avatar: "/assets/images/people/PHD/Benjamin-Dethine.jpg"
-  links: 
+  links:
       - label: "Researchgate"
         icon: "ai ai-researchgate"
         url: "https://www.researchgate.net/profile/Benjamin_Dethine2"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/benjamin-dethine"   
+        url: "https://www.linkedin.com/in/benjamin-dethine"
 
-Tu Yongqiang: 
+Tu Yongqiang:
   name: Tu Yongqiang
   email: tuyq1992@gmail.com
   bio: "PhD"
   avatar: "/assets/images/people/PHD/Tu-YONGQIANG.jpg"
-  links: 
+  links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.com/citations?user=cELZ2BMAAAAJ&hl=fr" 
+        url: "https://scholar.google.com/citations?user=cELZ2BMAAAAJ&hl=fr"
       - label: "Researchgate"
         icon: "ai ai-researchgate"
         url: "https://www.researchgate.net/profile/Yongqiang_Tu"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/勇强-涂-14a6671b5/"   
+        url: "https://www.linkedin.com/in/勇强-涂-14a6671b5/"
 
-Jose Luis: 
+Jose Luis:
   name: Jose Luis
   email: jose-luis.rivera-gil@univ-lorraine.fr
   bio: "PhD"
   avatar: "/assets/images/people/Man.jpg"
-  links: 
+  links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.com/citations?user=VWgWxRIAAAAJ&hl=es" 
+        url: "https://scholar.google.com/citations?user=VWgWxRIAAAAJ&hl=es"
       - label: "Researchgate"
         icon: "ai ai-researchgate"
         url: "https://www.researchgate.net/profile/Jose_Rivera102"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/jose-luis-rivera-gil-967059142/"   
+        url: "https://www.linkedin.com/in/jose-luis-rivera-gil-967059142/"
 
-Fangkai Xue: 
+Fangkai Xue:
   name: Fangkai Xue
   email: xue1@univ-lorraine.fr
   bio: "PhD"
   avatar: "/assets/images/people/PHD/Fangkai-XUE.jpg"
-  links: 
+  links:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/fangkai-xue"   
+        url: "https://www.linkedin.com/in/fangkai-xue"
 
 Valentine Labouheure:
   name: Valentine Labouheure
@@ -477,22 +398,22 @@ Thomas Didier:
   bio: "Admin"
   avatar: "/assets/images/people/Thomas-Didier.jpg"
 
-Guillaume Prosnot: 
+Guillaume Prosnot:
   name: Guillaume Prosnot
   email: guillaume.prosnot@univ-lorraine.fr
   bio: "PhD"
   avatar: "/assets/images/people/PHD/Guillaume-Prosnot.png"
-  links: 
+  links:
       - label: "Researchgate"
         icon: "ai ai-researchgate"
         url: "https://www.researchgate.net/profile/Guillaume_Pronost"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://linkedin.com/in/guillaume-pronost-562a53137"   
+        url: "https://linkedin.com/in/guillaume-pronost-562a53137"
 
-Tchoya-Florence Kone: 
-  name: Tchoya-Florence Kone 
-  email: tchoya-florence.kone@univ-lorraine.fr 
+Tchoya-Florence Kone:
+  name: Tchoya-Florence Kone
+  email: tchoya-florence.kone@univ-lorraine.fr
   bio: "PhD"
   avatar: "/assets/images/people/Woman.jpg"
   links:
@@ -501,11 +422,11 @@ Tchoya-Florence Kone:
         url: "https://www.researchgate.net/profile/Tchoya_Florence_Kone"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://fr.linkedin.com/in/tchoya-florence-kon%C3%A9-46b7b1ab" 
+        url: "https://fr.linkedin.com/in/tchoya-florence-kon%C3%A9-46b7b1ab"
 
-Anaelle Hily: 
-  name: Anaelle Hily 
-  email: anaelle.hily@univ-lorraine.fr 
+Anaelle Hily:
+  name: Anaelle Hily
+  email: anaelle.hily@univ-lorraine.fr
   bio: "PhD"
   avatar: "/assets/images/people/PHD/Anaelle-Hily.jpg"
   links:
@@ -514,11 +435,11 @@ Anaelle Hily:
         url: "https://www.researchgate.net/profile/Anaelle_Hily"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/ana%C3%ABlle-hily-031442153/" 
+        url: "https://www.linkedin.com/in/ana%C3%ABlle-hily-031442153/"
 
-Diana Cardenas: 
-  name: Diana Cardenas 
-  email: cardenas2@univ-lorraine.fr 
+Diana Cardenas:
+  name: Diana Cardenas
+  email: cardenas2@univ-lorraine.fr
   bio: "PhD"
   avatar: "/assets/images/people/PHD/Diana-Cardenas.jpg"
   links:
@@ -527,9 +448,9 @@ Diana Cardenas:
         url: "https://www.researchgate.net/profile/Diana_Cardenas6"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/dianamarcelacardenas/" 
+        url: "https://www.linkedin.com/in/dianamarcelacardenas/"
 
-Halima Ramdami: 
+Halima Ramdami:
   name: Halima Ramdami
   email: h.ramdani@myxtramile.com
   bio: "PhD"
@@ -540,9 +461,9 @@ Halima Ramdami:
         url: "https://www.researchgate.net/profile/Halima_Ramdani2"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/halima-ramdani-2b3511114/" 
+        url: "https://www.linkedin.com/in/halima-ramdani-2b3511114/"
 
-Marie Gribouval: 
+Marie Gribouval:
   name: Marie Gribouval
   email: marie.gribouval@univ-lorraine.fr
   bio: "PhD"
@@ -553,9 +474,9 @@ Marie Gribouval:
         url: "http://www.researchgate.net/profile/Gribouval_Marie"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/marie-gribouval-7584151b8/" 
+        url: "https://www.linkedin.com/in/marie-gribouval-7584151b8/"
 
-Neal Widmer: 
+Neal Widmer:
   name: Neal Widmer
   email: neal.widmer@univ-lorraine.fr
   bio: "PhD"
@@ -563,7 +484,7 @@ Neal Widmer:
   links:
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/neal-widmer-35a367122/" 
+        url: "https://www.linkedin.com/in/neal-widmer-35a367122/"
 
 Chedhli Masmoudi:
   name: Chedhli Masmoudi
@@ -576,25 +497,63 @@ Chedhli Masmoudi:
         url: "www.researchgate.net/profile/Chedhli-Masmoudi"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
-        url: "www.linkedin.com/in/chedhli-masmoudi/" 
+        url: "www.linkedin.com/in/chedhli-masmoudi/"
+
+Catalina Suescun:
+  name: Catalina Suescun
+  #email: @
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Catalina-Suescun.jpg"
+
+Fanny Pruvot:
+  name: Fanny Pruvot
+  #email: @
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Catalina-Suescun.jpg"
+  links:
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/fanny-pruvot-1b4262193"
+
+Juliana Serna:
+  name: Juliana Serna
+  #email: @
+  bio: "PhD"
+  avatar: "/assets/images/people/Juliana-Serna.jpg"
+
+Mariela Martinez:
+  name: Mariela Martinez
+  #email: @
+  bio: "PhD"
+  avatar: "/assets/images/people/PDH/Mariela-Martinez.jpg"
+  links:
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/marielamartinezch"
 
 
+Mathilde Schwob:
+  name: Mathilde Schwob
+  #email: @
+  bio: "PhD"
+  avatar: "/assets/images/people/IE/Mathilde-Schwob.jpg"
+  links:
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/mathilde-schwob-26754918b/"
 
-# Sandra Bautista:
-#   name: Sandra Bautista
-#   email: ' '
-#   bio: " "
-#   avatar: "/assets/images/people/Woman.jpg"  
-#   links:
-#     - label: "Google Scholar"
-#       icon: "ai ai-google-scholar-square"
-#       url: "https://scholar.google.fr/citations?user=pakR30QAAAAJ&hl=fr&oi=ao"  
-
-
-
-
-
-
-  
-
-
+Nicolas Hubert:
+  name: Nicolas Hubert
+  #email: @
+  bio: "PhD"
+  avatar: "/assets/images/people/PHD/Nicolas-Hubert.jpg"
+  links:
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/hubert-nicolas/ "
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "http://www.researchgate.net/profile/Gribouval_Marie"
+      - label: "Github"
+        icon: "fab fa-github"
+        url: "https://github.com/nicolas-hbt"
