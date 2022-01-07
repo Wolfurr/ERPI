@@ -11,6 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 #theme                    : "minimal-mistakes-jekyll"
+
 remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 #minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -111,7 +112,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   gitlab           :
   google_plus      :
   keybase          :
@@ -253,14 +254,14 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
+
 # Languages
 
 languages:
-  - 
-    - 
+  -
+    -
     - English
-  - 
+  -
     - fr
     - Français
 
@@ -271,16 +272,16 @@ layouts_dir: _jekyll/_layouts
 includes_dir: _jekyll/_includes
 
 # Collections
-collections:  
+collections:
   posts:
     output: true
     permalink: /:collection/:year/:title/
 
   publications:
     output: true
-    permalink: /:path    
+    permalink: /:path
   projects:
-    output: true    
+    output: true
   people:
     output: true
     permalink: /:collection/:path/
@@ -306,8 +307,8 @@ defaults:
       comments: false
       share: false
       related: false
-      
-  
+
+
   # _POST Folder
   - scope:
       type: posts
@@ -317,7 +318,7 @@ defaults:
       share: true
       read_time: true
       related: false
-      
+
     # en
   - scope:
       path: "_posts/en"
@@ -328,14 +329,14 @@ defaults:
   - scope:
       path: "_posts/fr"
     values:
-      lang: fr           
+      lang: fr
       permalink: /fr/:collection/:year/:title/
 
   # _pages Main Pages of the site
   - scope:
       type: pages
     values:
-      sidebar: 
+      sidebar:
         nav: ""
     # en
   - scope:
@@ -345,7 +346,7 @@ defaults:
       layout: single
       header:
         overlay_filter: 0.3
-        show_overlay_excerpt: true 
+        show_overlay_excerpt: true
     # de
   - scope:
       path: "_pages/fr"
@@ -354,31 +355,31 @@ defaults:
       layout: single
       header:
         overlay_filter: 0.3
-        show_overlay_excerpt: true 
+        show_overlay_excerpt: true
 
 
 
   # _publications
   - scope:
       type: publications
-    values:      
+    values:
       sidebar:
-        nav: ""      
+        nav: ""
     #en
   - scope:
       path: "_publications/en"
     values:
       lang: en
       sidebar:
-        nav: "publications"      
+        nav: "publications"
 
     #fr
   - scope:
       path: "_publications/fr"
     values:
-      lang: fr          
+      lang: fr
       sidebar:
-        nav: "publications"    
+        nav: "publications"
 
 
   # _projects
@@ -388,9 +389,9 @@ defaults:
       layout: single
       header:
         overlay_filter: 0.4
-        show_overlay_excerpt: true 
+        show_overlay_excerpt: true
       sidebar:
-        nav: ""      
+        nav: ""
     #en
   - scope:
       path: "_projects/en"
@@ -398,7 +399,7 @@ defaults:
       lang: en
       permalink: /:collection/:title/
       sidebar:
-        nav: "projects"        
+        nav: "projects"
     #fr
   - scope:
       path: "_projects/fr"
@@ -406,7 +407,7 @@ defaults:
       lang: fr
       permalink: /fr/:collection/:title/
       sidebar:
-        nav: "projects"        
+        nav: "projects"
 
 
 # _people
@@ -415,7 +416,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+
     #en
   - scope:
       path: "_people/en"
@@ -454,8 +455,4 @@ defaults:
 #  - scope:
 #      path: "*/de"
 #    values:
-#      lang: de  
-
-  
-
-
+#      lang: de
